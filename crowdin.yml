@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "project_id": "664276",
   "base_path": ".",
@@ -18,3 +19,8 @@
     }
   ]
 }
+=======
+files:
+  - source: /src/locale/locales/en/*.po
+    translation: /src/locale/locales/%two_letters_code%/%file_name%.po
+>>>>>>> 00677741f (Update Crowdin configuration file)
