@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-06 04:48\n"
+"PO-Revision-Date: 2024-07-08 22:48\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -840,7 +840,7 @@ msgstr "Bluesky adalah jaringan terbuka di mana Anda dapat memilih penyedia host
 
 #: src/components/ProgressGuide/List.tsx:55
 msgid "Bluesky is better with friends!"
-msgstr ""
+msgstr "Bluesky akan lebih baik bersama teman!"
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:80
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:82
@@ -889,7 +889,7 @@ msgstr ""
 #: src/components/FeedInterstitials.tsx:266
 #: src/components/FeedInterstitials.tsx:396
 msgid "Browse more suggestions"
-msgstr ""
+msgstr "Jelajahi saran lainnya"
 
 #: src/components/FeedInterstitials.tsx:289
 #: src/components/FeedInterstitials.tsx:420
@@ -1107,7 +1107,7 @@ msgstr "Periksa kotak masuk email Anda untuk kode konfirmasi dan masukkan di baw
 
 #: src/screens/Onboarding/StepInterests/index.tsx:190
 msgid "Choose 3 or more:"
-msgstr ""
+msgstr "Pilih 3 atau lebih:"
 
 #: src/screens/Onboarding/StepInterests/index.tsx:325
 msgid "Choose at least {0} more"
@@ -2585,7 +2585,7 @@ msgstr "Ikuti {name}"
 
 #: src/components/ProgressGuide/List.tsx:54
 msgid "Follow 7 accounts"
-msgstr ""
+msgstr "Ikuti 7 akun"
 
 #: src/view/com/profile/ProfileMenu.tsx:246
 #: src/view/com/profile/ProfileMenu.tsx:257
@@ -2655,7 +2655,7 @@ msgstr "mengikuti Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:195
 msgid "followed you back"
-msgstr ""
+msgstr "mengikuti anda kembali"
 
 #: src/view/com/profile/ProfileFollowers.tsx:104
 #: src/view/screens/ProfileFollowers.tsx:25
@@ -3327,7 +3327,7 @@ msgstr "Terang"
 
 #: src/components/ProgressGuide/List.tsx:48
 msgid "Like 10 posts"
-msgstr ""
+msgstr "Sukai 10 postingan"
 
 #: src/state/shell/progress-guide.tsx:162
 #: src/state/shell/progress-guide.tsx:167
@@ -3664,7 +3664,7 @@ msgstr "Film"
 
 #: src/screens/Onboarding/state.ts:91
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 #: src/components/TagMenu/index.tsx:249
 msgid "Mute"
@@ -4796,7 +4796,7 @@ msgstr "Kode QR disimpan ke rol kamera Anda!"
 
 #: src/tours/Tooltip.tsx:111
 msgid "Quick tip"
-msgstr ""
+msgstr "Tip singkat"
 
 #: src/view/com/util/post-ctrls/RepostButton.tsx:116
 #: src/view/com/util/post-ctrls/RepostButton.tsx:128
@@ -6190,7 +6190,7 @@ msgstr "Tinggi"
 
 #: src/components/ProgressGuide/Toast.tsx:150
 msgid "Tap to dismiss"
-msgstr ""
+msgstr "Ketuk untuk menutup"
 
 #: src/view/com/util/images/AutoSizedImage.tsx:70
 msgid "Tap to view fully"
