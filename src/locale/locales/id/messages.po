@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-09 05:05\n"
+"PO-Revision-Date: 2024-07-09 11:17\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -265,7 +265,7 @@ msgstr "Konfirmasi 2FA"
 
 #: src/tours/Tooltip.tsx:70
 msgid "A help tooltip"
-msgstr ""
+msgstr "Balon bantuan"
 
 #: src/view/com/util/ViewHeader.tsx:93
 #: src/view/screens/Search/Search.tsx:684
@@ -884,7 +884,7 @@ msgstr "Jelajahi akun lainnya pada halaman Jelajah"
 
 #: src/components/FeedInterstitials.tsx:411
 msgid "Browse more feeds on the Explore page"
-msgstr ""
+msgstr "Jelajahi feed lainnya pada halaman Jelajah"
 
 #: src/components/FeedInterstitials.tsx:266
 #: src/components/FeedInterstitials.tsx:396
@@ -894,7 +894,7 @@ msgstr "Jelajahi saran lainnya"
 #: src/components/FeedInterstitials.tsx:289
 #: src/components/FeedInterstitials.tsx:420
 msgid "Browse more suggestions on the Explore page"
-msgstr ""
+msgstr "Jelajahi saran lainnya pada halaman Jelajah"
 
 #: src/screens/Home/NoFeedsPinned.tsx:103
 #: src/screens/Home/NoFeedsPinned.tsx:109
@@ -1111,7 +1111,7 @@ msgstr "Pilih 3 atau lebih:"
 
 #: src/screens/Onboarding/StepInterests/index.tsx:325
 msgid "Choose at least {0} more"
-msgstr ""
+msgstr "Pilih setidaknya {0} lagi"
 
 #: src/screens/StarterPack/Wizard/index.tsx:191
 msgid "Choose Feeds"
@@ -2185,7 +2185,7 @@ msgstr "Akhir feed"
 
 #: src/tours/Tooltip.tsx:159
 msgid "End of onboarding tour window. Do not move forward. Instead, go backward for more options, or press to skip."
-msgstr ""
+msgstr "Akhir jendela tur orientasi. Jangan maju. Mundur untuk melihat opsi lainnya, atau tekan untuk melewati."
 
 #: src/view/com/modals/AddAppPasswords.tsx:160
 msgid "Enter a name for this App Password"
@@ -2508,7 +2508,7 @@ msgstr "Temukan akun untuk diikuti"
 
 #: src/tours/HomeTour.tsx:88
 msgid "Find more feeds and accounts to follow in the Explore page."
-msgstr ""
+msgstr "Temukan feed dan akun lainnya untuk diikuti di halaman Jelajah."
 
 #: src/view/screens/Search/Search.tsx:439
 msgid "Find posts and users on Bluesky"
@@ -2865,7 +2865,7 @@ msgstr "Media Sensitif"
 
 #: src/state/shell/progress-guide.tsx:166
 msgid "Half way there!"
-msgstr ""
+msgstr "Setengah jalan lagi!"
 
 #: src/view/com/modals/ChangeHandle.tsx:260
 msgid "Handle"
@@ -3332,7 +3332,7 @@ msgstr "Sukai 10 postingan"
 #: src/state/shell/progress-guide.tsx:162
 #: src/state/shell/progress-guide.tsx:167
 msgid "Like 10 posts to train the Discover feed"
-msgstr ""
+msgstr "Sukai 10 postingan untuk melatih feed Discover"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:267
 #: src/view/screens/ProfileFeed.tsx:573
@@ -3804,7 +3804,7 @@ msgstr "Alam"
 
 #: src/components/StarterPack/StarterPackCard.tsx:118
 msgid "Navigate to {0}"
-msgstr ""
+msgstr "Menuju ke {0}"
 
 #: src/view/com/util/post-embeds/ExternalLinkEmbed.tsx:73
 msgid "Navigate to starter pack"
@@ -4155,7 +4155,7 @@ msgstr "Atur ulang orientasi"
 
 #: src/tours/Tooltip.tsx:118
 msgid "Onboarding tour step {0}: {1}"
-msgstr ""
+msgstr "Tur orientasi tahap {0}: {1}"
 
 #: src/view/com/composer/Composer.tsx:522
 msgid "One or more images is missing alt text."
@@ -5967,7 +5967,7 @@ msgstr "Pengembang Perangkat Lunak"
 
 #: src/components/FeedInterstitials.tsx:378
 msgid "Some other feeds you might like"
-msgstr ""
+msgstr "Feed lainnya yang mungkin Anda suka"
 
 #: src/components/WhoCanReply.tsx:72
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:47
@@ -6046,7 +6046,7 @@ msgstr "Mulai mengobrol"
 
 #: src/tours/Tooltip.tsx:99
 msgid "Start of onboarding tour window. Do not move backward. Instead, go forward for more options, or press to skip."
-msgstr ""
+msgstr "Awal jendela tur orientasi. Jangan mundur. Maju untuk melihat opsi lainnya, atau tekan untuk melewati."
 
 #: src/lib/generate-starterpack.ts:68
 #: src/Navigation.tsx:328
@@ -6287,7 +6287,7 @@ msgstr "Kebijakan Hak Cipta telah dipindahkan ke <0/>"
 #: src/state/shell/progress-guide.tsx:172
 #: src/state/shell/progress-guide.tsx:177
 msgid "The Discover feed now knows what you like"
-msgstr ""
+msgstr "Kini feed Discover tahu apa yang Anda suka"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:348
 msgid "The experience is better in the app. Download Bluesky now and we'll pick back up where you left off."
@@ -6541,7 +6541,7 @@ msgstr "Label ini diterapkan oleh <0>{0}</0>."
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:125
 msgid "This label was applied by the author."
-msgstr "Label ini diterapkan oleh penulis."
+msgstr "Label ini diterapkan oleh pemosting."
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:165
 #~ msgid "This label was applied by you"
@@ -7447,7 +7447,7 @@ msgstr "Anda tidak memiliki feed yang disimpan."
 
 #: src/view/com/post-thread/PostThread.tsx:195
 msgid "You have blocked the author or you have been blocked by the author."
-msgstr "Anda telah memblokir atau diblokir oleh penulis ini."
+msgstr "Anda telah memblokir atau diblokir oleh pemosting ini."
 
 #: src/components/dms/MessagesListBlockedFooter.tsx:58
 msgid "You have blocked this user"
