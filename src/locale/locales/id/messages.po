@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-08 22:48\n"
+"PO-Revision-Date: 2024-07-09 05:05\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -477,7 +477,7 @@ msgstr "Lanjutan"
 
 #: src/state/shell/progress-guide.tsx:176
 msgid "Algorithm training complete!"
-msgstr ""
+msgstr "Pelatihan algoritma selesai!"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:360
 msgid "All accounts have been followed!"
@@ -880,7 +880,7 @@ msgstr "Buku"
 
 #: src/components/FeedInterstitials.tsx:281
 msgid "Browse more accounts on the Explore page"
-msgstr ""
+msgstr "Jelajahi akun lainnya pada halaman Jelajah"
 
 #: src/components/FeedInterstitials.tsx:411
 msgid "Browse more feeds on the Explore page"
@@ -2655,7 +2655,7 @@ msgstr "mengikuti Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:195
 msgid "followed you back"
-msgstr "mengikuti anda kembali"
+msgstr "mengikuti Anda kembali"
 
 #: src/view/com/profile/ProfileFollowers.tsx:104
 #: src/view/screens/ProfileFollowers.tsx:25
@@ -2773,7 +2773,7 @@ msgstr "Mulai"
 
 #: src/components/ProgressGuide/List.tsx:33
 msgid "Getting started"
-msgstr ""
+msgstr "Memulai"
 
 #: src/view/com/util/images/ImageHorzList.tsx:35
 msgid "GIF"
@@ -2810,7 +2810,7 @@ msgstr "Kembali"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:189
 msgid "Go back to previous screen"
-msgstr ""
+msgstr "Kembali ke tampilan sebelumnya"
 
 #: src/components/dms/ReportDialog.tsx:154
 #: src/components/ReportDialog/SelectReportOptionView.tsx:80
@@ -4575,7 +4575,7 @@ msgstr "Masukkan email Anda."
 
 #: src/screens/Signup/StepInfo/index.tsx:63
 msgid "Please enter your invite code."
-msgstr ""
+msgstr "Silakan masukkan kode undangan Anda."
 
 #: src/view/com/modals/DeleteAccount.tsx:253
 msgid "Please enter your password as well:"
@@ -6202,7 +6202,7 @@ msgstr ""
 
 #: src/components/ProgressGuide/List.tsx:49
 msgid "Teach our algorithm what you like"
-msgstr ""
+msgstr "Ajarkan algoritma kami apa yang Anda sukai"
 
 #: src/screens/Onboarding/index.tsx:36
 #: src/screens/Onboarding/state.ts:99
@@ -7685,7 +7685,7 @@ msgstr "Alamat email Anda belum diverifikasi. Ini merupakan langkah keamanan pen
 
 #: src/state/shell/progress-guide.tsx:161
 msgid "Your first like!"
-msgstr ""
+msgstr "Suka pertama Anda!"
 
 #: src/view/com/posts/FollowingEmptyState.tsx:43
 msgid "Your following feed is empty! Follow more users to see what's happening."
