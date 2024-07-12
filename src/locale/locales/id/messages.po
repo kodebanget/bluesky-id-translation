@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-09 11:17\n"
+"PO-Revision-Date: 2024-07-12 14:52\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1869,7 +1869,7 @@ msgstr "Temukan Feed Baru"
 
 #: src/components/ProgressGuide/List.tsx:40
 msgid "Dismiss getting started guide"
-msgstr ""
+msgstr "Tutup panduan memulai"
 
 #: src/view/screens/AccessibilitySettings.tsx:95
 msgid "Display larger alt text badges"
@@ -2540,7 +2540,7 @@ msgstr "Selesai"
 
 #: src/tours/Tooltip.tsx:149
 msgid "Finish tour and begin using the application"
-msgstr ""
+msgstr "Selesaikan tur dan mulai menggunakan aplikasi"
 
 #: src/screens/Onboarding/index.tsx:35
 msgid "Fitness"
