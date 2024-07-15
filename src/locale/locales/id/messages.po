@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-12 14:52\n"
+"PO-Revision-Date: 2024-07-15 11:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6198,7 +6198,7 @@ msgstr "Ketuk untuk melihat sepenuhnya"
 
 #: src/state/shell/progress-guide.tsx:171
 msgid "Task complete - 10 likes!"
-msgstr ""
+msgstr "Tugas selesai - 10 suka!"
 
 #: src/components/ProgressGuide/List.tsx:49
 msgid "Teach our algorithm what you like"
