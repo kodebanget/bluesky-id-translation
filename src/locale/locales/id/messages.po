@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-15 11:50\n"
+"PO-Revision-Date: 2024-07-17 03:19\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1852,7 +1852,7 @@ msgstr "Cegah aplikasi menampilkan akun saya ke pengguna yang tidak masuk"
 
 #: src/tours/HomeTour.tsx:70
 msgid "Discover learns which posts you like as you browse."
-msgstr ""
+msgstr "Feed Jelajahi mempelajari pos yang Anda sukai saat anda menjelajah."
 
 #: src/view/com/posts/FollowingEmptyState.tsx:70
 #: src/view/com/posts/FollowingEndOfFeed.tsx:71
@@ -2705,7 +2705,7 @@ msgstr "Preferensi Feed Mengikuti"
 
 #: src/tours/HomeTour.tsx:59
 msgid "Following shows the latest posts from people you follow."
-msgstr ""
+msgstr "Feed Yang Diikuti menampilkan pos terbaru dari orang-orang yang Anda ikuti."
 
 #: src/screens/Profile/Header/Handle.tsx:31
 msgid "Follows you"
@@ -2853,7 +2853,7 @@ msgstr "Buka profil"
 
 #: src/tours/Tooltip.tsx:138
 msgid "Go to the next step of the tour"
-msgstr ""
+msgstr "Lanjut ke langkah tur selanjutnya"
 
 #: src/components/dms/ConvoMenu.tsx:164
 msgid "Go to user's profile"
@@ -6158,7 +6158,7 @@ msgstr "Beralih Akun"
 
 #: src/tours/HomeTour.tsx:48
 msgid "Switch between feeds to control your experience."
-msgstr ""
+msgstr "Beralih antar feed untuk mengontrol pengalaman Anda."
 
 #: src/view/screens/Settings/index.tsx:160
 msgid "Switch to {0}"
