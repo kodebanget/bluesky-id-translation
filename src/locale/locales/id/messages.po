@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-18 05:08\n"
+"PO-Revision-Date: 2024-07-18 11:08\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -5967,7 +5967,7 @@ msgstr "Pengembang Perangkat Lunak"
 
 #: src/components/FeedInterstitials.tsx:378
 msgid "Some other feeds you might like"
-msgstr "Feed lainnya yang mungkin Anda suka"
+msgstr "Beberapa feed lain yang mungkin Anda suka"
 
 #: src/components/WhoCanReply.tsx:72
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:47
@@ -6287,7 +6287,7 @@ msgstr "Kebijakan Hak Cipta telah dipindahkan ke <0/>"
 #: src/state/shell/progress-guide.tsx:172
 #: src/state/shell/progress-guide.tsx:177
 msgid "The Discover feed now knows what you like"
-msgstr "Kini feed Discover tahu apa yang Anda suka"
+msgstr "Feed Discover kini tahu apa yang Anda sukai"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:348
 msgid "The experience is better in the app. Download Bluesky now and we'll pick back up where you left off."
