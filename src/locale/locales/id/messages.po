@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-26 14:34\n"
+"PO-Revision-Date: 2024-07-26 20:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1553,7 +1553,7 @@ msgstr "Kebijakan Hak Cipta"
 
 #: src/view/com/composer/videos/state.ts:31
 msgid "Could not compress video"
-msgstr ""
+msgstr "Tidak dapat mengompresi video"
 
 #: src/components/dms/LeaveConvoPrompt.tsx:39
 msgid "Could not leave chat"
@@ -1966,15 +1966,15 @@ msgstr "Lepaskan untuk menambahkan gambar"
 
 #: src/view/com/modals/ChangeHandle.tsx:252
 msgid "e.g. alice"
-msgstr "contoh: alice"
+msgstr "contoh: kresna"
 
 #: src/view/com/modals/EditProfile.tsx:186
 msgid "e.g. Alice Roberts"
-msgstr "contoh: Alice Roberts"
+msgstr "contoh: Langit Kresna"
 
 #: src/view/com/modals/ChangeHandle.tsx:374
 msgid "e.g. alice.com"
-msgstr "contoh: alice.com"
+msgstr "contoh: kresna.com"
 
 #: src/view/com/modals/EditProfile.tsx:204
 msgid "e.g. Artist, dog-lover, and avid reader."
@@ -2175,7 +2175,7 @@ msgstr "Aktifkan pemutar media untuk"
 #: src/view/screens/NotificationsSettings.tsx:65
 #: src/view/screens/NotificationsSettings.tsx:68
 msgid "Enable priority notifications"
-msgstr ""
+msgstr "Aktifkan notifikasi prioritas"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:145
 msgid "Enable this setting to only see replies between people you follow."
@@ -2327,7 +2327,7 @@ msgstr "Bentangkan atau ciutkan postingan lengkap yang Anda balas"
 
 #: src/view/screens/NotificationsSettings.tsx:83
 msgid "Experimental: When this preference is enabled, you'll only receive reply and quote notifications from users you follow. We'll continue to add more controls here over time."
-msgstr ""
+msgstr "Eksperimental: Jika preferensi ini diaktifkan, Anda hanya akan menerima notifikasi balasan dan kutipan dari pengguna yang Anda ikuti. Kami akan menambah lebih banyak kontrol di sini seiring waktu."
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:47
 msgid "Explicit or potentially disturbing media."
@@ -2430,7 +2430,7 @@ msgstr "Gagal menyimpan gambar: {0}"
 
 #: src/state/queries/notifications/settings.ts:39
 msgid "Failed to save notification preferences, please try again"
-msgstr ""
+msgstr "Gagal menyimpan preferensi notifikasi, silakan coba lagi"
 
 #: src/components/dms/MessageItem.tsx:224
 msgid "Failed to send"
@@ -2788,7 +2788,7 @@ msgstr "Buatkan paket pemula"
 
 #: src/view/shell/Drawer.tsx:336
 msgid "Get help"
-msgstr ""
+msgstr "Dapatkan bantuan"
 
 #: src/components/dms/MessagesNUX.tsx:168
 msgid "Get started"
@@ -4107,16 +4107,16 @@ msgstr "Kosong"
 
 #: src/view/screens/NotificationsSettings.tsx:54
 msgid "Notification filters"
-msgstr ""
+msgstr "Filter notifikasi"
 
 #: src/Navigation.tsx:331
 #: src/view/screens/Notifications.tsx:119
 msgid "Notification settings"
-msgstr ""
+msgstr "Pengaturan notifikasi"
 
 #: src/view/screens/NotificationsSettings.tsx:39
 msgid "Notification Settings"
-msgstr ""
+msgstr "Pengaturan Notifikasi"
 
 #: src/screens/Messages/Settings.tsx:124
 msgid "Notification sounds"
