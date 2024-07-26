@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-25 04:48\n"
+"PO-Revision-Date: 2024-07-26 14:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -571,11 +571,11 @@ msgstr "Masalah lain yang tidak termasuk dalam pilihan"
 
 #: src/components/dms/dialogs/NewChatDialog.tsx:36
 msgid "An issue occurred starting the chat"
-msgstr ""
+msgstr "Terjadi masalah saat memulai obrolan"
 
 #: src/components/dms/dialogs/ShareViaChatDialog.tsx:49
 msgid "An issue occurred while trying to open the chat"
-msgstr ""
+msgstr "Terjadi masalah saat mencoba membuka obrolan"
 
 #: src/components/hooks/useFollowMethods.ts:35
 #: src/components/hooks/useFollowMethods.ts:50
@@ -688,7 +688,7 @@ msgstr "Anda yakin ingin menghapus pesan ini? Pesan akan dihapus untuk Anda, tet
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:610
 msgid "Are you sure you want to delete this starter pack?"
-msgstr ""
+msgstr "Apakah Anda yakin ingin menghapus paket pemula ini?"
 
 #: src/components/dms/ConvoMenu.tsx:189
 #~ msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for other participants."
