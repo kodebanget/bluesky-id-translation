@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-28 08:48\n"
+"PO-Revision-Date: 2024-07-28 15:15\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1865,7 +1865,7 @@ msgstr "Cegah aplikasi menampilkan akun saya ke pengguna yang tidak masuk"
 
 #: src/tours/HomeTour.tsx:70
 msgid "Discover learns which posts you like as you browse."
-msgstr "Feed Jelajahi mempelajari pos yang Anda sukai saat anda menjelajah."
+msgstr "Discover mempelajari postingan mana yang Anda suka ketika Anda menjelajah."
 
 #: src/view/com/posts/FollowingEmptyState.tsx:70
 #: src/view/com/posts/FollowingEndOfFeed.tsx:71
@@ -2310,7 +2310,7 @@ msgstr "Keluar dari tampilan gambar"
 #: src/view/com/modals/ListAddRemoveUsers.tsx:89
 #: src/view/shell/desktop/Search.tsx:216
 msgid "Exits inputting search query"
-msgstr "Keluar dari memasukkan permintaan pencarian"
+msgstr "Keluar dari memasukkan kueri pencarian"
 
 #: src/view/com/lightbox/Lightbox.web.tsx:183
 msgid "Expand alt text"
@@ -2729,7 +2729,7 @@ msgstr "Preferensi Feed Mengikuti"
 
 #: src/tours/HomeTour.tsx:59
 msgid "Following shows the latest posts from people you follow."
-msgstr "Feed Yang Diikuti menampilkan pos terbaru dari orang-orang yang Anda ikuti."
+msgstr "Feed Mengikuti menampilkan postingan terbaru dari orang-orang yang Anda ikuti."
 
 #: src/screens/Profile/Header/Handle.tsx:31
 msgid "Follows you"
