@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-28 15:15\n"
+"PO-Revision-Date: 2024-07-29 14:41\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1401,7 +1401,7 @@ msgstr "Menghubungkan..."
 
 #: src/screens/Signup/index.tsx:171
 msgid "Contact support"
-msgstr "Hubungi pusat bantuan"
+msgstr "Hubungi pusat dukungan"
 
 #: src/components/moderation/LabelsOnMe.tsx:42
 #~ msgid "content"
@@ -2264,7 +2264,7 @@ msgstr "Kesalahan saat menerima respons captcha."
 #: src/screens/Onboarding/StepInterests/index.tsx:216
 #: src/view/screens/Search/Search.tsx:116
 msgid "Error:"
-msgstr "Eror:"
+msgstr "Galat:"
 
 #: src/components/dialogs/ThreadgateEditor.tsx:102
 msgid "Everybody"
