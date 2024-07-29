@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-29 14:41\n"
+"PO-Revision-Date: 2024-07-29 20:46\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -5819,7 +5819,7 @@ msgstr "Bagikan feed favorit Anda!"
 
 #: src/Navigation.tsx:242
 msgid "Shared Preferences Tester"
-msgstr ""
+msgstr "Penguji Preferensi Bersama"
 
 #: src/view/com/modals/LinkWarning.tsx:92
 msgid "Shares the linked website"
@@ -6522,7 +6522,7 @@ msgstr "Ada masalah tak terduga dalam aplikasi. Beri tahu kami jika hal ini terj
 
 #: src/screens/SignupQueued.tsx:112
 msgid "There's been a rush of new users to Bluesky! We'll activate your account as soon as we can."
-msgstr "Sedang ada lonjakan pengguna baru di Bluesky! Kami akan mengaktifkan akun Anda secepat mungkin."
+msgstr "Terjadi lonjakan pengguna baru di Bluesky! Kami akan mengaktifkan akun Anda secepat mungkin."
 
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:146
 #~ msgid "These are popular accounts you might like:"
@@ -7168,7 +7168,7 @@ msgstr "Permainan Video"
 
 #: src/view/com/composer/videos/state.ts:27
 msgid "Videos cannot be larger than 100MB"
-msgstr ""
+msgstr "Video tidak boleh lebih besar dari 100MB"
 
 #: src/screens/Profile/Header/Shell.tsx:113
 msgid "View {0}'s avatar"
