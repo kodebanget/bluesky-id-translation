@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-29 20:46\n"
+"PO-Revision-Date: 2024-07-30 14:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1328,7 +1328,7 @@ msgstr "Panduan Komunitas"
 
 #: src/screens/Onboarding/StepFinished.tsx:294
 msgid "Complete onboarding and start using your account"
-msgstr "Selesaikan onboarding dan mulai menggunakan akun Anda"
+msgstr "Selesaikan orientasi dan mulai menggunakan akun Anda"
 
 #: src/screens/Signup/index.tsx:139
 msgid "Complete the challenge"
@@ -4193,11 +4193,11 @@ msgstr "pada {str}"
 
 #: src/view/screens/Settings/index.tsx:258
 msgid "Onboarding reset"
-msgstr "Atur ulang orientasi"
+msgstr "Pengaturan ulang orientasi"
 
 #: src/tours/Tooltip.tsx:118
 msgid "Onboarding tour step {0}: {1}"
-msgstr "Tur orientasi tahap {0}: {1}"
+msgstr "Tur orientasi langkah {0}: {1}"
 
 #: src/view/com/composer/Composer.tsx:534
 msgid "One or more images is missing alt text."
@@ -5247,7 +5247,7 @@ msgstr "Kode Reset"
 #: src/view/screens/Settings/index.tsx:902
 #: src/view/screens/Settings/index.tsx:905
 msgid "Reset onboarding state"
-msgstr "Reset status onboarding"
+msgstr "Reset status orientasi"
 
 #: src/screens/Login/ForgotPasswordForm.tsx:86
 msgid "Reset password"
@@ -5260,7 +5260,7 @@ msgstr "Atur ulang status preferensi"
 
 #: src/view/screens/Settings/index.tsx:903
 msgid "Resets the onboarding state"
-msgstr "Reset status onboarding"
+msgstr "Mengatur ulang status orientasi"
 
 #: src/view/screens/Settings/index.tsx:883
 msgid "Resets the preferences state"
