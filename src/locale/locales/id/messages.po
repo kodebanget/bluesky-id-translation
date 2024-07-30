@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-30 14:55\n"
+"PO-Revision-Date: 2024-07-30 21:38\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -708,7 +708,7 @@ msgstr "Apakah Anda yakin ingin menghapus ini dari daftar feed Anda?"
 
 #: src/view/com/composer/Composer.tsx:680
 msgid "Are you sure you'd like to discard this draft?"
-msgstr "Anda yakin untuk membuang draf ini?"
+msgstr "Anda yakin ingin membuang draf ini?"
 
 #: src/components/dialogs/MutedWords.tsx:281
 msgid "Are you sure?"
@@ -4197,7 +4197,7 @@ msgstr "Pengaturan ulang orientasi"
 
 #: src/tours/Tooltip.tsx:118
 msgid "Onboarding tour step {0}: {1}"
-msgstr "Tur orientasi langkah {0}: {1}"
+msgstr "Langkah {0} tur orientasi: {1}"
 
 #: src/view/com/composer/Composer.tsx:534
 msgid "One or more images is missing alt text."
@@ -5256,7 +5256,7 @@ msgstr "Reset kata sandi"
 #: src/view/screens/Settings/index.tsx:882
 #: src/view/screens/Settings/index.tsx:885
 msgid "Reset preferences state"
-msgstr "Atur ulang status preferensi"
+msgstr "Reset status preferensi"
 
 #: src/view/screens/Settings/index.tsx:903
 msgid "Resets the onboarding state"
@@ -5264,7 +5264,7 @@ msgstr "Mengatur ulang status orientasi"
 
 #: src/view/screens/Settings/index.tsx:883
 msgid "Resets the preferences state"
-msgstr "Reset status preferensi"
+msgstr "Mengatur ulang status preferensi"
 
 #: src/screens/Login/LoginForm.tsx:312
 msgid "Retries login"
