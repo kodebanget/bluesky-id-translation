@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-04 12:57\n"
+"PO-Revision-Date: 2024-08-04 13:05\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6288,7 +6288,7 @@ msgstr "Tugas selesai - 10 suka!"
 
 #: src/components/ProgressGuide/List.tsx:49
 msgid "Teach our algorithm what you like"
-msgstr "Ajarkan algoritma kami apa yang Anda sukai"
+msgstr "Latih algoritma kami dengan apa yang Anda sukai"
 
 #: src/screens/Onboarding/index.tsx:36
 #: src/screens/Onboarding/state.ts:99
