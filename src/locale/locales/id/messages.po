@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-07-30 21:38\n"
+"PO-Revision-Date: 2024-08-04 12:57\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -4508,7 +4508,7 @@ msgstr "Jeda"
 #: src/screens/StarterPack/StarterPackScreen.tsx:170
 #: src/view/screens/Search/Search.tsx:369
 msgid "People"
-msgstr "Orang"
+msgstr "Profil"
 
 #: src/Navigation.tsx:178
 msgid "People followed by @{0}"
@@ -7019,7 +7019,7 @@ msgstr "Gunakan peramban dalam aplikasi"
 #: src/view/com/modals/InAppBrowserConsent.tsx:66
 #: src/view/com/modals/InAppBrowserConsent.tsx:68
 msgid "Use my default browser"
-msgstr "Gunakan peramban bawaan saya"
+msgstr "Gunakan peramban baku saya"
 
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:53
 msgid "Use recommended"
