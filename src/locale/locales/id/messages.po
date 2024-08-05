@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-04 13:05\n"
+"PO-Revision-Date: 2024-08-05 12:56\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -676,7 +676,7 @@ msgstr "Tambahkan feed bawaan yang direkomendasikan"
 
 #: src/view/screens/AppPasswords.tsx:282
 msgid "Are you sure you want to delete the app password \"{name}\"?"
-msgstr "Apakah Anda yakin ingin menghapus sandi aplikasi \"{name}\"?"
+msgstr "Anda yakin ingin menghapus sandi aplikasi \"{name}\"?"
 
 #: src/components/dms/MessageMenu.tsx:123
 #~ msgid "Are you sure you want to delete this message? The message will be deleted for you, but not for other participants."
@@ -688,7 +688,7 @@ msgstr "Anda yakin ingin menghapus pesan ini? Pesan akan dihapus untuk Anda, tet
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:610
 msgid "Are you sure you want to delete this starter pack?"
-msgstr "Apakah Anda yakin ingin menghapus paket pemula ini?"
+msgstr "Anda yakin ingin menghapus paket pemula ini?"
 
 #: src/components/dms/ConvoMenu.tsx:189
 #~ msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for other participants."
