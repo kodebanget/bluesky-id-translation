@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-24 04:48\n"
+"PO-Revision-Date: 2024-08-25 08:58\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -84,7 +84,7 @@ msgstr "{0, plural, other {postingan}}"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:413
 msgid "{0, plural, one {quote} other {quotes}}"
-msgstr ""
+msgstr "{0, plural, other {kutipan}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:233
 msgid "{0, plural, one {Reply (# reply)} other {Reply (# replies)}}"
@@ -101,12 +101,12 @@ msgstr "{0, plural, other {Batal suka (# menyukai)}}"
 #. Pattern: {wordValue} in tags
 #: src/components/dialogs/MutedWords.tsx:475
 msgid "{0} <0>in <1>tags</1></0>"
-msgstr ""
+msgstr "{0} <0>dalam <1>tagar</1></0>"
 
 #. Pattern: {wordValue} in text, tags
 #: src/components/dialogs/MutedWords.tsx:465
 msgid "{0} <0>in <1>text & tags</1></0>"
-msgstr ""
+msgstr "{0} <0>dalam <1>teks dan tagar</1></0>"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:228
 msgid "{0} joined this week"
@@ -243,7 +243,7 @@ msgstr "<0>{0}</0> sudah disertakan dalam paket pemula Anda"
 
 #: src/components/WhoCanReply.tsx:274
 msgid "<0>{0}</0> members"
-msgstr ""
+msgstr "Anggota <0>{0}</0>"
 
 #: src/components/ProfileHoverCard/index.web.tsx:437
 #~ msgid "<0>{followers} </0><1>{pluralizedFollowers}</1>"
@@ -1919,7 +1919,7 @@ msgstr ""
 
 #: src/components/WhoCanReply.tsx:175
 msgid "Dialog: adjust who can interact with this post"
-msgstr ""
+msgstr "Dialog: atur siapa saja yang dapat berinteraksi dengan postingan ini"
 
 #: src/view/com/composer/Composer.tsx:327
 msgid "Did you want to say anything?"
@@ -2422,7 +2422,7 @@ msgstr "Semua orang dapat membalas"
 
 #: src/components/WhoCanReply.tsx:213
 msgid "Everybody can reply to this post."
-msgstr ""
+msgstr "Semua orang dapat membalas postingan ini."
 
 #: src/components/dms/MessagesNUX.tsx:131
 #: src/components/dms/MessagesNUX.tsx:134
@@ -4254,7 +4254,7 @@ msgstr "Tidak seorang pun"
 
 #: src/components/WhoCanReply.tsx:237
 msgid "No one but the author can quote this post."
-msgstr ""
+msgstr "Tak seorang pun dapat mengutip postingan ini selain pemosting."
 
 #: src/screens/Profile/Sections/Feed.tsx:59
 msgid "No posts yet."
@@ -4455,7 +4455,7 @@ msgstr "Hanya mendukung berkas .jpg dan .png"
 
 #: src/components/WhoCanReply.tsx:217
 msgid "Only {0} can reply."
-msgstr ""
+msgstr "Hanya {0} yang dapat membalas."
 
 #: src/screens/Signup/StepHandle.tsx:150
 msgid "Only contains letters, numbers, and hyphens"
@@ -5394,7 +5394,7 @@ msgstr "Balasan dinonaktifkan"
 
 #: src/components/WhoCanReply.tsx:215
 msgid "Replies to this post are disabled."
-msgstr ""
+msgstr "Balasan ke postingan ini dinonaktifkan."
 
 #: src/components/WhoCanReply.tsx:243
 #~ msgid "Replies to this thread are disabled"
@@ -6686,7 +6686,7 @@ msgstr "Menu tagar: {displayTag}"
 
 #: src/components/dialogs/MutedWords.tsx:282
 msgid "Tags only"
-msgstr ""
+msgstr "Hanya tagar"
 
 #: src/view/com/modals/crop-image/CropImage.web.tsx:135
 msgid "Tall"
@@ -6754,7 +6754,7 @@ msgstr "Istilah yang digunakan melanggar standar komunitas"
 
 #: src/components/dialogs/MutedWords.tsx:266
 msgid "Text & tags"
-msgstr ""
+msgstr "Teks & tagar"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:266
 #: src/screens/Messages/Conversation/ChatDisabled.tsx:108
@@ -7614,7 +7614,7 @@ msgstr "Pengguna"
 
 #: src/components/WhoCanReply.tsx:258
 msgid "users followed by <0>@{0}</0>"
-msgstr ""
+msgstr "pengguna yang diikuti <0>@{0}</0>"
 
 #: src/components/dms/MessagesNUX.tsx:140
 #: src/components/dms/MessagesNUX.tsx:143
@@ -7907,7 +7907,7 @@ msgstr "Bahasa apa yang ingin Anda lihat di feed algoritmik Anda?"
 
 #: src/components/WhoCanReply.tsx:179
 msgid "Who can interact with this post?"
-msgstr ""
+msgstr "Siapa yang dapat berinteraksi dengan postingan ini?"
 
 #: src/components/dms/MessagesNUX.tsx:110
 #: src/components/dms/MessagesNUX.tsx:124
