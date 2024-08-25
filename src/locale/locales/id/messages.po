@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-25 08:58\n"
+"PO-Revision-Date: 2024-08-25 15:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -280,7 +280,7 @@ msgstr "⚠Panggilan Tidak Valid"
 
 #: src/components/dialogs/MutedWords.tsx:193
 msgid "24 hours"
-msgstr ""
+msgstr "24 jam"
 
 #: src/screens/Login/LoginForm.tsx:266
 msgid "2FA Confirmation"
@@ -288,11 +288,11 @@ msgstr "Konfirmasi 2FA"
 
 #: src/components/dialogs/MutedWords.tsx:232
 msgid "30 days"
-msgstr ""
+msgstr "30 hari"
 
 #: src/components/dialogs/MutedWords.tsx:217
 msgid "7 days"
-msgstr ""
+msgstr "7 hari"
 
 #: src/tours/Tooltip.tsx:70
 msgid "A help tooltip"
@@ -2027,7 +2027,7 @@ msgstr "Panel DNS"
 
 #: src/components/dialogs/MutedWords.tsx:302
 msgid "Do not apply this mute word to users you follow"
-msgstr ""
+msgstr "Jangan bisukan kata ini pada pengguna yang Anda ikuti"
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:39
 msgid "Does not include nudity."
@@ -2094,7 +2094,7 @@ msgstr "Lepaskan untuk menambahkan gambar"
 
 #: src/components/dialogs/MutedWords.tsx:153
 msgid "Duration:"
-msgstr ""
+msgstr "Durasi:"
 
 #: src/view/com/modals/ChangeHandle.tsx:252
 msgid "e.g. alice"
@@ -2441,11 +2441,11 @@ msgstr "Pesan yang berlebihan atau tidak diinginkan"
 
 #: src/components/dialogs/MutedWords.tsx:311
 msgid "Exclude users you follow"
-msgstr ""
+msgstr "Kecualikan pengguna yang Anda ikuti"
 
 #: src/components/dialogs/MutedWords.tsx:514
 msgid "Excludes users you follow"
-msgstr ""
+msgstr "Mengecualikan pengguna yang Anda ikuti"
 
 #: src/view/com/modals/DeleteAccount.tsx:293
 msgid "Exits account deletion process"
@@ -2486,11 +2486,11 @@ msgstr "Eksperimental: Jika preferensi ini diaktifkan, Anda hanya akan menerima 
 
 #: src/components/dialogs/MutedWords.tsx:500
 msgid "Expired"
-msgstr ""
+msgstr "Kedaluwarsa"
 
 #: src/components/dialogs/MutedWords.tsx:502
 msgid "Expires {0}"
-msgstr ""
+msgstr "Kedaluwarsa pada {0}"
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:47
 msgid "Explicit or potentially disturbing media."
@@ -2916,7 +2916,7 @@ msgstr "Untuk alasan keamanan, Anda tidak akan dapat melihat ini lagi. Jika Anda
 
 #: src/components/dialogs/MutedWords.tsx:178
 msgid "Forever"
-msgstr ""
+msgstr "Selamanya"
 
 #: src/screens/Login/index.tsx:129
 #: src/screens/Login/index.tsx:144
@@ -3948,7 +3948,7 @@ msgstr "Bisukan percakapan"
 
 #: src/components/dialogs/MutedWords.tsx:253
 msgid "Mute in:"
-msgstr ""
+msgstr "Bisukan di:"
 
 #: src/view/screens/ProfileList.tsx:734
 msgid "Mute list"
@@ -3965,15 +3965,15 @@ msgstr "Bisukan akun-akun ini?"
 
 #: src/components/dialogs/MutedWords.tsx:185
 msgid "Mute this word for 24 hours"
-msgstr ""
+msgstr "Bisukan kata ini selama 24 jam"
 
 #: src/components/dialogs/MutedWords.tsx:224
 msgid "Mute this word for 30 days"
-msgstr ""
+msgstr "Bisukan kata ini selama 30 hari"
 
 #: src/components/dialogs/MutedWords.tsx:209
 msgid "Mute this word for 7 days"
-msgstr ""
+msgstr "Bisukan kata ini selama 7 hari"
 
 #: src/components/dialogs/MutedWords.tsx:258
 msgid "Mute this word in post text and tags"
@@ -3985,7 +3985,7 @@ msgstr "Bisukan kata ini hanya dalam tagar"
 
 #: src/components/dialogs/MutedWords.tsx:170
 msgid "Mute this word until you unmute it"
-msgstr ""
+msgstr "Bisukan kata ini sampai Anda membatalkannya"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:465
 #: src/view/com/util/forms/PostDropdownBtn.tsx:471
@@ -4693,7 +4693,7 @@ msgstr "Jika perlu, berikan informasi tambahan di bawah ini:"
 
 #: src/components/dialogs/MutedWords.tsx:299
 msgid "Options:"
-msgstr ""
+msgstr "Opsi:"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:388
 msgid "Or combine these options:"
@@ -4995,7 +4995,7 @@ msgstr "Postingan"
 
 #: src/components/dialogs/MutedWords.tsx:115
 msgid "Posts can be muted based on their text, their tags, or both. We recommend avoiding common words that appear in many posts, since it can result in no posts being shown."
-msgstr ""
+msgstr "Postingan dapat dibisukan berdasarkan teks, tagar, atau keduanya. Sebaiknya hindari kata umum yang sering muncul dalam postingan, karena dapat mengakibatkan tidak adanya postingan yang ditampilkan."
 
 #: src/view/com/posts/FeedErrorMessage.tsx:68
 msgid "Posts hidden"
@@ -5920,7 +5920,7 @@ msgstr "Pilih GIF \"{0}\""
 
 #: src/components/dialogs/MutedWords.tsx:142
 msgid "Select how long to mute this word for."
-msgstr ""
+msgstr "Pilih berapa lama kata ini akan dibisukan."
 
 #: src/view/screens/LanguageSettings.tsx:303
 msgid "Select languages"
@@ -5960,7 +5960,7 @@ msgstr "Pilih video"
 
 #: src/components/dialogs/MutedWords.tsx:242
 msgid "Select what content this mute word should apply to."
-msgstr ""
+msgstr "Pilih di konten mana saja kata ini akan dibisukan."
 
 #: src/screens/Onboarding/StepModeration/index.tsx:63
 #~ msgid "Select what you want to see (or not see), and we’ll handle the rest."
@@ -7195,7 +7195,7 @@ msgstr "Pengguna ini tidak mengikuti siapa pun."
 
 #: src/components/dialogs/MutedWords.tsx:435
 msgid "This will delete \"{0}\" from your muted words. You can always add it back later."
-msgstr ""
+msgstr "Ini akan menghapus \"{0}\" dari daftar kata yang Anda bisukan. Anda tetap dapat menambahkannya lagi nanti."
 
 #: src/components/dialogs/MutedWords.tsx:283
 #~ msgid "This will delete {0} from your muted words. You can always add it back later."
