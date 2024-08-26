@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-25 15:34\n"
+"PO-Revision-Date: 2024-08-26 20:22\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -540,7 +540,7 @@ msgstr ""
 
 #: src/view/screens/AppPasswords.tsx:271
 msgid "Allows access to direct messages"
-msgstr ""
+msgstr "Mengizinkan akses ke pesan langsung"
 
 #: src/screens/Login/ForgotPasswordForm.tsx:178
 #: src/view/com/modals/ChangePassword.tsx:171
@@ -599,7 +599,7 @@ msgstr "Terjadi kesalahan saat membuat paket pemula. Coba lagi?"
 #: src/view/com/util/post-embeds/VideoEmbed.tsx:69
 #: src/view/com/util/post-embeds/VideoEmbed.web.tsx:150
 msgid "An error occurred while loading the video. Please try again later."
-msgstr ""
+msgstr "Terjadi kesalahan saat memuat video. Silakan coba lagi nanti."
 
 #: src/components/StarterPack/ShareDialog.tsx:79
 #~ msgid "An error occurred while saving the image."
@@ -621,7 +621,7 @@ msgstr "Terjadi kesalahan saat mencoba mengikuti semua"
 
 #: src/state/queries/video/video.ts:112
 msgid "An error occurred while uploading the video."
-msgstr ""
+msgstr "Terjadi kesalahan saat mengunggah video."
 
 #: src/lib/moderation/useReportOptions.ts:28
 msgid "An issue not included in these options"
@@ -1426,7 +1426,7 @@ msgstr "Tulis balasan"
 
 #: src/view/com/composer/videos/VideoTranscodeProgress.tsx:51
 msgid "Compressing..."
-msgstr ""
+msgstr "Mengompresi..."
 
 #: src/screens/Onboarding/StepModeration/ModerationOption.tsx:81
 #~ msgid "Configure content filtering setting for category: {0}"
@@ -1760,7 +1760,7 @@ msgstr "Sesuaikan media dari situs eksternal."
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:288
 msgid "Customize who can interact with this post."
-msgstr ""
+msgstr "Atur siapa yang dapat berinteraksi dengan postingan ini."
 
 #: src/screens/Settings/AppearanceSettings.tsx:95
 #: src/screens/Settings/AppearanceSettings.tsx:97
@@ -1777,7 +1777,7 @@ msgstr "Mode gelap"
 #: src/screens/Settings/AppearanceSettings.tsx:109
 #: src/screens/Settings/AppearanceSettings.tsx:114
 msgid "Dark theme"
-msgstr ""
+msgstr "Tema gelap"
 
 #: src/view/screens/Settings/index.tsx:473
 #~ msgid "Dark Theme"
@@ -3638,7 +3638,7 @@ msgstr ""
 
 #: src/view/screens/ProfileList.tsx:159
 msgid "List Hidden"
-msgstr ""
+msgstr "Daftar Disembunyikan"
 
 #: src/view/screens/ProfileList.tsx:386
 msgid "List muted"
@@ -3867,7 +3867,7 @@ msgstr "Daftar Moderasi"
 
 #: src/components/moderation/LabelPreference.tsx:247
 msgid "moderation settings"
-msgstr ""
+msgstr "pengaturan moderasi"
 
 #: src/view/screens/Settings/index.tsx:521
 msgid "Moderation settings"
@@ -4717,7 +4717,7 @@ msgstr "Akun lainnya"
 
 #: src/view/screens/Settings/index.tsx:379
 msgid "Other accounts"
-msgstr ""
+msgstr "Akun lainnya"
 
 #: src/view/com/composer/select-language/SelectLangBtn.tsx:92
 msgid "Other..."
@@ -5175,7 +5175,7 @@ msgstr ""
 
 #: src/view/com/post-thread/PostThreadItem.tsx:230
 msgid "Quotes of this post"
-msgstr ""
+msgstr "Kutipan postingan ini"
 
 #: src/view/screens/PreferencesThreads.tsx:80
 msgid "Random (aka \"Poster's Roulette\")"
@@ -5296,11 +5296,11 @@ msgstr "Hapus dari daftar feed saya?"
 
 #: src/view/com/util/AccountDropdownBtn.tsx:53
 msgid "Remove from quick access?"
-msgstr ""
+msgstr "Hapus dari akses cepat?"
 
 #: src/screens/List/ListHiddenScreen.tsx:156
 msgid "Remove from saved feeds"
-msgstr ""
+msgstr "Hapus dari feed tersimpan"
 
 #: src/view/com/composer/photos/Gallery.tsx:174
 msgid "Remove image"
@@ -5355,7 +5355,7 @@ msgstr "Dihapus dari daftar feed saya"
 #: src/screens/List/ListHiddenScreen.tsx:94
 #: src/screens/List/ListHiddenScreen.tsx:160
 msgid "Removed from saved feeds"
-msgstr ""
+msgstr "Dihapus dari feed tersimpan"
 
 #: src/view/com/posts/FeedShutdownMsg.tsx:44
 #: src/view/screens/ProfileFeed.tsx:192
@@ -5412,12 +5412,12 @@ msgstr "Balas"
 #: src/components/moderation/ModerationDetailsDialog.tsx:115
 #: src/lib/moderation/useModerationCauseDescription.ts:123
 msgid "Reply Hidden by Thread Author"
-msgstr ""
+msgstr "Balasan Disembunyikan oleh Pembuat Utas"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:114
 #: src/lib/moderation/useModerationCauseDescription.ts:122
 msgid "Reply Hidden by You"
-msgstr ""
+msgstr "Balasan yang Anda Sembunyikan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:355
 msgid "Reply settings"
@@ -5589,7 +5589,7 @@ msgstr "memposting ulang postingan Anda"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:209
 msgid "Reposts of this post"
-msgstr "Posting ulang postingan ini"
+msgstr "Postingan ulang postingan ini"
 
 #: src/view/com/modals/ChangeEmail.tsx:176
 #: src/view/com/modals/ChangeEmail.tsx:178
@@ -6512,7 +6512,7 @@ msgstr "Urutkan balasan ke postingan yang sama berdasarkan:"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:171
 msgid "Source: <0>{sourceName}</0>"
-msgstr ""
+msgstr "Sumber: <0>{sourceName}</0>"
 
 #: src/lib/moderation/useReportOptions.ts:67
 #: src/lib/moderation/useReportOptions.ts:80
@@ -6815,7 +6815,7 @@ msgstr "Kebijakan Hak Cipta telah dipindahkan ke <0/>"
 
 #: src/view/com/posts/FeedShutdownMsg.tsx:102
 msgid "The Discover feed"
-msgstr ""
+msgstr "Feed Discover"
 
 #: src/state/shell/progress-guide.tsx:167
 #: src/state/shell/progress-guide.tsx:172
@@ -7000,7 +7000,7 @@ msgstr "Akun ini diblokir oleh satu atau lebih daftar moderasi Anda. Untuk membu
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:250
 msgid "This appeal will be sent to <0>{sourceName}</0>."
-msgstr ""
+msgstr "Banding ini akan dikirim ke <0>{sourceName}</0>."
 
 #: src/screens/Messages/Conversation/ChatDisabled.tsx:104
 msgid "This appeal will be sent to Bluesky's moderation service."
@@ -7700,7 +7700,7 @@ msgstr "Lihat profil {0}"
 
 #: src/components/dms/MessagesListHeader.tsx:160
 msgid "View {displayName}'s profile"
-msgstr ""
+msgstr "Lihat profil {displayName}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:430
 msgid "View blocked user's profile"
@@ -8182,11 +8182,11 @@ msgstr "Anda dapat mengajukan banding atas label berikut jika Anda merasa label 
 
 #: src/screens/StarterPack/Wizard/State.tsx:79
 msgid "You may only add up to {STARTER_PACK_MAX_SIZE} profiles"
-msgstr ""
+msgstr "Anda hanya boleh menambahkan maksimal {STARTER_PACK_MAX_SIZE} profil"
 
 #: src/screens/StarterPack/Wizard/State.tsx:97
 msgid "You may only add up to 3 feeds"
-msgstr ""
+msgstr "Anda hanya boleh menambahkan maksimal 3 feed"
 
 #: src/screens/StarterPack/Wizard/State.tsx:95
 #~ msgid "You may only add up to 50 feeds"
