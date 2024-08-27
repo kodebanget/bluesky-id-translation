@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-26 20:22\n"
+"PO-Revision-Date: 2024-08-27 11:42\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -536,7 +536,7 @@ msgstr "Izinkan pesan baru dari"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:359
 msgid "Allow replies from:"
-msgstr ""
+msgstr "Izinkan balasan dari:"
 
 #: src/view/screens/AppPasswords.tsx:271
 msgid "Allows access to direct messages"
@@ -674,7 +674,7 @@ msgstr "Perilaku Anti-Sosial"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:54
 msgid "Anybody can interact"
-msgstr ""
+msgstr "Siapa saja dapat berinteraksi"
 
 #: src/view/screens/LanguageSettings.tsx:96
 msgid "App Language"
@@ -734,11 +734,11 @@ msgstr "Tampilan"
 
 #: src/view/screens/Settings/index.tsx:475
 msgid "Appearance settings"
-msgstr ""
+msgstr "Pengaturan tampilan"
 
 #: src/Navigation.tsx:326
 msgid "Appearance Settings"
-msgstr ""
+msgstr "Pengaturan Tampilan"
 
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:47
 #: src/screens/Home/NoFeedsPinned.tsx:93
@@ -1295,11 +1295,11 @@ msgstr "Klik di sini untuk membuka menu tagar dari {tag}"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:303
 msgid "Click to disable quote posts of this post."
-msgstr ""
+msgstr "Klik untuk mematikan kutip postingan dari postingan ini."
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:304
 msgid "Click to enable quote posts of this post."
-msgstr ""
+msgstr "Klik untuk mengaktifkan kutip postingan dari postingan ini."
 
 #: src/components/dms/MessageItem.tsx:231
 msgid "Click to retry failed message"
@@ -1911,11 +1911,11 @@ msgstr "Teks alt deskriptif"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:544
 #: src/view/com/util/forms/PostDropdownBtn.tsx:554
 msgid "Detach quote"
-msgstr ""
+msgstr "Lepaskan kutipan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:687
 msgid "Detach quote post?"
-msgstr ""
+msgstr "Lepaskan kutipan postingan ini?"
 
 #: src/components/WhoCanReply.tsx:175
 msgid "Dialog: adjust who can interact with this post"
@@ -1952,7 +1952,7 @@ msgstr "Matikan respons haptik"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:242
 msgid "Disable subtitles"
-msgstr ""
+msgstr "Matikan subtitel"
 
 #: src/view/screens/Settings/index.tsx:697
 #~ msgid "Disable vibrations"
@@ -1999,11 +1999,11 @@ msgstr "Temukan Feed Baru"
 
 #: src/view/com/profile/ProfileHeaderSuggestedFollows.tsx:108
 msgid "Dismiss"
-msgstr ""
+msgstr "Abaikan"
 
 #: src/view/com/composer/Composer.tsx:612
 msgid "Dismiss error"
-msgstr ""
+msgstr "Abaikan kesalahan"
 
 #: src/components/ProgressGuide/List.tsx:40
 msgid "Dismiss getting started guide"
@@ -2166,7 +2166,7 @@ msgstr "Edit gambar"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:590
 #: src/view/com/util/forms/PostDropdownBtn.tsx:603
 msgid "Edit interaction settings"
-msgstr ""
+msgstr "Ubah pengaturan interaksi"
 
 #: src/view/screens/ProfileList.tsx:515
 msgid "Edit list details"
@@ -2194,7 +2194,7 @@ msgstr "Ubah Daftar Pengguna"
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:66
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:204
 msgid "Edit post interaction settings"
-msgstr ""
+msgstr "Ubah pengaturan interaksi postingan"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:184
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:179
@@ -2321,7 +2321,7 @@ msgstr "Aktifkan notifikasi prioritas"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:242
 msgid "Enable subtitles"
-msgstr ""
+msgstr "Nyalakan subtitel"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:145
 #~ msgid "Enable this setting to only see replies between people you follow."
@@ -3113,7 +3113,7 @@ msgstr "Berikut kata sandi aplikasi Anda."
 
 #: src/components/ListCard.tsx:128
 msgid "Hidden list"
-msgstr ""
+msgstr "Daftar tersembunyi"
 
 #: src/components/moderation/ContentHider.tsx:116
 #: src/components/moderation/LabelPreference.tsx:134
@@ -3139,17 +3139,17 @@ msgstr "Sembunyikan"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:501
 #: src/view/com/util/forms/PostDropdownBtn.tsx:507
 msgid "Hide post for me"
-msgstr ""
+msgstr "Sembunyikan postingan untuk saya"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:518
 #: src/view/com/util/forms/PostDropdownBtn.tsx:528
 msgid "Hide reply for everyone"
-msgstr ""
+msgstr "Sembunyikan balasan untuk semuanya"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:500
 #: src/view/com/util/forms/PostDropdownBtn.tsx:506
 msgid "Hide reply for me"
-msgstr ""
+msgstr "Sembunyikan balasan untuk saya"
 
 #: src/components/moderation/ContentHider.tsx:68
 #: src/components/moderation/PostHider.tsx:79
@@ -3163,7 +3163,7 @@ msgstr "Sembunyikan postingan ini?"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:635
 #: src/view/com/util/forms/PostDropdownBtn.tsx:697
 msgid "Hide this reply?"
-msgstr ""
+msgstr "Sembunyikan balasan ini?"
 
 #: src/view/com/notifications/FeedItem.tsx:468
 msgid "Hide user list"
@@ -3338,7 +3338,7 @@ msgstr "Masukkan panggilan Anda"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:55
 msgid "Interaction limited"
-msgstr ""
+msgstr "Interaksi dibatasi"
 
 #: src/components/dms/MessagesNUX.tsx:82
 msgid "Introducing Direct Messages"
@@ -3477,7 +3477,7 @@ msgstr "Pelajari Lebih Lanjut"
 
 #: src/view/com/auth/SplashScreen.web.tsx:152
 msgid "Learn more about Bluesky"
-msgstr ""
+msgstr "Pelajari lebih lanjut mengenai Bluesky"
 
 #: src/components/moderation/ContentHider.tsx:66
 #: src/components/moderation/ContentHider.tsx:131
@@ -3634,7 +3634,7 @@ msgstr "Daftar dihapus"
 
 #: src/screens/List/ListHiddenScreen.tsx:126
 msgid "List has been hidden"
-msgstr ""
+msgstr "Daftar telah disembunyikan"
 
 #: src/view/screens/ProfileList.tsx:159
 msgid "List Hidden"
@@ -4762,7 +4762,7 @@ msgstr "Jeda"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:203
 msgid "Pause video"
-msgstr ""
+msgstr "Jeda video"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:171
 #: src/view/screens/Search/Search.tsx:369
@@ -4840,7 +4840,7 @@ msgstr "Putar atau jeda GIF"
 #: src/view/com/util/post-embeds/VideoEmbed.tsx:52
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:204
 msgid "Play video"
-msgstr ""
+msgstr "Putar video"
 
 #: src/view/com/util/post-embeds/ExternalPlayerEmbed.tsx:57
 #: src/view/com/util/post-embeds/ExternalPlayerEmbed.tsx:58
@@ -4965,7 +4965,7 @@ msgstr "Postingan yang Anda sembunyikan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:283
 msgid "Post interaction settings"
-msgstr ""
+msgstr "Pengaturan interaksi postingan"
 
 #: src/view/com/composer/select-language/SelectLangBtn.tsx:88
 msgid "Post language"
@@ -5158,20 +5158,20 @@ msgstr ""
 #: src/view/com/util/post-ctrls/RepostButton.web.tsx:84
 #: src/view/com/util/post-ctrls/RepostButton.web.tsx:91
 msgid "Quote posts disabled"
-msgstr ""
+msgstr "Kutip postingan dimatikan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:311
 msgid "Quote posts enabled"
-msgstr ""
+msgstr "Kutip postingan dinyalakan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:295
 msgid "Quote settings"
-msgstr ""
+msgstr "Pengaturan kutipan"
 
 #: src/screens/Post/PostQuotes.tsx:29
 #: src/view/com/post-thread/PostQuotes.tsx:122
 msgid "Quotes"
-msgstr ""
+msgstr "Kutipan"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:230
 msgid "Quotes of this post"
@@ -5196,15 +5196,15 @@ msgstr "Aktifkan kembali akun Anda"
 
 #: src/view/com/auth/SplashScreen.web.tsx:157
 msgid "Read the Bluesky blog"
-msgstr ""
+msgstr "Baca blog Bluesky"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:59
 msgid "Read the Bluesky Privacy Policy"
-msgstr ""
+msgstr "Baca kebijakan privasi Bluesky"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:49
 msgid "Read the Bluesky Terms of Service"
-msgstr ""
+msgstr "Baca ketentuan layanan Bluesky"
 
 #: src/components/dms/ReportDialog.tsx:174
 msgid "Reason:"
@@ -5421,7 +5421,7 @@ msgstr "Balasan yang Anda Sembunyikan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:355
 msgid "Reply settings"
-msgstr ""
+msgstr "Pengaturan balasan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:340
 msgid "Reply settings are chosen by the author of the thread"
@@ -5461,7 +5461,7 @@ msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:331
 msgid "Reply was successfully hidden"
-msgstr ""
+msgstr "Balasan telah berhasil disembunyikan"
 
 #: src/components/dms/MessageMenu.tsx:132
 #: src/components/dms/MessagesListBlockedFooter.tsx:77
@@ -5871,7 +5871,7 @@ msgstr "Lihat postingan <0>{displayTag}</0> dari pengguna ini"
 
 #: src/view/com/auth/SplashScreen.web.tsx:162
 msgid "See jobs at Bluesky"
-msgstr ""
+msgstr "Lihat lowongan pekerjaan di Bluesky"
 
 #: src/view/com/notifications/FeedItem.tsx:411
 #: src/view/com/util/UserAvatar.tsx:402
@@ -6263,7 +6263,7 @@ msgstr "Kurangi postingan serupa"
 
 #: src/screens/List/ListHiddenScreen.tsx:172
 msgid "Show list anyway"
-msgstr ""
+msgstr "Tetap tampilkan daftar"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:584
 #: src/view/com/post/Post.tsx:234
@@ -6323,7 +6323,7 @@ msgstr "Tampilkan balasan dari orang yang Anda ikuti sebelum balasan lainnya."
 #: src/view/com/util/forms/PostDropdownBtn.tsx:517
 #: src/view/com/util/forms/PostDropdownBtn.tsx:527
 msgid "Show reply for everyone"
-msgstr ""
+msgstr "Tampilkan balasan untuk semua orang"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:84
 msgid "Show Reposts"
@@ -6398,7 +6398,7 @@ msgstr "Keluar"
 #: src/view/screens/Settings/index.tsx:420
 #: src/view/screens/Settings/index.tsx:430
 msgid "Sign out of all accounts"
-msgstr ""
+msgstr "Keluar dari semua akun"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:305
 #: src/view/shell/bottom-bar/BottomBar.tsx:306
@@ -6441,7 +6441,7 @@ msgstr "Mendaftar tanpa paket pemula"
 
 #: src/view/com/profile/ProfileHeaderSuggestedFollows.tsx:102
 msgid "Similar accounts"
-msgstr ""
+msgstr "Akun serupa"
 
 #: src/screens/Onboarding/StepInterests/index.tsx:265
 #: src/screens/StarterPack/Wizard/index.tsx:191
@@ -6698,11 +6698,11 @@ msgstr "Ketuk untuk menutup"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:181
 msgid "Tap to enter full screen"
-msgstr ""
+msgstr "Ketuk untuk masuk layar penuh"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:202
 msgid "Tap to toggle sound"
-msgstr ""
+msgstr "Ketuk untuk mengubah suara"
 
 #: src/view/com/util/images/AutoSizedImage.tsx:70
 msgid "Tap to view fully"
@@ -6803,7 +6803,7 @@ msgstr ""
 
 #: src/screens/Moderation/index.tsx:368
 msgid "The Bluesky web application"
-msgstr ""
+msgstr "Aplikasi web Bluesky"
 
 #: src/view/screens/CommunityGuidelines.tsx:36
 msgid "The Community Guidelines have been moved to <0/>"
@@ -6853,7 +6853,7 @@ msgstr "Kebijakan Privasi telah dipindahkan ke <0/>"
 
 #: src/state/queries/video/video.ts:129
 msgid "The selected video is larger than 100MB."
-msgstr ""
+msgstr "Video yang dipilih lebih besar dari 100MB."
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:713
 msgid "The starter pack that you are trying to view is invalid. You may delete this starter pack instead."
@@ -7678,7 +7678,7 @@ msgstr "Versi {appVersion} {bundleInfo}"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:180
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: src/screens/Onboarding/index.tsx:39
 #: src/screens/Onboarding/state.ts:88
@@ -8003,11 +8003,11 @@ msgstr "Ya, hapus paket pemula ini"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:692
 msgid "Yes, detach"
-msgstr ""
+msgstr "Ya, lepaskan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:702
 msgid "Yes, hide"
-msgstr ""
+msgstr "Ya, sembunyikan"
 
 #: src/screens/Deactivated.tsx:150
 msgid "Yes, reactivate my account"
