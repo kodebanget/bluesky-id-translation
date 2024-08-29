@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-29 09:19\n"
+"PO-Revision-Date: 2024-08-29 15:38\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3768,7 +3768,7 @@ msgstr "Media"
 
 #: src/components/WhoCanReply.tsx:254
 msgid "mentioned users"
-msgstr "pengguna yang disebutkan"
+msgstr "pengguna yang Anda sebut"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:393
 msgid "Mentioned users"
@@ -5146,11 +5146,11 @@ msgstr "Kutip postingan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:302
 msgid "Quote post was re-attached"
-msgstr ""
+msgstr "Postingan kembali dilampirkan pada kutipan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:301
 msgid "Quote post was successfully detached"
-msgstr ""
+msgstr "Postingan berhasil dilepaskan dari kutipan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:313
 #: src/view/com/util/post-ctrls/RepostButton.tsx:121
@@ -5188,7 +5188,7 @@ msgstr "Rasio"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:543
 #: src/view/com/util/forms/PostDropdownBtn.tsx:553
 msgid "Re-attach quote"
-msgstr ""
+msgstr "Kembalikan kutipan"
 
 #: src/screens/Deactivated.tsx:144
 msgid "Reactivate your account"
@@ -5337,11 +5337,11 @@ msgstr "Hapus feed ini dari feed tersimpan Anda"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:100
 msgid "Removed by author"
-msgstr "Dihapus oleh penulis"
+msgstr "Dilepaskan oleh pemosting"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:98
 msgid "Removed by you"
-msgstr "Dihapus oleh Anda"
+msgstr "Dilepaskan oleh Anda"
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:200
 #: src/view/com/modals/UserAddRemoveLists.tsx:164
@@ -5425,7 +5425,7 @@ msgstr "Pengaturan balasan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:340
 msgid "Reply settings are chosen by the author of the thread"
-msgstr ""
+msgstr "Pengaturan balasan dipilih oleh pembuat utas"
 
 #: src/view/com/post/Post.tsx:177
 #: src/view/com/posts/FeedItem.tsx:285
@@ -5457,7 +5457,7 @@ msgstr "Membalas Anda"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:332
 msgid "Reply visibility updated"
-msgstr ""
+msgstr "Visibilitas balasan diperbarui"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:331
 msgid "Reply was successfully hidden"
@@ -6785,7 +6785,7 @@ msgstr "Tidak dapat menemukan paket pemula."
 
 #: src/view/com/post-thread/PostQuotes.tsx:129
 msgid "That's all, folks!"
-msgstr ""
+msgstr "Sekian!"
 
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:310
 #: src/view/com/profile/ProfileMenu.tsx:353
@@ -6799,7 +6799,7 @@ msgstr "Akun ini dapat berinteraksi kembali dengan Anda setelah blokir dibuka."
 #: src/components/moderation/ModerationDetailsDialog.tsx:118
 #: src/lib/moderation/useModerationCauseDescription.ts:126
 msgid "The author of this thread has hidden this reply."
-msgstr ""
+msgstr "Pembuat utas telah menyembunyikan balasan ini."
 
 #: src/screens/Moderation/index.tsx:368
 msgid "The Bluesky web application"
@@ -7105,7 +7105,7 @@ msgstr "Tautan ini akan membawa Anda ke situs web berikut:"
 
 #: src/screens/List/ListHiddenScreen.tsx:136
 msgid "This list - created by <0>{0}</0> - contains possible violations of Bluesky's community guidelines in its name or description."
-msgstr ""
+msgstr "Daftar yang dibuat oleh <0>{0}</0> ini mungkin mengandung pelanggaran panduan komunitas Bluesky pada nama atau deskripsinya."
 
 #: src/view/screens/ProfileList.tsx:963
 msgid "This list is empty!"
@@ -7130,7 +7130,7 @@ msgstr "Postingan ini hanya dapat dilihat oleh pengguna yang masuk. Ini tidak ak
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:637
 msgid "This post will be hidden from feeds and threads. This cannot be undone."
-msgstr ""
+msgstr "Postingan ini akan disembunyikan dari semua feed dan utas. Ini tidak dapat dibatalkan."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:443
 #~ msgid "This post will be hidden from feeds."
@@ -7138,7 +7138,7 @@ msgstr ""
 
 #: src/view/com/composer/useExternalLinkFetch.ts:67
 msgid "This post's author has disabled quote posts."
-msgstr ""
+msgstr "Pembuat postingan ini telah menonaktifkan kutipan."
 
 #: src/view/com/profile/ProfileMenu.tsx:374
 msgid "This profile is only visible to logged-in users. It won't be visible to people who aren't logged in."
@@ -7146,7 +7146,7 @@ msgstr "Profil ini hanya dapat dilihat oleh pengguna yang masuk. Ini tidak akan 
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:699
 msgid "This reply will be sorted into a hidden section at the bottom of your thread and will mute notifications for subsequent replies - both for yourself and others."
-msgstr ""
+msgstr "Balasan ini akan disortir ke bagian tersembunyi di bawah utas Anda dan akan membisukan notifikasi balasan selanjutnya - baik untuk Anda maupun orang lain."
 
 #: src/screens/Signup/StepInfo/Policies.tsx:37
 msgid "This service has not provided terms of service or a privacy policy."
@@ -7207,7 +7207,7 @@ msgstr "Ini akan menghapus @{0} dari daftar akses cepat."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:689
 msgid "This will remove your post from this quote post for all users, and replace it with a placeholder."
-msgstr ""
+msgstr "Ini akan menghapus postingan Anda dari kutipan ini untuk semua pengguna, dan menggantinya dengan placeholder."
 
 #: src/view/screens/Settings/index.tsx:560
 msgid "Thread preferences"
@@ -7416,7 +7416,7 @@ msgstr "Aktifkan suara video"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:201
 msgid "Unmuted"
-msgstr ""
+msgstr "Dibunyikan"
 
 #: src/view/screens/ProfileFeed.tsx:292
 #: src/view/screens/ProfileList.tsx:673
@@ -7708,7 +7708,7 @@ msgstr "Lihat profil pengguna yang diblokir"
 
 #: src/view/screens/Settings/ExportCarDialog.tsx:97
 msgid "View blogpost for more details"
-msgstr ""
+msgstr "Lihat postingan blog untuk detail lebih lanjut"
 
 #: src/view/screens/Log.tsx:56
 msgid "View debug entry"
