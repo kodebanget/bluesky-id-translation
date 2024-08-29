@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-29 02:10\n"
+"PO-Revision-Date: 2024-08-29 09:19\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -582,7 +582,7 @@ msgstr "Email telah dikirim ke alamat Anda sebelumnya, {0}. Email tersebut beris
 
 #: src/components/dialogs/GifSelect.tsx:254
 msgid "An error has occurred"
-msgstr ""
+msgstr "Telah terjadi kesalahan"
 
 #: src/components/dialogs/GifSelect.tsx:252
 #~ msgid "An error occured"
@@ -590,7 +590,7 @@ msgstr ""
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:314
 msgid "An error occurred"
-msgstr ""
+msgstr "Terjadi kesalahan"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:315
 msgid "An error occurred while generating your starter pack. Want to try again?"
@@ -651,7 +651,7 @@ msgstr "terjadi kesalahan yang tidak diketahui"
 #: src/components/moderation/ModerationDetailsDialog.tsx:151
 #: src/components/moderation/ModerationDetailsDialog.tsx:147
 msgid "an unknown labeler"
-msgstr ""
+msgstr "pemberi label tidak diketahui"
 
 #: src/components/WhoCanReply.tsx:295
 #: src/view/com/notifications/FeedItem.tsx:235
@@ -4555,7 +4555,7 @@ msgstr "Membuka detail tambahan untuk entri debug"
 
 #: src/view/screens/Settings/index.tsx:476
 msgid "Opens appearance settings"
-msgstr ""
+msgstr "Buka pengaturan tampilan"
 
 #: src/view/com/composer/photos/OpenCameraBtn.tsx:74
 msgid "Opens camera on device"
@@ -5337,11 +5337,11 @@ msgstr "Hapus feed ini dari feed tersimpan Anda"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:100
 msgid "Removed by author"
-msgstr ""
+msgstr "Dihapus oleh penulis"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:98
 msgid "Removed by you"
-msgstr ""
+msgstr "Dihapus oleh Anda"
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:200
 #: src/view/com/modals/UserAddRemoveLists.tsx:164
@@ -5447,7 +5447,7 @@ msgstr "Membalas postingan yang diblokir"
 #: src/view/com/posts/FeedItem.tsx:515
 msgctxt "description"
 msgid "Reply to a post"
-msgstr ""
+msgstr "Balas unggahan"
 
 #: src/view/com/post/Post.tsx:194
 #: src/view/com/posts/FeedItem.tsx:519
@@ -7203,7 +7203,7 @@ msgstr "Ini akan menghapus \"{0}\" dari daftar kata yang Anda bisukan. Anda teta
 
 #: src/view/com/util/AccountDropdownBtn.tsx:55
 msgid "This will remove @{0} from the quick access list."
-msgstr ""
+msgstr "Ini akan menghapus @{0} dari daftar akses cepat."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:689
 msgid "This will remove your post from this quote post for all users, and replace it with a placeholder."
@@ -7412,7 +7412,7 @@ msgstr "Bunyikan utas"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:201
 msgid "Unmute video"
-msgstr ""
+msgstr "Aktifkan suara video"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:201
 msgid "Unmuted"
@@ -7442,7 +7442,7 @@ msgstr "Berhenti langganan"
 #: src/screens/List/ListHiddenScreen.tsx:184
 #: src/screens/List/ListHiddenScreen.tsx:194
 msgid "Unsubscribe from list"
-msgstr ""
+msgstr "Berhenti berlangganan dari daftar"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:196
 msgid "Unsubscribe from this labeler"
@@ -7450,7 +7450,7 @@ msgstr "Berhenti langganan pelabel ini"
 
 #: src/screens/List/ListHiddenScreen.tsx:86
 msgid "Unsubscribed from list"
-msgstr ""
+msgstr "Telah berhenti berlangganan dari daftar"
 
 #: src/lib/moderation/useReportOptions.ts:85
 #~ msgid "Unwanted sexual content"
@@ -7471,11 +7471,11 @@ msgstr "Perbarui ke {handle}"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:305
 msgid "Updating quote attachment failed"
-msgstr ""
+msgstr "Pembaruan lampiran kutipan gagal"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:335
 msgid "Updating reply visibility failed"
-msgstr ""
+msgstr "Pembaruan visibilitas balasan gagal"
 
 #: src/screens/Login/SetNewPasswordForm.tsx:186
 msgid "Updating..."
@@ -7752,7 +7752,7 @@ msgstr "Lihat pengguna yang menyukai feed ini"
 
 #: src/screens/Moderation/index.tsx:274
 msgid "View your blocked accounts"
-msgstr ""
+msgstr "Lihat akun yang diblokir"
 
 #: src/view/com/home/HomeHeaderLayout.web.tsx:79
 #: src/view/com/home/HomeHeaderLayoutMobile.tsx:86
@@ -7761,11 +7761,11 @@ msgstr "Lihat daftar feed Anda dan jelajahi lebih lanjut"
 
 #: src/screens/Moderation/index.tsx:244
 msgid "View your moderation lists"
-msgstr ""
+msgstr "Tampilkan daftar moderasi anda"
 
 #: src/screens/Moderation/index.tsx:259
 msgid "View your muted accounts"
-msgstr ""
+msgstr "Tampilkan akun yang dibisukan"
 
 #: src/view/com/modals/LinkWarning.tsx:89
 #: src/view/com/modals/LinkWarning.tsx:95
@@ -8170,7 +8170,7 @@ msgstr "Anda belum membisukan kata atau tagar apa pun"
 #: src/components/moderation/ModerationDetailsDialog.tsx:117
 #: src/lib/moderation/useModerationCauseDescription.ts:125
 msgid "You hid this reply."
-msgstr ""
+msgstr "Anda menyembunyikan balasan ini."
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:86
 msgid "You may appeal non-self labels if you feel they were placed in error."
