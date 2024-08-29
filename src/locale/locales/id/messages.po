@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-27 18:07\n"
+"PO-Revision-Date: 2024-08-29 02:10\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3822,7 +3822,7 @@ msgstr "Akun Menyesatkan"
 
 #: src/screens/Settings/AppearanceSettings.tsx:78
 msgid "Mode"
-msgstr ""
+msgstr "Gaya"
 
 #: src/Navigation.tsx:135
 #: src/screens/Moderation/index.tsx:105
