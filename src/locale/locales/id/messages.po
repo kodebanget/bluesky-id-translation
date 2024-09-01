@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-29 15:38\n"
+"PO-Revision-Date: 2024-09-01 10:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -4502,7 +4502,7 @@ msgstr "Buka menu opsi feed"
 
 #: src/view/screens/Settings/index.tsx:702
 msgid "Open links with in-app browser"
-msgstr "Buka tautan dengan browser dalam aplikasi"
+msgstr "Buka tautan dengan peramban dalam aplikasi"
 
 #: src/components/dms/ActionsWrapper.tsx:87
 msgid "Open message options"
@@ -7412,7 +7412,7 @@ msgstr "Bunyikan utas"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:201
 msgid "Unmute video"
-msgstr "Aktifkan suara video"
+msgstr "Bunyikan video"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:201
 msgid "Unmuted"
@@ -8314,7 +8314,7 @@ msgstr "Tanggal lahir Anda"
 
 #: src/view/com/util/post-embeds/VideoEmbed.web.tsx:145
 msgid "Your browser does not support the video format. Please try a different browser."
-msgstr "Browser Anda tidak mendukung format video. Silakan coba browser lainnya."
+msgstr "Peramban Anda tidak mendukung format video. Silakan coba peramban lainnya."
 
 #: src/screens/Messages/Conversation/ChatDisabled.tsx:25
 msgid "Your chats have been disabled"
