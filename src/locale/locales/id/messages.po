@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-01 10:50\n"
+"PO-Revision-Date: 2024-09-01 17:08\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3113,7 +3113,7 @@ msgstr "Berikut kata sandi aplikasi Anda."
 
 #: src/components/ListCard.tsx:128
 msgid "Hidden list"
-msgstr "Daftar tersembunyi"
+msgstr "Daftar yang disembunyikan"
 
 #: src/components/moderation/ContentHider.tsx:116
 #: src/components/moderation/LabelPreference.tsx:134
@@ -4555,7 +4555,7 @@ msgstr "Membuka detail tambahan untuk entri debug"
 
 #: src/view/screens/Settings/index.tsx:476
 msgid "Opens appearance settings"
-msgstr "Buka pengaturan tampilan"
+msgstr "Membuka pengaturan tampilan"
 
 #: src/view/com/composer/photos/OpenCameraBtn.tsx:74
 msgid "Opens camera on device"
@@ -5461,7 +5461,7 @@ msgstr "Visibilitas balasan diperbarui"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:331
 msgid "Reply was successfully hidden"
-msgstr "Balasan telah berhasil disembunyikan"
+msgstr "Balasan berhasil disembunyikan"
 
 #: src/components/dms/MessageMenu.tsx:132
 #: src/components/dms/MessagesListBlockedFooter.tsx:77
