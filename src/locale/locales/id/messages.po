@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-01 17:08\n"
+"PO-Revision-Date: 2024-09-02 14:33\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -651,7 +651,7 @@ msgstr "terjadi kesalahan yang tidak diketahui"
 #: src/components/moderation/ModerationDetailsDialog.tsx:151
 #: src/components/moderation/ModerationDetailsDialog.tsx:147
 msgid "an unknown labeler"
-msgstr "pemberi label tidak diketahui"
+msgstr "pelabel tak dikenal"
 
 #: src/components/WhoCanReply.tsx:295
 #: src/view/com/notifications/FeedItem.tsx:235
@@ -3822,7 +3822,7 @@ msgstr "Akun Menyesatkan"
 
 #: src/screens/Settings/AppearanceSettings.tsx:78
 msgid "Mode"
-msgstr "Gaya"
+msgstr "Mode"
 
 #: src/Navigation.tsx:135
 #: src/screens/Moderation/index.tsx:105
@@ -5200,11 +5200,11 @@ msgstr "Baca blog Bluesky"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:59
 msgid "Read the Bluesky Privacy Policy"
-msgstr "Baca kebijakan privasi Bluesky"
+msgstr "Baca Kebijakan Privasi Bluesky"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:49
 msgid "Read the Bluesky Terms of Service"
-msgstr "Baca ketentuan layanan Bluesky"
+msgstr "Baca Ketentuan Layanan Bluesky"
 
 #: src/components/dms/ReportDialog.tsx:174
 msgid "Reason:"
