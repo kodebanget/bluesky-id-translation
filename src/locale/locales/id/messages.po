@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-02 14:33\n"
+"PO-Revision-Date: 2024-09-02 20:43\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -7752,7 +7752,7 @@ msgstr "Lihat pengguna yang menyukai feed ini"
 
 #: src/screens/Moderation/index.tsx:274
 msgid "View your blocked accounts"
-msgstr "Lihat akun yang diblokir"
+msgstr "Lihat daftar akun yang Anda blokir"
 
 #: src/view/com/home/HomeHeaderLayout.web.tsx:79
 #: src/view/com/home/HomeHeaderLayoutMobile.tsx:86
@@ -7761,11 +7761,11 @@ msgstr "Lihat daftar feed Anda dan jelajahi lebih lanjut"
 
 #: src/screens/Moderation/index.tsx:244
 msgid "View your moderation lists"
-msgstr "Tampilkan daftar moderasi anda"
+msgstr "Lihat daftar moderasi Anda"
 
 #: src/screens/Moderation/index.tsx:259
 msgid "View your muted accounts"
-msgstr "Tampilkan akun yang dibisukan"
+msgstr "Lihat daftar akun yang Anda bisukan"
 
 #: src/view/com/modals/LinkWarning.tsx:89
 #: src/view/com/modals/LinkWarning.tsx:95
