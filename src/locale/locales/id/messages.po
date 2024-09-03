@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-03 14:52\n"
+"PO-Revision-Date: 2024-09-03 20:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -884,7 +884,7 @@ msgstr "Akun yang diblokir"
 #: src/Navigation.tsx:150
 #: src/view/screens/ModerationBlockedAccounts.tsx:109
 msgid "Blocked Accounts"
-msgstr "Akun yang diblokir"
+msgstr "Akun yang Diblokir"
 
 #: src/view/com/profile/ProfileMenu.tsx:360
 msgid "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you."
@@ -1295,11 +1295,11 @@ msgstr "Klik di sini untuk membuka menu tagar dari {tag}"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:303
 msgid "Click to disable quote posts of this post."
-msgstr "Klik untuk mematikan kutip postingan dari postingan ini."
+msgstr "Klik untuk menonaktifkan kutipan pada postingan ini."
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:304
 msgid "Click to enable quote posts of this post."
-msgstr "Klik untuk mengaktifkan kutip postingan dari postingan ini."
+msgstr "Klik untuk mengaktifkan kutipan pada postingan ini."
 
 #: src/components/dms/MessageItem.tsx:231
 msgid "Click to retry failed message"
@@ -1505,7 +1505,7 @@ msgstr "Penyaring konten"
 #: src/view/com/modals/lang-settings/ContentLanguagesSettings.tsx:74
 #: src/view/screens/LanguageSettings.tsx:282
 msgid "Content Languages"
-msgstr "Bahasa konten"
+msgstr "Bahasa Konten"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:81
 #: src/lib/moderation/useModerationCauseDescription.ts:80
@@ -5447,7 +5447,7 @@ msgstr "Membalas postingan yang diblokir"
 #: src/view/com/posts/FeedItem.tsx:515
 msgctxt "description"
 msgid "Reply to a post"
-msgstr "Balas unggahan"
+msgstr "Membalas postingan"
 
 #: src/view/com/post/Post.tsx:194
 #: src/view/com/posts/FeedItem.tsx:519
