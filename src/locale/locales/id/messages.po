@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-03 04:29\n"
+"PO-Revision-Date: 2024-09-03 14:52\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6064,7 +6064,7 @@ msgstr "Buat kata sandi baru"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:121
 msgid "Set this setting to \"No\" to hide all quote posts from your feed. Reposts will still be visible."
-msgstr "Pilih \"Tidak\" untuk menyembunyikan semua kutipan postingan dari feed Anda. Posting ulang tetap akan terlihat."
+msgstr "Pilih \"Tidak\" untuk menyembunyikan semua kutipan dari feed Anda. Postingan ulang akan tetap terlihat."
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:63
 msgid "Set this setting to \"No\" to hide all replies from your feed."
@@ -6072,7 +6072,7 @@ msgstr "Pilih \"Tidak\" untuk menyembunyikan semua balasan dari feed Anda."
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:87
 msgid "Set this setting to \"No\" to hide all reposts from your feed."
-msgstr "Pilih \"Tidak\" untuk menyembunyikan semua posting ulang dari feed Anda."
+msgstr "Pilih \"Tidak\" untuk menyembunyikan semua postingan ulang dari feed Anda."
 
 #: src/view/screens/PreferencesThreads.tsx:116
 msgid "Set this setting to \"Yes\" to show replies in a threaded view. This is an experimental feature."
@@ -6327,7 +6327,7 @@ msgstr "Tampilkan balasan untuk semua orang"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:84
 msgid "Show Reposts"
-msgstr "Tampilkan Posting Ulang"
+msgstr "Tampilkan Postingan Ulang"
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:111
 #~ msgid "Show reposts in Following"
