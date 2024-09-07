@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-03 20:50\n"
+"PO-Revision-Date: 2024-09-07 20:53\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -686,11 +686,11 @@ msgstr "Kata sandi aplikasi dihapus"
 
 #: src/view/com/modals/AddAppPasswords.tsx:138
 msgid "App Password names can only contain letters, numbers, spaces, dashes, and underscores."
-msgstr "Nama Kata Sandi Aplikasi hanya boleh terdiri dari huruf, angka, spasi, tanda hubung, dan garis bawah."
+msgstr "Nama Sandi Aplikasi hanya boleh terdiri dari huruf, angka, spasi, tanda hubung, dan garis bawah."
 
 #: src/view/com/modals/AddAppPasswords.tsx:103
 msgid "App Password names must be at least 4 characters long."
-msgstr "Nama Kata Sandi Aplikasi harus terdiri dari minimal 4 karakter."
+msgstr "Nama Sandi Aplikasi harus terdiri dari minimal 4 karakter."
 
 #: src/view/screens/Settings/index.tsx:663
 msgid "App password settings"
@@ -1383,7 +1383,7 @@ msgstr "Menutup penyusun postingan dan membuang draf"
 
 #: src/view/com/lightbox/ImageViewing/components/ImageDefaultHeader.tsx:37
 msgid "Closes viewer for header image"
-msgstr "Menutup penampil untuk gambar header"
+msgstr "Menutup penampil gambar header"
 
 #: src/view/com/notifications/FeedItem.tsx:269
 msgid "Collapse list of users"
@@ -2517,7 +2517,7 @@ msgstr "Media Eksternal"
 #: src/components/dialogs/EmbedConsent.tsx:71
 #: src/view/screens/PreferencesExternalEmbeds.tsx:65
 msgid "External media may allow websites to collect information about you and your device. No information is sent or requested until you press the \"play\" button."
-msgstr "Media eksternal memungkinkan situs web untuk mengumpulkan informasi tentang Anda dan perangkat Anda. Tidak ada informasi yang dikirim atau diminta hingga Anda menekan tombol \"play\"."
+msgstr "Media eksternal memungkinkan situs web untuk mengumpulkan informasi tentang Anda dan perangkat Anda. Tidak ada informasi yang dikirim atau diminta hingga Anda menekan tombol \"putar\"."
 
 #: src/Navigation.tsx:310
 #: src/view/screens/PreferencesExternalEmbeds.tsx:54
@@ -3355,7 +3355,7 @@ msgstr "Catatan postingan tidak valid atau tidak didukung"
 
 #: src/screens/Login/LoginForm.tsx:145
 msgid "Invalid username or password"
-msgstr "Username atau kata sandi salah"
+msgstr "Nama pengguna atau kata sandi salah"
 
 #: src/view/com/modals/InviteCodes.tsx:94
 msgid "Invite a Friend"
@@ -4152,7 +4152,7 @@ msgstr "Postingan baru"
 #: src/view/shell/desktop/LeftNav.tsx:284
 msgctxt "action"
 msgid "New Post"
-msgstr "Postingan baru"
+msgstr "Postingan Baru"
 
 #: src/components/NewskieDialog.tsx:83
 msgid "New user info dialog"
@@ -4326,7 +4326,7 @@ msgstr "Ketelanjangan Non-Seksual"
 #: src/Navigation.tsx:125
 #: src/view/screens/Profile.tsx:108
 msgid "Not Found"
-msgstr "Tidak ditemukan"
+msgstr "Tidak Ditemukan"
 
 #: src/view/com/modals/VerifyEmail.tsx:254
 #: src/view/com/modals/VerifyEmail.tsx:260
@@ -4443,7 +4443,7 @@ msgstr "Langkah {0} tur orientasi: {1}"
 
 #: src/view/com/composer/Composer.tsx:589
 msgid "One or more images is missing alt text."
-msgstr "Satu atau lebih gambar belum ada teks alt."
+msgstr "Satu atau beberapa gambar belum memiliki teks alt."
 
 #: src/screens/Onboarding/StepProfile/index.tsx:117
 msgid "Only .jpg and .png files are supported"
@@ -5146,11 +5146,11 @@ msgstr "Kutip postingan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:302
 msgid "Quote post was re-attached"
-msgstr "Postingan kembali dilampirkan pada kutipan"
+msgstr "Kutipan kembali dilampirkan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:301
 msgid "Quote post was successfully detached"
-msgstr "Postingan berhasil dilepaskan dari kutipan"
+msgstr "Kutipan berhasil dilepaskan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:313
 #: src/view/com/util/post-ctrls/RepostButton.tsx:121
@@ -5158,11 +5158,11 @@ msgstr "Postingan berhasil dilepaskan dari kutipan"
 #: src/view/com/util/post-ctrls/RepostButton.web.tsx:84
 #: src/view/com/util/post-ctrls/RepostButton.web.tsx:91
 msgid "Quote posts disabled"
-msgstr "Kutipan postingan dimatikan"
+msgstr "Kutipan dinonaktifkan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:311
 msgid "Quote posts enabled"
-msgstr "Kutipan postingan dinyalakan"
+msgstr "Kutipan diaktifkan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:295
 msgid "Quote settings"
@@ -7130,7 +7130,7 @@ msgstr "Postingan ini hanya dapat dilihat oleh pengguna yang masuk. Ini tidak ak
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:637
 msgid "This post will be hidden from feeds and threads. This cannot be undone."
-msgstr "Postingan ini akan disembunyikan dari semua feed dan utas. Ini tidak dapat dibatalkan."
+msgstr "Postingan ini akan disembunyikan dari semua feed dan utas. Tindakan ini tidak dapat dibatalkan."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:443
 #~ msgid "This post will be hidden from feeds."
@@ -7442,7 +7442,7 @@ msgstr "Berhenti langganan"
 #: src/screens/List/ListHiddenScreen.tsx:184
 #: src/screens/List/ListHiddenScreen.tsx:194
 msgid "Unsubscribe from list"
-msgstr "Berhenti berlangganan dari daftar"
+msgstr "Berhenti berlangganan daftar ini"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:196
 msgid "Unsubscribe from this labeler"
