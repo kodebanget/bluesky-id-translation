@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-08 04:57\n"
+"PO-Revision-Date: 2024-09-08 11:20\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -33,11 +33,11 @@ msgstr "{0, plural, other {{formattedCount} lainnya}}"
 
 #: src/lib/hooks/useTimeAgo.ts:156
 msgid "{0, plural, one {# day} other {# days}}"
-msgstr ""
+msgstr "{0, plural, other {# hari}}"
 
 #: src/lib/hooks/useTimeAgo.ts:146
 msgid "{0, plural, one {# hour} other {# hours}}"
-msgstr ""
+msgstr "{0, plural, other {# jam}}"
 
 #: src/components/moderation/LabelsOnMe.tsx:55
 #~ msgid "{0, plural, one {# label has been placed on this account} other {# labels has been placed on this account}}"
@@ -57,11 +57,11 @@ msgstr "{0, plural, other {# label telah diterapkan pada konten ini}}"
 
 #: src/lib/hooks/useTimeAgo.ts:136
 msgid "{0, plural, one {# minute} other {# minutes}}"
-msgstr ""
+msgstr "{0, plural, other {# menit}}"
 
 #: src/lib/hooks/useTimeAgo.ts:167
 msgid "{0, plural, one {# month} other {# months}}"
-msgstr ""
+msgstr "{0, plural, other {# bulan}}"
 
 #: src/view/com/util/post-ctrls/RepostButton.tsx:71
 msgid "{0, plural, one {# repost} other {# reposts}}"
@@ -69,7 +69,7 @@ msgstr "{0, plural, other {# postingan ulang}}"
 
 #: src/lib/hooks/useTimeAgo.ts:126
 msgid "{0, plural, one {# second} other {# seconds}}"
-msgstr ""
+msgstr "{0, plural, other {# detik}}"
 
 #: src/components/KnownFollowers.tsx:179
 #~ msgid "{0, plural, one {and # other} other {and # others}}"
@@ -134,7 +134,7 @@ msgstr "{0} telah bergabung minggu ini"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:593
 msgid "{0} of {1}"
-msgstr ""
+msgstr "{0} dari {1}"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:467
 msgid "{0} people have used this starter pack!"
@@ -159,27 +159,27 @@ msgstr "Paket pemula {0}"
 #. How many days have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:158
 msgid "{0}d"
-msgstr ""
+msgstr "{0}hr"
 
 #. How many hours have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:148
 msgid "{0}h"
-msgstr ""
+msgstr "{0}j"
 
 #. How many minutes have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:138
 msgid "{0}m"
-msgstr ""
+msgstr "{0}m"
 
 #. How many months have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:169
 msgid "{0}mo"
-msgstr ""
+msgstr "{0}bln"
 
 #. How many seconds have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:128
 msgid "{0}s"
-msgstr ""
+msgstr "{0}d"
 
 #: src/components/LabelingServiceCard/index.tsx:71
 msgid "{count, plural, one {Liked by # user} other {Liked by # users}}"
@@ -468,7 +468,7 @@ msgstr "Tambahkan teks alt"
 
 #: src/view/com/composer/videos/SubtitleDialog.tsx:107
 msgid "Add alt text (optional)"
-msgstr ""
+msgstr "Tambahkan teks alt (opsional)"
 
 #: src/view/screens/AppPasswords.tsx:105
 #: src/view/screens/AppPasswords.tsx:147
@@ -651,7 +651,7 @@ msgstr "Terjadi kesalahan"
 
 #: src/state/queries/video/video.ts:227
 msgid "An error occurred while compressing the video."
-msgstr ""
+msgstr "Terjadi kesalahan saat mengompresi video."
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:315
 msgid "An error occurred while generating your starter pack. Want to try again?"
@@ -663,7 +663,7 @@ msgstr "Terjadi kesalahan saat memuat video. Silakan coba lagi nanti."
 
 #: src/view/com/util/post-embeds/VideoEmbed.web.tsx:170
 msgid "An error occurred while loading the video. Please try again."
-msgstr ""
+msgstr "Kesalahan terjadi saat memuat video. Silakan coba lagi."
 
 #: src/components/StarterPack/ShareDialog.tsx:79
 #~ msgid "An error occurred while saving the image."
@@ -676,7 +676,7 @@ msgstr "Terjadi kesalahan saat menyimpan kode QR!"
 
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:61
 msgid "An error occurred while selecting the video"
-msgstr ""
+msgstr "Kesalahan terjadi saat memilih video"
 
 #: src/components/dms/MessageMenu.tsx:134
 #~ msgid "An error occurred while trying to delete the message. Please try again."
@@ -1168,15 +1168,15 @@ msgstr "Membatalkan membuka situs web tertaut"
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:155
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:191
 msgid "Cannot interact with a blocked user"
-msgstr ""
+msgstr "Tidak dapat berinteraksi dengan pengguna yang diblokir"
 
 #: src/view/com/composer/videos/SubtitleDialog.tsx:133
 msgid "Captions (.vtt)"
-msgstr ""
+msgstr "Subtitel (.vtt)"
 
 #: src/view/com/composer/videos/SubtitleDialog.tsx:54
 msgid "Captions & alt text"
-msgstr ""
+msgstr "Subtitel & teks alt"
 
 #: src/view/com/modals/VerifyEmail.tsx:160
 msgid "Change"
@@ -1749,7 +1749,7 @@ msgstr "Tidak dapat membisukan obrolan"
 
 #: src/view/com/composer/videos/VideoPreview.web.tsx:45
 msgid "Could not process your video"
-msgstr ""
+msgstr "Tidak dapat memproses video"
 
 #: src/components/dms/ConvoMenu.tsx:68
 #~ msgid "Could not unmute chat"
@@ -2029,7 +2029,7 @@ msgstr "Pesan langsung telah hadir!"
 
 #: src/view/screens/AccessibilitySettings.tsx:111
 msgid "Disable autoplay for videos and GIFs"
-msgstr ""
+msgstr "Matikan putar otomatis untuk video dan GIF"
 
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:90
 msgid "Disable Email 2FA"
@@ -2354,7 +2354,7 @@ msgstr "Alamat email"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:95
 msgid "Email Resent"
-msgstr ""
+msgstr "Email Terkirim Ulang"
 
 #: src/view/com/modals/ChangeEmail.tsx:54
 #: src/view/com/modals/ChangeEmail.tsx:83
@@ -2371,7 +2371,7 @@ msgstr "Email terverifikasi"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:71
 msgid "Email Verified"
-msgstr ""
+msgstr "Email Terverifikasi"
 
 #: src/view/screens/Settings/index.tsx:319
 msgid "Email:"
@@ -2454,7 +2454,7 @@ msgstr "Akhir feed"
 
 #: src/view/com/composer/videos/SubtitleDialog.tsx:157
 msgid "Ensure you have selected a language for each subtitle file."
-msgstr ""
+msgstr "Pastikan Anda telah memilih bahasa untuk masing-masing berkas subtitel."
 
 #: src/view/com/modals/AddAppPasswords.tsx:161
 msgid "Enter a name for this App Password"
@@ -2556,7 +2556,7 @@ msgstr "Mengecualikan pengguna yang Anda ikuti"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:353
 msgid "Exit fullscreen"
-msgstr ""
+msgstr "Keluar layar penuh"
 
 #: src/view/com/modals/DeleteAccount.tsx:293
 msgid "Exits account deletion process"
@@ -2737,7 +2737,7 @@ msgstr "Gagal memperbarui pengaturan"
 #: src/state/queries/video/video-upload.web.ts:68
 #: src/state/queries/video/video-upload.web.ts:78
 msgid "Failed to upload video"
-msgstr ""
+msgstr "Gagal untuk menggunggah video"
 
 #: src/Navigation.tsx:226
 msgid "Feed"
@@ -3064,7 +3064,7 @@ msgstr "Dari <0/>"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:354
 msgid "Fullscreen"
-msgstr ""
+msgstr "Layar penuh"
 
 #: src/view/com/composer/photos/SelectPhotoBtn.tsx:39
 msgid "Gallery"
@@ -3321,7 +3321,7 @@ msgstr "Hmmmm, kami tidak dapat memuat layanan moderasi."
 
 #: src/state/queries/video/video.ts:165
 msgid "Hold up! We’re gradually giving access to video, and you’re still waiting in line. Check back soon!"
-msgstr ""
+msgstr "Tunggu! Kami secara bertahap memberikan akses video, dan anda masih menunggu dalam antrian. Periksa kembali nanti!"
 
 #: src/Navigation.tsx:550
 #: src/Navigation.tsx:570
@@ -3416,7 +3416,7 @@ msgstr "Impersonasi atau klaim palsu tentang identitas atau afiliasi"
 
 #: src/lib/moderation/useReportOptions.ts:68
 msgid "Impersonation, misinformation, or false claims"
-msgstr ""
+msgstr "Peniruan, informasi yang salah, atau klaim palsu"
 
 #: src/lib/moderation/useReportOptions.ts:91
 msgid "Inappropriate messages or explicit links"
@@ -3489,7 +3489,7 @@ msgstr "Nama pengguna atau kata sandi salah"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:82
 msgid "Invalid Verification Code"
-msgstr ""
+msgstr "Kode verifikasi tidak valid"
 
 #: src/view/com/modals/InviteCodes.tsx:94
 msgid "Invite a Friend"
@@ -3533,7 +3533,7 @@ msgstr "Hanya ada Anda saat ini! Tambahkan lebih banyak orang ke paket pemula An
 
 #: src/view/com/composer/Composer.tsx:1125
 msgid "Job ID: {0}"
-msgstr ""
+msgstr "ID Pekerjaan: {0}"
 
 #: src/view/com/auth/SplashScreen.web.tsx:164
 msgid "Jobs"
@@ -3959,7 +3959,7 @@ msgstr "Akun Menyesatkan"
 
 #: src/lib/moderation/useReportOptions.ts:67
 msgid "Misleading Post"
-msgstr ""
+msgstr "Postingan yang tidak benar"
 
 #: src/screens/Settings/AppearanceSettings.tsx:78
 msgid "Mode"
@@ -4574,7 +4574,7 @@ msgstr "Balasan terlama lebih dulu"
 
 #: src/components/StarterPack/QrCode.tsx:70
 msgid "on<0><1/><2><3/></2></0>"
-msgstr ""
+msgstr "di<0><1/><2><3/></2></0>"
 
 #: src/view/screens/Settings/index.tsx:226
 msgid "Onboarding reset"
@@ -4606,7 +4606,7 @@ msgstr "Hanya berisi huruf, angka, dan tanda hubung"
 
 #: src/view/com/composer/videos/SubtitleFilePicker.tsx:31
 msgid "Only WebVTT (.vtt) files are supported"
-msgstr ""
+msgstr "Hanya mendukung berkas WebVTT (.vtt)"
 
 #: src/components/Lists.tsx:88
 msgid "Oops, something went wrong!"
@@ -5143,7 +5143,7 @@ msgstr "Postingan"
 
 #: src/components/dialogs/MutedWords.tsx:115
 msgid "Posts can be muted based on their text, their tags, or both. We recommend avoiding common words that appear in many posts, since it can result in no posts being shown."
-msgstr "Postingan dapat dibisukan berdasarkan teks, tagar, atau keduanya. Sebaiknya hindari kata umum yang sering muncul dalam postingan, karena dapat mengakibatkan tidak adanya postingan yang ditampilkan."
+msgstr "Postingan dapat dibisukan berdasarkan teks, tagar, atau keduanya. Sebaiknya hindari kata-kata umum yang muncul dalam postingan, karena dapat mengakibatkan tidak adanya postingan yang ditampilkan."
 
 #: src/view/com/posts/FeedErrorMessage.tsx:68
 msgid "Posts hidden"
@@ -5409,7 +5409,7 @@ msgstr "Hapus akun"
 
 #: src/view/com/composer/ExternalEmbedRemoveBtn.tsx:28
 msgid "Remove attachment"
-msgstr ""
+msgstr "Hapus lampiran"
 
 #: src/view/com/util/UserAvatar.tsx:387
 msgid "Remove Avatar"
@@ -5485,7 +5485,7 @@ msgstr "Hapus postingan ulang"
 
 #: src/view/com/composer/videos/SubtitleDialog.tsx:260
 msgid "Remove subtitle file"
-msgstr ""
+msgstr "Hapus berkas subtitel"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:211
 msgid "Remove this feed from your saved feeds"
@@ -5780,11 +5780,11 @@ msgstr "Kirim ulang email"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:130
 msgid "Resend Email"
-msgstr ""
+msgstr "Kirim Ulang Email"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:123
 msgid "Resend Verification Email"
-msgstr ""
+msgstr "Kirim Ulang Verifikasi Email"
 
 #: src/view/com/modals/ChangePassword.tsx:186
 msgid "Reset code"
@@ -6096,7 +6096,7 @@ msgstr "Pilih berapa lama kata ini akan dibisukan."
 
 #: src/view/com/composer/videos/SubtitleDialog.tsx:245
 msgid "Select language..."
-msgstr ""
+msgstr "Pilih bahasa..."
 
 #: src/view/screens/LanguageSettings.tsx:303
 msgid "Select languages"
@@ -6116,7 +6116,7 @@ msgstr "Pilih opsi {i} dari {numItems}"
 
 #: src/view/com/composer/videos/SubtitleFilePicker.tsx:57
 msgid "Select subtitle file (.vtt)"
-msgstr ""
+msgstr "Pilih berkas subtitel (.vtt)"
 
 #: src/screens/Onboarding/StepProfile/AvatarCreatorItems.tsx:83
 msgid "Select the {emojiName} emoji as your avatar"
@@ -6886,7 +6886,7 @@ msgstr "Ketuk untuk mengubah suara"
 #: src/view/com/util/images/AutoSizedImage.tsx:190
 #: src/view/com/util/images/AutoSizedImage.tsx:210
 msgid "Tap to view full image"
-msgstr ""
+msgstr "Ketuk untuk melihat gambar sepenuhnya"
 
 #: src/view/com/util/images/AutoSizedImage.tsx:70
 #~ msgid "Tap to view fully"
@@ -6952,7 +6952,7 @@ msgstr "Terima kasih. Laporan Anda telah terkirim."
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:74
 msgid "Thanks, you have successfully verified your email address."
-msgstr ""
+msgstr "Terima kasih, Anda telah berhasil memverifikasi alamat email Anda."
 
 #: src/view/com/modals/ChangeHandle.tsx:459
 msgid "That contains the following:"
@@ -7057,7 +7057,7 @@ msgstr "Ketentuan Layanan telah dipindahkan ke"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:85
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
-msgstr ""
+msgstr "Kode verifikasi yang Anda berikan tidak valid. Pastikan Anda telah menggunakan tautan verifikasi yang benar atau minta yang baru."
 
 #: src/screens/Onboarding/StepAlgoFeeds/index.tsx:141
 #~ msgid "There are many feeds to try:"
@@ -7432,7 +7432,7 @@ msgstr "Untuk melaporkan percakapan, silakan laporkan salah satu pesannya melalu
 
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:106
 msgid "To upload videos to Bluesky, you must first verify your email."
-msgstr ""
+msgstr "Untuk mengunggah video ke Bluesky, Anda harus memverifikasi email Anda terlebih dahulu."
 
 #: src/components/ReportDialog/SelectLabelerView.tsx:33
 msgid "To whom would you like to send this report?"
@@ -7649,7 +7649,7 @@ msgstr "Telah berhenti berlangganan dari daftar"
 
 #: src/state/queries/video/video.ts:240
 msgid "Unsupported video type: {mimeType}"
-msgstr ""
+msgstr "Tipe video tidak didukung: {mimeType}"
 
 #: src/lib/moderation/useReportOptions.ts:85
 #~ msgid "Unwanted sexual content"
@@ -7836,7 +7836,7 @@ msgstr "Nilai:"
 
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:104
 msgid "Verified email required"
-msgstr ""
+msgstr "Diperlukan email yang terverifikasi"
 
 #: src/view/com/modals/ChangeHandle.tsx:510
 #~ msgid "Verify {0}"
@@ -7852,7 +7852,7 @@ msgstr "Verifikasi email"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:61
 msgid "Verify email dialog"
-msgstr ""
+msgstr "Dialog verifikasi email"
 
 #: src/view/screens/Settings/index.tsx:961
 msgid "Verify my email"
@@ -7869,7 +7869,7 @@ msgstr "Verifikasi Email Baru"
 
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:108
 msgid "Verify now"
-msgstr ""
+msgstr "Verifikasi sekarang"
 
 #: src/view/com/modals/ChangeHandle.tsx:505
 msgid "Verify Text File"
@@ -7894,7 +7894,7 @@ msgstr "Video"
 
 #: src/state/queries/video/video.ts:138
 msgid "Video failed to process"
-msgstr ""
+msgstr "Video gagal diproses"
 
 #: src/screens/Onboarding/index.tsx:39
 #: src/screens/Onboarding/state.ts:88
@@ -7903,15 +7903,15 @@ msgstr "Permainan Video"
 
 #: src/view/com/util/post-embeds/VideoEmbed.web.tsx:163
 msgid "Video not found."
-msgstr ""
+msgstr "Video tidak ditemukan."
 
 #: src/view/com/composer/videos/SubtitleDialog.tsx:99
 msgid "Video settings"
-msgstr ""
+msgstr "Pengaturan video"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:77
 msgid "Video: {0}"
-msgstr ""
+msgstr "Video: {0}"
 
 #: src/view/com/composer/videos/state.ts:27
 #~ msgid "Videos cannot be larger than 100MB"
@@ -8028,7 +8028,7 @@ msgstr "Kami perkirakan {estimatedTime} hingga akun Anda siap."
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:98
 msgid "We have sent another verification email to <0>{0}</0>."
-msgstr ""
+msgstr "Kami telah mengirimkan email verifikasi lagi ke <0> {0} </0>."
 
 #: src/screens/Onboarding/StepFinished.tsx:238
 msgid "We hope you have a wonderful time. Remember, Bluesky is:"
@@ -8048,7 +8048,7 @@ msgstr "Kami kehabisan postingan dari akun yang Anda ikuti. Inilah yang terbaru 
 
 #: src/state/queries/video/video.ts:170
 msgid "We were unable to determine if you are allowed to upload videos. Please try again."
-msgstr ""
+msgstr "Kami tidak dapat menentukan jika Anda diizinkan untuk mengunggah video. Silakan coba lagi."
 
 #: src/components/dialogs/BirthDateSettings.tsx:52
 msgid "We were unable to load your birth date preferences. Please try again."
@@ -8268,7 +8268,7 @@ msgstr "Anda sedang dalam antrian."
 
 #: src/state/queries/video/video.ts:161
 msgid "You are not allowed to upload videos."
-msgstr ""
+msgstr "Anda tidak diizinkan untuk mengunggah video."
 
 #: src/view/com/profile/ProfileFollows.tsx:95
 msgid "You are not following anyone."
@@ -8401,7 +8401,7 @@ msgstr "Anda telah mencapai akhir"
 
 #: src/state/queries/video/video-upload.shared.ts:67
 msgid "You have temporarily reached the limit for video uploads. Please try again later."
-msgstr ""
+msgstr "Anda telah mencapai batas sementara dalam mengunggah video. Silakan coba lagi nanti."
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:235
 msgid "You haven't created a starter pack yet!"
@@ -8542,11 +8542,11 @@ msgstr "Anda telah mencapai bagian akhir feed! Temukan lebih banyak akun lain un
 
 #: src/state/queries/video/video.ts:175
 msgid "You've reached your daily limit for video uploads (too many bytes)"
-msgstr ""
+msgstr "Anda telah mencapai batas harian dalam menggunggah video (terlalu banyak byte)"
 
 #: src/state/queries/video/video.ts:180
 msgid "You've reached your daily limit for video uploads (too many videos)"
-msgstr ""
+msgstr "Anda telah mencapai batas harian dalam mengunggah video (terlalu banyak video)"
 
 #: src/screens/Signup/index.tsx:146
 msgid "Your account"
