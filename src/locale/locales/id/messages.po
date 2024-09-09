@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-08 23:41\n"
+"PO-Revision-Date: 2024-09-09 14:39\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -126,7 +126,7 @@ msgstr "{0} <0>dalam <1>tagar</1></0>"
 #. Pattern: {wordValue} in text, tags
 #: src/components/dialogs/MutedWords.tsx:465
 msgid "{0} <0>in <1>text & tags</1></0>"
-msgstr "{0} <0>dalam <1>teks dan tagar</1></0>"
+msgstr "{0} <0>dalam <1>teks & tagar</1></0>"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:228
 msgid "{0} joined this week"
@@ -2008,7 +2008,7 @@ msgstr "Lepaskan kutipan postingan ini?"
 
 #: src/components/WhoCanReply.tsx:175
 msgid "Dialog: adjust who can interact with this post"
-msgstr "Dialog: atur siapa saja yang dapat berinteraksi dengan postingan ini"
+msgstr "Dialog: sesuaikan siapa saja yang dapat berinteraksi dengan postingan ini"
 
 #: src/view/com/composer/Composer.tsx:351
 msgid "Did you want to say anything?"
@@ -2601,7 +2601,7 @@ msgstr "Kedaluwarsa"
 
 #: src/components/dialogs/MutedWords.tsx:502
 msgid "Expires {0}"
-msgstr "Kedaluwarsa pada {0}"
+msgstr "Kedaluwarsa {0}"
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:47
 msgid "Explicit or potentially disturbing media."
@@ -3266,7 +3266,7 @@ msgstr "Sembunyikan postingan untuk saya"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:518
 #: src/view/com/util/forms/PostDropdownBtn.tsx:528
 msgid "Hide reply for everyone"
-msgstr "Sembunyikan balasan untuk semuanya"
+msgstr "Sembunyikan dari semua orang"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:500
 #: src/view/com/util/forms/PostDropdownBtn.tsx:506
@@ -3615,7 +3615,7 @@ msgstr "Pelajari Lebih Lanjut"
 
 #: src/view/com/auth/SplashScreen.web.tsx:152
 msgid "Learn more about Bluesky"
-msgstr "Pelajari lebih lanjut mengenai Bluesky"
+msgstr "Pelajari lebih lanjut tentang Bluesky"
 
 #: src/components/moderation/ContentHider.tsx:66
 #: src/components/moderation/ContentHider.tsx:131
@@ -4088,7 +4088,7 @@ msgstr "Bisukan percakapan"
 
 #: src/components/dialogs/MutedWords.tsx:253
 msgid "Mute in:"
-msgstr "Bisukan di:"
+msgstr "Bisukan pada:"
 
 #: src/view/screens/ProfileList.tsx:734
 msgid "Mute list"
@@ -6056,7 +6056,7 @@ msgstr "Lihat panduan ini"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:587
 msgid "Seek slider"
-msgstr ""
+msgstr "Penggeser"
 
 #: src/view/com/util/Selector.tsx:106
 msgid "Select {item}"
@@ -6503,7 +6503,7 @@ msgstr "Tampilkan balasan dari orang yang Anda ikuti sebelum balasan lainnya."
 #: src/view/com/util/forms/PostDropdownBtn.tsx:517
 #: src/view/com/util/forms/PostDropdownBtn.tsx:527
 msgid "Show reply for everyone"
-msgstr "Tampilkan balasan untuk semua orang"
+msgstr "Tampilkan untuk semua orang"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:84
 msgid "Show Reposts"
