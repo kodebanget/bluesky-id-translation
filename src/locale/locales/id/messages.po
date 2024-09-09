@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-09 14:39\n"
+"PO-Revision-Date: 2024-09-09 20:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -900,7 +900,7 @@ msgstr "Kembali"
 
 #: src/view/screens/Settings/index.tsx:441
 msgid "Basics"
-msgstr "Dasar"
+msgstr "Umum"
 
 #: src/components/dialogs/BirthDateSettings.tsx:107
 msgid "Birthday"
@@ -964,7 +964,7 @@ msgstr "Akun yang diblokir tidak dapat membalas utas Anda, menyebut Anda, atau b
 
 #: src/view/com/post-thread/PostThread.tsx:412
 msgid "Blocked post."
-msgstr "Postingan yang diblokir."
+msgstr "Postingan diblokir."
 
 #: src/screens/Profile/Sections/Labels.tsx:173
 msgid "Blocking does not prevent this labeler from placing labels on your account."
@@ -1654,7 +1654,7 @@ msgstr "Disalin"
 
 #: src/view/screens/Settings/index.tsx:233
 msgid "Copied build version to clipboard"
-msgstr "Menyalin versi build ke papan klip"
+msgstr "Versi build disalin ke papan klip"
 
 #: src/components/dms/MessageMenu.tsx:57
 #: src/view/com/modals/AddAppPasswords.tsx:80
@@ -2525,7 +2525,7 @@ msgstr "Semua orang"
 
 #: src/components/WhoCanReply.tsx:67
 msgid "Everybody can reply"
-msgstr "Semua orang dapat membalas"
+msgstr "Semua dapat membalas"
 
 #: src/components/WhoCanReply.tsx:213
 msgid "Everybody can reply to this post."
@@ -7399,7 +7399,7 @@ msgstr "Ini akan menghapus @{0} dari daftar akses cepat."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:689
 msgid "This will remove your post from this quote post for all users, and replace it with a placeholder."
-msgstr "Ini akan menghapus postingan Anda dari kutipan ini untuk semua pengguna, dan menggantinya dengan placeholder."
+msgstr "Ini akan menghapus postingan Anda dari kutipan ini untuk semua pengguna, dan menempatkan teks pengganti."
 
 #: src/view/screens/Settings/index.tsx:560
 msgid "Thread preferences"
