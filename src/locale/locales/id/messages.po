@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-10 11:08\n"
+"PO-Revision-Date: 2024-09-10 17:15\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -663,7 +663,7 @@ msgstr "Terjadi kesalahan saat memuat video. Silakan coba lagi nanti."
 
 #: src/view/com/util/post-embeds/VideoEmbed.web.tsx:170
 msgid "An error occurred while loading the video. Please try again."
-msgstr "Kesalahan terjadi saat memuat video. Silakan coba lagi."
+msgstr "Terjadi kesalahan saat memuat video. Silakan coba lagi."
 
 #: src/components/StarterPack/ShareDialog.tsx:79
 #~ msgid "An error occurred while saving the image."
@@ -676,7 +676,7 @@ msgstr "Terjadi kesalahan saat menyimpan kode QR!"
 
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:61
 msgid "An error occurred while selecting the video"
-msgstr "Kesalahan terjadi saat memilih video"
+msgstr "Terjadi kesalahan saat memilih video"
 
 #: src/components/dms/MessageMenu.tsx:134
 #~ msgid "An error occurred while trying to delete the message. Please try again."
@@ -1082,7 +1082,7 @@ msgstr "oleh <0/>"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:80
 msgid "By creating an account you agree to the {els}."
-msgstr "Dengan membuat akun berarti Anda setuju dengan {els}."
+msgstr "Dengan membuat akun, Anda menyatakan setuju dengan {els}."
 
 #: src/view/com/profile/ProfileSubpageHeader.tsx:162
 msgid "by you"
@@ -1818,7 +1818,7 @@ msgstr "Buat laporan untuk {0}"
 
 #: src/view/screens/AppPasswords.tsx:246
 msgid "Created {0}"
-msgstr "Dibuat {0}"
+msgstr "Dibuat pada {0}"
 
 #: src/view/com/composer/Composer.tsx:469
 #~ msgid "Creates a card with a thumbnail. The card links to {url}"
@@ -2004,7 +2004,7 @@ msgstr "Lepaskan kutipan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:687
 msgid "Detach quote post?"
-msgstr "Lepaskan kutipan postingan ini?"
+msgstr "Lepaskan kutipan ini?"
 
 #: src/components/WhoCanReply.tsx:175
 msgid "Dialog: adjust who can interact with this post"
@@ -2354,7 +2354,7 @@ msgstr "Alamat email"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:95
 msgid "Email Resent"
-msgstr "Email Terkirim Ulang"
+msgstr "Email Dikirim Ulang"
 
 #: src/view/com/modals/ChangeEmail.tsx:54
 #: src/view/com/modals/ChangeEmail.tsx:83
@@ -2737,7 +2737,7 @@ msgstr "Gagal memperbarui pengaturan"
 #: src/state/queries/video/video-upload.web.ts:68
 #: src/state/queries/video/video-upload.web.ts:78
 msgid "Failed to upload video"
-msgstr "Gagal untuk menggunggah video"
+msgstr "Gagal menggunggah video"
 
 #: src/Navigation.tsx:226
 msgid "Feed"
@@ -3321,7 +3321,7 @@ msgstr "Hmmmm, kami tidak dapat memuat layanan moderasi."
 
 #: src/state/queries/video/video.ts:165
 msgid "Hold up! We’re gradually giving access to video, and you’re still waiting in line. Check back soon!"
-msgstr "Tunggu! Kami secara bertahap memberikan akses video, dan anda masih menunggu dalam antrian. Periksa kembali nanti!"
+msgstr "Harap tunggu! Kami secara bertahap memberikan akses video, dan Anda masih dalam antrian. Periksa kembali nanti!"
 
 #: src/Navigation.tsx:550
 #: src/Navigation.tsx:570
@@ -3489,7 +3489,7 @@ msgstr "Nama pengguna atau kata sandi salah"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:82
 msgid "Invalid Verification Code"
-msgstr "Kode verifikasi tidak valid"
+msgstr "Kode Verifikasi Tidak Valid"
 
 #: src/view/com/modals/InviteCodes.tsx:94
 msgid "Invite a Friend"
@@ -3703,7 +3703,7 @@ msgstr "Sukai 10 postingan untuk melatih feed Discover"
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:267
 #: src/view/screens/ProfileFeed.tsx:575
 msgid "Like this feed"
-msgstr "Suka feed ini"
+msgstr "Sukai feed ini"
 
 #: src/components/LikesDialog.tsx:87
 #: src/Navigation.tsx:231
@@ -3959,7 +3959,7 @@ msgstr "Akun Menyesatkan"
 
 #: src/lib/moderation/useReportOptions.ts:67
 msgid "Misleading Post"
-msgstr "Postingan yang tidak benar"
+msgstr "Postingan yang Menyesatkan"
 
 #: src/screens/Settings/AppearanceSettings.tsx:78
 msgid "Mode"
@@ -4562,7 +4562,7 @@ msgstr "OK"
 
 #: src/screens/Login/PasswordUpdatedForm.tsx:44
 msgid "Okay"
-msgstr "Baiklah"
+msgstr "Oke"
 
 #: src/view/screens/PreferencesThreads.tsx:72
 msgid "Oldest replies first"
@@ -5413,7 +5413,7 @@ msgstr "Hapus akun"
 
 #: src/view/com/composer/ExternalEmbedRemoveBtn.tsx:28
 msgid "Remove attachment"
-msgstr "Hapus lampiran"
+msgstr "Hapus sematan"
 
 #: src/view/com/util/UserAvatar.tsx:387
 msgid "Remove Avatar"
@@ -5788,7 +5788,7 @@ msgstr "Kirim Ulang Email"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:123
 msgid "Resend Verification Email"
-msgstr "Kirim Ulang Verifikasi Email"
+msgstr "Kirim Ulang Email Verifikasi"
 
 #: src/view/com/modals/ChangePassword.tsx:186
 msgid "Reset code"
@@ -8036,7 +8036,7 @@ msgstr "Kami perkirakan {estimatedTime} hingga akun Anda siap."
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:98
 msgid "We have sent another verification email to <0>{0}</0>."
-msgstr "Kami telah mengirimkan email verifikasi lagi ke <0> {0} </0>."
+msgstr "Kami telah mengirimkan email verifikasi lagi ke <0>{0}</0>."
 
 #: src/screens/Onboarding/StepFinished.tsx:238
 msgid "We hope you have a wonderful time. Remember, Bluesky is:"
