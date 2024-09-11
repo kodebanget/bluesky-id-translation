@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-10 17:15\n"
+"PO-Revision-Date: 2024-09-11 13:33\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3266,7 +3266,7 @@ msgstr "Sembunyikan postingan untuk saya"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:518
 #: src/view/com/util/forms/PostDropdownBtn.tsx:528
 msgid "Hide reply for everyone"
-msgstr "Sembunyikan dari semua orang"
+msgstr "Sembunyikan balasan untuk semua"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:500
 #: src/view/com/util/forms/PostDropdownBtn.tsx:506
