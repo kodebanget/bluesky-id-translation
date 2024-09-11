@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-11 13:33\n"
+"PO-Revision-Date: 2024-09-11 20:04\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3416,7 +3416,7 @@ msgstr "Impersonasi atau klaim palsu tentang identitas atau afiliasi"
 
 #: src/lib/moderation/useReportOptions.ts:68
 msgid "Impersonation, misinformation, or false claims"
-msgstr "Peniruan, informasi yang salah, atau klaim palsu"
+msgstr "Impersonasi, misinformasi, atau klaim palsu"
 
 #: src/lib/moderation/useReportOptions.ts:91
 msgid "Inappropriate messages or explicit links"
@@ -3959,7 +3959,7 @@ msgstr "Akun Menyesatkan"
 
 #: src/lib/moderation/useReportOptions.ts:67
 msgid "Misleading Post"
-msgstr "Postingan yang Menyesatkan"
+msgstr "Postingan Menyesatkan"
 
 #: src/screens/Settings/AppearanceSettings.tsx:78
 msgid "Mode"
@@ -5533,7 +5533,7 @@ msgstr "Menghapus postingan yang dikutip"
 
 #: src/view/com/composer/ExternalEmbedRemoveBtn.tsx:29
 msgid "Removes the attachment"
-msgstr "Menghapus lampiran"
+msgstr "Menghapus sematan"
 
 #: src/view/com/composer/ExternalEmbedRemoveBtn.tsx:29
 #~ msgid "Removes the image preview"
@@ -6507,7 +6507,7 @@ msgstr "Tampilkan balasan dari orang yang Anda ikuti sebelum balasan lainnya."
 #: src/view/com/util/forms/PostDropdownBtn.tsx:517
 #: src/view/com/util/forms/PostDropdownBtn.tsx:527
 msgid "Show reply for everyone"
-msgstr "Tampilkan untuk semua orang"
+msgstr "Tampilkan balasan untuk semua"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:84
 msgid "Show Reposts"
@@ -8036,7 +8036,7 @@ msgstr "Kami perkirakan {estimatedTime} hingga akun Anda siap."
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:98
 msgid "We have sent another verification email to <0>{0}</0>."
-msgstr "Kami telah mengirimkan email verifikasi lagi ke <0>{0}</0>."
+msgstr "Kami telah mengirimkan email verifikasi baru ke <0>{0}</0>."
 
 #: src/screens/Onboarding/StepFinished.tsx:238
 msgid "We hope you have a wonderful time. Remember, Bluesky is:"
@@ -8056,7 +8056,7 @@ msgstr "Kami kehabisan postingan dari akun yang Anda ikuti. Inilah yang terbaru 
 
 #: src/state/queries/video/video.ts:170
 msgid "We were unable to determine if you are allowed to upload videos. Please try again."
-msgstr "Kami tidak dapat menentukan jika Anda diizinkan untuk mengunggah video. Silakan coba lagi."
+msgstr "Kami tidak dapat memeriksa apakah Anda diizinkan untuk mengunggah video. Silakan coba lagi."
 
 #: src/components/dialogs/BirthDateSettings.tsx:52
 msgid "We were unable to load your birth date preferences. Please try again."
@@ -8566,7 +8566,7 @@ msgstr "Akun Anda telah dihapus"
 
 #: src/state/queries/video/video.ts:185
 msgid "Your account is not yet old enough to upload videos. Please try again later."
-msgstr "Akun anda belum cukup lama untuk menggungah video. Silakan coba lagi."
+msgstr "Akun Anda belum cukup lama untuk menggungah video. Silakan coba lagi nanti."
 
 #: src/view/screens/Settings/ExportCarDialog.tsx:65
 msgid "Your account repository, containing all public data records, can be downloaded as a \"CAR\" file. This file does not include media embeds, such as images, or your private data, which must be fetched separately."
