@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-12 04:55\n"
+"PO-Revision-Date: 2024-09-12 09:31\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -7928,7 +7928,7 @@ msgstr "Video: {0}"
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:58
 #: src/view/com/composer/videos/VideoPreview.web.tsx:44
 msgid "Videos must be less than 60 seconds long"
-msgstr ""
+msgstr "Durasi video harus kurang dari 60 detik"
 
 #: src/screens/Profile/Header/Shell.tsx:113
 msgid "View {0}'s avatar"
