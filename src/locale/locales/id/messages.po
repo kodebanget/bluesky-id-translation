@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-12 09:31\n"
+"PO-Revision-Date: 2024-09-13 15:25\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6060,7 +6060,7 @@ msgstr "Lihat panduan ini"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:631
 msgid "Seek slider"
-msgstr "Penggeser"
+msgstr "Jangka geser"
 
 #: src/view/com/util/Selector.tsx:106
 msgid "Select {item}"
