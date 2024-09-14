@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-14 04:54\n"
+"PO-Revision-Date: 2024-09-14 11:32\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -667,7 +667,7 @@ msgstr "Terjadi kesalahan saat memuat video. Silakan coba lagi."
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:250
 msgid "An error occurred while saving the image!"
-msgstr ""
+msgstr "Terjadi kesalahan saat menyimpan gambar!"
 
 #: src/components/StarterPack/ShareDialog.tsx:79
 #~ msgid "An error occurred while saving the image."
@@ -6971,7 +6971,7 @@ msgstr "Beritahu kami lebih lanjut"
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:518
 msgid "Ten Million"
-msgstr ""
+msgstr "Sepuluh Juta"
 
 #: src/view/shell/desktop/RightNav.tsx:90
 msgid "Terms"
@@ -7012,7 +7012,7 @@ msgstr "Terima kasih. Laporan Anda telah terkirim."
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:593
 msgid "Thanks for being one of our first 10 million users."
-msgstr ""
+msgstr "Terima kasih telah menjadi bagian dari 10 juta pengguna pertama."
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:74
 msgid "Thanks, you have successfully verified your email address."
