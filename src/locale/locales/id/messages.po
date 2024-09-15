@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-15 13:01\n"
+"PO-Revision-Date: 2024-09-15 19:22\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2928,7 +2928,7 @@ msgstr "Ikuti semua"
 #: src/view/com/profile/FollowButton.tsx:79
 msgctxt "action"
 msgid "Follow Back"
-msgstr "Ikuti balik"
+msgstr "Ikuti Balik"
 
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:223
 #: src/view/com/post-thread/PostThreadFollowBtn.tsx:142
@@ -6307,7 +6307,7 @@ msgstr "Pilih \"Ya\" untuk menampilkan beberapa sampel dari feed tersimpan di fe
 
 #: src/screens/Onboarding/Layout.tsx:48
 msgid "Set up your account"
-msgstr "Atur akun Anda"
+msgstr "Siapkan akun Anda"
 
 #: src/view/com/modals/ChangeHandle.tsx:261
 msgid "Sets Bluesky username"
@@ -6408,7 +6408,7 @@ msgstr "Bagikan gambar secara eksternal"
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:639
 msgid "Share image in post"
-msgstr "Bagikan gambar dalam kiriman"
+msgstr "Bagikan gambar dalam postingan"
 
 #: src/components/StarterPack/ShareDialog.tsx:124
 #: src/components/StarterPack/ShareDialog.tsx:131
@@ -8158,7 +8158,7 @@ msgstr "Kami sangat senang Anda bergabung dengan kami!"
 
 #: src/view/screens/ProfileList.tsx:102
 msgid "We're sorry, but we were unable to resolve this list. If this persists, please contact the list creator, @{handleOrDid}."
-msgstr "Mohon maaf, kami tidak dapat menyelesaikan daftar ini. Jika hal ini terus berlanjut, silakan hubungi pembuat daftar, @{handleOrDid}."
+msgstr "Maaf, kami tidak dapat memuat daftar ini. Jika masalah berlanjut, silakan hubungi pembuat daftar, @{handleOrDid}."
 
 #: src/components/dialogs/MutedWords.tsx:378
 msgid "We're sorry, but we weren't able to load your muted words at this time. Please try again."
