@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-15 00:14\n"
+"PO-Revision-Date: 2024-09-15 13:01\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1192,7 +1192,7 @@ msgstr "Subtitel & teks alt"
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:368
 msgid "Celebrating {0} users"
-msgstr "Pencapaian {0} pengguna"
+msgstr "Merayakan {0} pengguna"
 
 #: src/view/com/modals/VerifyEmail.tsx:160
 msgid "Change"
@@ -3991,7 +3991,7 @@ msgstr "Akun Menyesatkan"
 
 #: src/lib/moderation/useReportOptions.ts:67
 msgid "Misleading Post"
-msgstr "Postingan Menyesatkan"
+msgstr "Postingan yang Menyesatkan"
 
 #: src/screens/Settings/AppearanceSettings.tsx:78
 msgid "Mode"
