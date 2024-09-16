@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-15 19:22\n"
+"PO-Revision-Date: 2024-09-16 15:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1016,7 +1016,7 @@ msgstr "Bluesky lebih seru jika bersama teman!"
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:206
 msgid "Bluesky now has over 10 million users, and I was #{0}!"
-msgstr "Bluesky telah lebih dari 10 juta pengguna, dan saya berada diurutan ke-#{0}!"
+msgstr "Bluesky telah memiliki lebih dari 10 juta pengguna, dan saya pengguna ke-#{0}!"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:282
 msgid "Bluesky will choose a set of recommended accounts from people in your network."
@@ -2576,7 +2576,7 @@ msgstr "Mengecualikan pengguna yang Anda ikuti"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoWebControls.tsx:397
 msgid "Exit fullscreen"
-msgstr "Keluar layar penuh"
+msgstr "Keluar dari layar penuh"
 
 #: src/view/com/modals/DeleteAccount.tsx:293
 msgid "Exits account deletion process"
