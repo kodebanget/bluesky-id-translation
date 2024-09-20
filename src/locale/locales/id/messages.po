@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-20 16:33\n"
+"PO-Revision-Date: 2024-09-20 22:31\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1016,7 +1016,7 @@ msgstr "Bluesky lebih seru jika bersama teman!"
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:206
 msgid "Bluesky now has over 10 million users, and I was #{0}!"
-msgstr "Bluesky telah memiliki lebih dari 10 juta pengguna, dan saya pengguna ke-#{0}!"
+msgstr "Bluesky telah memiliki lebih dari 10 juta pengguna dan saya pengguna ke-{0}!"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:282
 msgid "Bluesky will choose a set of recommended accounts from people in your network."
@@ -2225,7 +2225,7 @@ msgstr "contoh: kresna.com"
 
 #: src/view/com/modals/EditProfile.tsx:204
 msgid "e.g. Artist, dog-lover, and avid reader."
-msgstr "contoh: Seniman, penyayang anjing, dan pembaca setia."
+msgstr "contoh: Penulis, penyiar radio, dan sejarawan."
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:43
 msgid "E.g. artistic nudes."
@@ -7361,7 +7361,7 @@ msgstr "Tautan ini akan membawa Anda ke situs web berikut:"
 
 #: src/screens/List/ListHiddenScreen.tsx:136
 msgid "This list - created by <0>{0}</0> - contains possible violations of Bluesky's community guidelines in its name or description."
-msgstr "Daftar yang dibuat oleh <0>{0}</0> ini mungkin mengandung pelanggaran panduan komunitas Bluesky pada nama atau deskripsinya."
+msgstr "Daftar yang dibuat oleh <0>{0}</0> ini mengandung kemungkinan pelanggaran pedoman komunitas Bluesky pada nama atau deskripsinya."
 
 #: src/view/screens/ProfileList.tsx:963
 msgid "This list is empty!"
@@ -7504,7 +7504,7 @@ msgstr "Kepada siapa Anda ingin mengirimkan laporan ini?"
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:597
 msgid "Together, we're rebuilding the social internet. We're glad you're here."
-msgstr "Bersama, kita membangun internet sosial. Kami senang Anda berada disini."
+msgstr "Bersama, kita bangun kembali internet sosial. Kami senang Anda bergabung di sini."
 
 #: src/components/dialogs/MutedWords.tsx:112
 #~ msgid "Toggle between muted word options."
@@ -8126,7 +8126,7 @@ msgstr "Kami kehabisan postingan dari akun yang Anda ikuti. Inilah yang terbaru 
 
 #: src/state/queries/video/video.ts:170
 msgid "We were unable to determine if you are allowed to upload videos. Please try again."
-msgstr "Kami tidak dapat memeriksa apakah Anda diizinkan untuk mengunggah video. Silakan coba lagi."
+msgstr "Kami tidak dapat memastikan apakah Anda diizinkan untuk mengunggah video. Silakan coba lagi."
 
 #: src/components/dialogs/BirthDateSettings.tsx:52
 msgid "We were unable to load your birth date preferences. Please try again."
@@ -8637,7 +8637,7 @@ msgstr "Akun Anda telah dihapus"
 
 #: src/state/queries/video/video.ts:185
 msgid "Your account is not yet old enough to upload videos. Please try again later."
-msgstr "Akun Anda belum cukup lama untuk menggungah video. Silakan coba lagi nanti."
+msgstr "Usia akun Anda belum cukup lama untuk menggungah video. Silakan coba lagi nanti."
 
 #: src/view/screens/Settings/ExportCarDialog.tsx:65
 msgid "Your account repository, containing all public data records, can be downloaded as a \"CAR\" file. This file does not include media embeds, such as images, or your private data, which must be fetched separately."
