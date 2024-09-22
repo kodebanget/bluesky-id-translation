@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-09-20 22:31\n"
+"PO-Revision-Date: 2024-09-22 14:31\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1016,7 +1016,7 @@ msgstr "Bluesky lebih seru jika bersama teman!"
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:206
 msgid "Bluesky now has over 10 million users, and I was #{0}!"
-msgstr "Bluesky telah memiliki lebih dari 10 juta pengguna dan saya pengguna ke-{0}!"
+msgstr "Bluesky telah memiliki lebih dari 10 juta pengguna dan saya pengguna ke-#{0}!"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:282
 msgid "Bluesky will choose a set of recommended accounts from people in your network."
@@ -5452,7 +5452,7 @@ msgstr "Hapus akun"
 
 #: src/view/com/composer/ExternalEmbedRemoveBtn.tsx:28
 msgid "Remove attachment"
-msgstr "Hapus sematan"
+msgstr "Hapus sisipan"
 
 #: src/view/com/util/UserAvatar.tsx:393
 msgid "Remove Avatar"
@@ -5572,7 +5572,7 @@ msgstr "Menghapus postingan yang dikutip"
 
 #: src/view/com/composer/ExternalEmbedRemoveBtn.tsx:29
 msgid "Removes the attachment"
-msgstr "Menghapus sematan"
+msgstr "Menghapus sisipan"
 
 #: src/view/com/composer/ExternalEmbedRemoveBtn.tsx:29
 #~ msgid "Removes the image preview"
@@ -7743,11 +7743,11 @@ msgstr "Perbarui ke {handle}"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:305
 msgid "Updating quote attachment failed"
-msgstr "Pembaruan lampiran kutipan gagal"
+msgstr "Gagal memperbarui lampiran kutipan"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:335
 msgid "Updating reply visibility failed"
-msgstr "Pembaruan visibilitas balasan gagal"
+msgstr "Gagal memperbarui visibilitas balasan"
 
 #: src/screens/Login/SetNewPasswordForm.tsx:186
 msgid "Updating..."
@@ -8479,7 +8479,7 @@ msgstr "Anda telah mencapai akhir"
 
 #: src/state/queries/video/video-upload.shared.ts:67
 msgid "You have temporarily reached the limit for video uploads. Please try again later."
-msgstr "Anda telah mencapai batas sementara dalam mengunggah video. Silakan coba lagi nanti."
+msgstr "Anda telah mencapai batas sementara unggahan video. Silakan coba lagi nanti."
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:235
 msgid "You haven't created a starter pack yet!"
@@ -8621,11 +8621,11 @@ msgstr "Anda telah mencapai bagian akhir feed! Temukan lebih banyak akun lain un
 
 #: src/state/queries/video/video.ts:175
 msgid "You've reached your daily limit for video uploads (too many bytes)"
-msgstr "Anda telah mencapai batas harian dalam menggunggah video (terlalu banyak byte)"
+msgstr "Anda telah mencapai batas harian unggahan video (terlalu banyak bita)"
 
 #: src/state/queries/video/video.ts:180
 msgid "You've reached your daily limit for video uploads (too many videos)"
-msgstr "Anda telah mencapai batas harian dalam mengunggah video (terlalu banyak video)"
+msgstr "Anda telah mencapai batas harian unggahan video (terlalu banyak video)"
 
 #: src/screens/Signup/index.tsx:146
 msgid "Your account"
@@ -8649,7 +8649,7 @@ msgstr "Tanggal lahir Anda"
 
 #: src/view/com/util/post-embeds/VideoEmbed.web.tsx:171
 msgid "Your browser does not support the video format. Please try a different browser."
-msgstr "Peramban Anda tidak mendukung format video. Silakan coba peramban lainnya."
+msgstr "Peramban Anda tidak mendukung format video. Silakan coba peramban lain."
 
 #: src/screens/Messages/Conversation/ChatDisabled.tsx:25
 msgid "Your chats have been disabled"
