@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-09 04:48\n"
+"PO-Revision-Date: 2024-10-09 14:45\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1830,7 +1830,7 @@ msgstr "Buatkan paket pemula untuk saya"
 #: src/view/com/auth/SplashScreen.tsx:56
 #: src/view/com/auth/SplashScreen.web.tsx:100
 msgid "Create account"
-msgstr ""
+msgstr "Buat akun"
 
 #: src/screens/Signup/index.tsx:93
 msgid "Create Account"
@@ -2143,7 +2143,7 @@ msgstr "Temukan Feed Baru"
 
 #: src/components/Dialog/index.tsx:267
 msgid "Dismiss"
-msgstr ""
+msgstr "Tutup"
 
 #: src/view/com/composer/Composer.tsx:1111
 msgid "Dismiss error"
@@ -2755,7 +2755,7 @@ msgstr "Gagal memuat saran akun untuk diikuti"
 
 #: src/state/queries/pinned-post.ts:75
 msgid "Failed to pin post"
-msgstr ""
+msgstr "Gagal menyematkan postingan"
 
 #: src/view/com/lightbox/Lightbox.tsx:97
 msgid "Failed to save image: {0}"
@@ -5282,7 +5282,7 @@ msgstr ""
 
 #: src/state/queries/pinned-post.ts:61
 msgid "Post unpinned"
-msgstr ""
+msgstr "Postingan dilepaskan"
 
 #: src/components/TagMenu/index.tsx:266
 msgid "posts"
@@ -6918,7 +6918,7 @@ msgstr "Paket pemula dari {0}"
 
 #: src/components/StarterPack/StarterPackCard.tsx:74
 msgid "Starter pack by you"
-msgstr ""
+msgstr "Paket pemula dari Anda"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:703
 msgid "Starter pack is invalid"
@@ -7839,7 +7839,7 @@ msgstr "Lepaskan sematan dari beranda"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:397
 #: src/view/com/util/forms/PostDropdownBtn.tsx:404
 msgid "Unpin from profile"
-msgstr ""
+msgstr "Lepas sematan dari profil"
 
 #: src/view/screens/ProfileList.tsx:550
 msgid "Unpin moderation list"
@@ -7885,7 +7885,7 @@ msgstr "Konten Seksual yang Tidak Diinginkan"
 
 #: src/view/com/modals/UserAddRemoveLists.tsx:82
 msgid "Update <0>{displayName}</0> in Lists"
-msgstr ""
+msgstr "Perbarui <0>{displayName}</0> dalam Daftar"
 
 #: src/view/com/modals/ChangeHandle.tsx:495
 msgid "Update to {handle}"
@@ -8483,7 +8483,7 @@ msgstr "Ya, aktifkan kembali akun saya"
 
 #: src/components/dms/DateDivider.tsx:46
 msgid "Yesterday"
-msgstr ""
+msgstr "Kemarin"
 
 #: src/components/dms/MessageItem.tsx:183
 #~ msgid "Yesterday, {time}"
