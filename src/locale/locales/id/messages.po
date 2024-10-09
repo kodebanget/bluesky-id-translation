@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-09 14:45\n"
+"PO-Revision-Date: 2024-10-09 21:13\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -297,7 +297,7 @@ msgstr "Anggota <0>{0}</0>"
 
 #: src/components/dms/DateDivider.tsx:69
 msgid "<0>{date}</0> at {time}"
-msgstr ""
+msgstr "<0>{date}</0> pukul {time}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:437
 #~ msgid "<0>{followers} </0><1>{pluralizedFollowers}</1>"
@@ -2608,7 +2608,7 @@ msgstr "Kecualikan pengguna yang Anda ikuti"
 
 #: src/components/dialogs/MutedWords.tsx:560
 msgid "Excludes users you follow"
-msgstr "Mengecualikan pengguna yang Anda ikuti"
+msgstr "Kecuali pengguna yang Anda ikuti"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/web-controls/VideoControls.tsx:406
 msgid "Exit fullscreen"
@@ -4481,7 +4481,7 @@ msgstr "Tidak ditemukan feed apa pun. Coba pencarian lain."
 #: src/components/LikedByList.tsx:78
 #: src/view/com/post-thread/PostLikedBy.tsx:85
 msgid "No likes yet"
-msgstr ""
+msgstr "Belum ada yang menyukai"
 
 #: src/components/ProfileCard.tsx:338
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:111
@@ -4519,11 +4519,11 @@ msgstr "Belum ada postingan."
 
 #: src/view/com/post-thread/PostQuotes.tsx:106
 msgid "No quotes yet"
-msgstr ""
+msgstr "Belum ada kutipan"
 
 #: src/view/com/post-thread/PostRepostedBy.tsx:78
 msgid "No reposts yet"
-msgstr ""
+msgstr "Belum ada postingan ulang"
 
 #: src/view/com/composer/text-input/mobile/Autocomplete.tsx:111
 #: src/view/com/composer/text-input/web/Autocomplete.tsx:196
@@ -4578,11 +4578,11 @@ msgstr "Belum ada yang menyukai ini. Mungkin Anda bisa jadi yang pertama!"
 
 #: src/view/com/post-thread/PostQuotes.tsx:108
 msgid "Nobody has quoted this yet. Maybe you should be the first!"
-msgstr ""
+msgstr "Belum ada yang mengutip. Mungkin Anda bisa jadi yang pertama!"
 
 #: src/view/com/post-thread/PostRepostedBy.tsx:80
 msgid "Nobody has reposted this yet. Maybe you should be the first!"
-msgstr ""
+msgstr "Belum ada yang memposting ulang. Mungkin Anda bisa jadi yang pertama!"
 
 #: src/screens/StarterPack/Wizard/StepProfiles.tsx:102
 msgid "Nobody was found. Try searching for someone else."
@@ -5100,11 +5100,11 @@ msgstr "Sematkan ke Beranda"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:398
 #: src/view/com/util/forms/PostDropdownBtn.tsx:405
 msgid "Pin to your profile"
-msgstr ""
+msgstr "Sematkan ke profil"
 
 #: src/view/com/posts/FeedItem.tsx:354
 msgid "Pinned"
-msgstr ""
+msgstr "Disematkan"
 
 #: src/view/screens/SavedFeeds.tsx:99
 msgid "Pinned Feeds"
@@ -5278,7 +5278,7 @@ msgstr "Postingan tidak ditemukan"
 
 #: src/state/queries/pinned-post.ts:59
 msgid "Post pinned"
-msgstr ""
+msgstr "Postingan disematkan"
 
 #: src/state/queries/pinned-post.ts:61
 msgid "Post unpinned"
@@ -6862,7 +6862,7 @@ msgstr "Urutkan balasan ke postingan yang sama berdasarkan:"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:167
 msgid "Source:"
-msgstr ""
+msgstr "Asal:"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:169
 #~ msgid "Source: <0>{0}</0>"
@@ -7641,7 +7641,7 @@ msgstr "Kepada siapa Anda ingin mengirimkan laporan ini?"
 
 #: src/components/dms/DateDivider.tsx:44
 msgid "Today"
-msgstr ""
+msgstr "Hari ini"
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:597
 #~ msgid "Together, we're rebuilding the social internet. We're glad you're here."
