@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-12 10:42\n"
+"PO-Revision-Date: 2024-10-12 17:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1015,7 +1015,7 @@ msgstr "Bluesky"
 
 #: src/view/com/auth/server-input/index.tsx:151
 msgid "Bluesky is an open network where you can choose your hosting provider. If you're a developer, you can host your own server."
-msgstr ""
+msgstr "Bluesky adalah jaringan terbuka dimana anda dapat memilih penyedia hosting anda. Jika anda adalah pengembang, anda dapat menghosting server anda sendiri."
 
 #: src/components/ProgressGuide/List.tsx:55
 msgid "Bluesky is better with friends!"
@@ -1239,7 +1239,7 @@ msgstr "Ubah"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:147
 msgid "Change email address"
-msgstr ""
+msgstr "Ganti alamat email"
 
 #: src/view/screens/Settings/index.tsx:684
 msgid "Change handle"
@@ -1530,7 +1530,7 @@ msgstr "Menciutkan daftar pengguna untuk notifikasi tertentu"
 
 #: src/screens/Settings/AppearanceSettings.tsx:97
 msgid "Color mode"
-msgstr ""
+msgstr "Mode warna"
 
 #: src/screens/Onboarding/index.tsx:38
 #: src/screens/Onboarding/state.ts:84
@@ -1626,7 +1626,7 @@ msgstr "Kode konfirmasi"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:167
 msgid "Confirmation Code"
-msgstr ""
+msgstr "Kode Konfirmasi"
 
 #: src/screens/Login/LoginForm.tsx:309
 msgid "Connecting..."
@@ -1959,7 +1959,7 @@ msgstr "Panel awakutu"
 #: src/components/dialogs/nuxs/NeueTypography.tsx:99
 #: src/screens/Settings/AppearanceSettings.tsx:169
 msgid "Default"
-msgstr ""
+msgstr "Bawaan"
 
 #: src/components/dms/MessageMenu.tsx:151
 #: src/screens/StarterPack/StarterPackScreen.tsx:573
@@ -2238,7 +2238,7 @@ msgstr "Selesai{extraText}"
 
 #: src/components/Dialog/index.tsx:266
 msgid "Double tap to close the dialog"
-msgstr ""
+msgstr "Ketuk dua kali untuk menutup dialog"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:317
 msgid "Download Bluesky"
@@ -2546,7 +2546,7 @@ msgstr "Masukkan kata atau tagar"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:75
 msgid "Enter Code"
-msgstr ""
+msgstr "Masukkan Kode"
 
 #: src/view/com/modals/VerifyEmail.tsx:113
 msgid "Enter Confirmation Code"
@@ -3113,7 +3113,7 @@ msgstr ""
 #: src/components/dialogs/nuxs/NeueTypography.tsx:91
 #: src/screens/Settings/AppearanceSettings.tsx:161
 msgid "Font size"
-msgstr ""
+msgstr "Ukuran font"
 
 #: src/screens/Onboarding/index.tsx:40
 #: src/screens/Onboarding/state.ts:89
@@ -3131,7 +3131,7 @@ msgstr "Untuk alasan keamanan, Anda tidak akan dapat melihat ini lagi. Jika Anda
 #: src/components/dialogs/nuxs/NeueTypography.tsx:73
 #: src/screens/Settings/AppearanceSettings.tsx:143
 msgid "For the best experience, we recommend using the theme font."
-msgstr ""
+msgstr "Untuk pengalaman yang terbaik, kami sarankan menggunakan font tema."
 
 #: src/components/dialogs/MutedWords.tsx:178
 msgid "Forever"
@@ -3457,7 +3457,7 @@ msgstr "Saya punya kode"
 #: src/components/dialogs/VerifyEmailDialog.tsx:196
 #: src/components/dialogs/VerifyEmailDialog.tsx:203
 msgid "I Have a Code"
-msgstr ""
+msgstr "Saya Mempunyai Kode"
 
 #: src/view/com/modals/VerifyEmail.tsx:224
 msgid "I have a confirmation code"
@@ -3582,7 +3582,7 @@ msgstr "Interaksi dibatasi"
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:47
 msgid "Introducing new font settings"
-msgstr ""
+msgstr "Memperkenalkan pengaturan font baru"
 
 #: src/screens/Login/LoginForm.tsx:142
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:70
@@ -3636,7 +3636,7 @@ msgstr "Undangan, tetapi personal"
 
 #: src/screens/Signup/StepInfo/index.tsx:80
 msgid "It looks like you may have entered your email address incorrectly. Are you sure it's right?"
-msgstr ""
+msgstr "Sepertinya anda memasukkan alamat email secara tidak benar. Apakah anda yakin ini sudah benar?"
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:65
 #~ msgid "It shows posts from the people you follow as they happen."
@@ -3644,7 +3644,7 @@ msgstr ""
 
 #: src/screens/Signup/StepInfo/index.tsx:241
 msgid "It's correct"
-msgstr ""
+msgstr "Itu benar"
 
 #: src/screens/StarterPack/Wizard/index.tsx:452
 msgid "It's just you right now! Add more people to your starter pack by searching above."
@@ -3747,7 +3747,7 @@ msgstr "Pelajari lebih lanjut tentang Bluesky"
 
 #: src/view/com/auth/server-input/index.tsx:156
 msgid "Learn more about self hosting your PDS."
-msgstr ""
+msgstr "Pelajari lebih lanjut mengenai hosting sendiri PDS anda."
 
 #: src/components/moderation/ContentHider.tsx:66
 #: src/components/moderation/ContentHider.tsx:131
@@ -4403,7 +4403,7 @@ msgstr "Obrolan baru"
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:51
 msgid "New font settings ✨"
-msgstr ""
+msgstr "Pengaturan font baru ✨"
 
 #: src/components/dms/NewMessagesPill.tsx:92
 msgid "New messages"
@@ -5964,7 +5964,7 @@ msgstr "Diwajibkan untuk provider ini"
 
 #: src/components/LabelingServiceCard/index.tsx:80
 msgid "Required in your region"
-msgstr ""
+msgstr "Diperlukan di wilayah anda"
 
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:167
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:170
@@ -6091,7 +6091,7 @@ msgstr "Simpan tanggal lahir"
 #: src/view/screens/SavedFeeds.tsx:97
 #: src/view/screens/SavedFeeds.tsx:101
 msgid "Save changes"
-msgstr ""
+msgstr "Simpan perubahan"
 
 #: src/view/com/modals/EditProfile.tsx:227
 msgid "Save Changes"
@@ -6381,11 +6381,11 @@ msgstr "Kirimkan situs web yang bagus!"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:189
 msgid "Send Confirmation"
-msgstr ""
+msgstr "Kirim Konfirmasi"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:182
 msgid "Send confirmation email"
-msgstr ""
+msgstr "Kirim konfirmasi email"
 
 #: src/view/com/modals/VerifyEmail.tsx:210
 #: src/view/com/modals/VerifyEmail.tsx:212
@@ -7039,7 +7039,7 @@ msgstr "Berlangganan ke daftar ini"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:81
 msgid "Success!"
-msgstr ""
+msgstr "Sukses!"
 
 #: src/view/screens/Search/Explore.tsx:332
 msgid "Suggested accounts"
@@ -7189,7 +7189,7 @@ msgstr "Area input teks"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:82
 msgid "Thank you! Your email has been successfully verified."
-msgstr ""
+msgstr "Terima kasih! Email anda telah berhasil diverifikasi."
 
 #: src/components/dms/ReportDialog.tsx:129
 #: src/components/ReportDialog/SubmitView.tsx:82
@@ -7206,7 +7206,7 @@ msgstr "Terima kasih. Laporan Anda telah terkirim."
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:82
 msgid "Thanks, you have successfully verified your email address. You can close this dialog."
-msgstr ""
+msgstr "Terima kasih, anda telah berhasil memverifikasi alamat email anda. Anda bisa menutup dialog ini."
 
 #: src/view/com/modals/ChangeHandle.tsx:452
 msgid "That contains the following:"
@@ -8360,7 +8360,7 @@ msgstr "Kami mengalami masalah jaringan, coba lagi"
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:54
 msgid "We're introducing a new theme font, along with adjustable font sizing."
-msgstr ""
+msgstr "Kami memperkenalkan tema font baru, bersamaan dengan ukuran font yang dapat diatur."
 
 #: src/screens/Signup/index.tsx:94
 msgid "We're so excited to have you join us!"
@@ -8567,7 +8567,7 @@ msgstr "Anda tidak mengikuti siapa pun."
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:61
 msgid "You can adjust these in your Appearance Settings later."
-msgstr ""
+msgstr "Anda dapat mengatur ini pada pengaturan tampilan anda nantinya."
 
 #: src/view/com/posts/FollowingEmptyState.tsx:63
 #: src/view/com/posts/FollowingEndOfFeed.tsx:64
