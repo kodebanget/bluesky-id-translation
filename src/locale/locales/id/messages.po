@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-09 21:13\n"
+"PO-Revision-Date: 2024-10-12 04:28\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -756,7 +756,7 @@ msgstr "Perilaku Anti-Sosial"
 #: src/view/screens/Search/Search.tsx:347
 #: src/view/screens/Search/Search.tsx:348
 msgid "Any language"
-msgstr ""
+msgstr "Bahasa apapun"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:55
 msgid "Anybody can interact"
@@ -3703,7 +3703,7 @@ msgstr "Bahasa"
 #: src/components/dialogs/nuxs/NeueTypography.tsx:103
 #: src/screens/Settings/AppearanceSettings.tsx:173
 msgid "Larger"
-msgstr ""
+msgstr "Lebih besar"
 
 #: src/screens/Hashtag.tsx:97
 #: src/view/screens/Search/Search.tsx:506
@@ -6808,7 +6808,7 @@ msgstr "Lewati tahap ini"
 #: src/components/dialogs/nuxs/NeueTypography.tsx:95
 #: src/screens/Settings/AppearanceSettings.tsx:165
 msgid "Smaller"
-msgstr ""
+msgstr "Lebih kecil"
 
 #: src/screens/Onboarding/index.tsx:37
 #: src/screens/Onboarding/state.ts:87
@@ -7260,7 +7260,7 @@ msgstr "Kode verifikasi yang Anda berikan tidak valid. Pastikan Anda telah mengg
 #: src/components/dialogs/nuxs/NeueTypography.tsx:82
 #: src/screens/Settings/AppearanceSettings.tsx:152
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: src/screens/Onboarding/StepAlgoFeeds/index.tsx:141
 #~ msgid "There are many feeds to try:"
