@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-12 17:14\n"
+"PO-Revision-Date: 2024-10-13 14:30\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -648,7 +648,7 @@ msgstr "Email telah dikirim ke alamat Anda sebelumnya, {0}. Email tersebut beris
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:77
 msgid "An email has been sent! Please enter the confirmation code included in the email below."
-msgstr ""
+msgstr "Email telah dikirim! Silakan masukkan kode konfirmasi yang tercantum dalam email tersebut di bawah ini."
 
 #: src/components/dialogs/GifSelect.tsx:266
 msgid "An error has occurred"
