@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-13 14:30\n"
+"PO-Revision-Date: 2024-10-13 20:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -635,7 +635,7 @@ msgstr "Teks alt menjelaskan gambar untuk pengguna tunanetra dan pengguna dengan
 #: src/view/com/composer/GifAltText.tsx:180
 #: src/view/com/composer/photos/ImageAltTextDialog.tsx:140
 msgid "Alt text will be truncated. Limit: {0} characters."
-msgstr ""
+msgstr "Teks alt akan dipangkas. Batas: {0} karakter."
 
 #: src/view/com/modals/VerifyEmail.tsx:132
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:95
@@ -760,7 +760,7 @@ msgstr "Perilaku Anti-Sosial"
 #: src/view/screens/Search/Search.tsx:346
 #: src/view/screens/Search/Search.tsx:347
 msgid "Any language"
-msgstr "Bahasa apapun"
+msgstr "Bahasa apa pun"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:51
 msgid "Anybody can interact"
@@ -1120,15 +1120,15 @@ msgstr "oleh <0/>"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:81
 msgid "By creating an account you agree to the <0>Privacy Policy</0>."
-msgstr ""
+msgstr "Dengan membuat akun, Anda menyatakan setuju dengan <0>Kebijakan Privasi</0>."
 
 #: src/screens/Signup/StepInfo/Policies.tsx:48
 msgid "By creating an account you agree to the <0>Terms of Service</0> and <1>Privacy Policy</1>."
-msgstr ""
+msgstr "Dengan membuat akun, Anda menyatakan setuju dengan <0>Ketentuan Layanan</0> dan <1>Kebijakan Privasi</1>."
 
 #: src/screens/Signup/StepInfo/Policies.tsx:68
 msgid "By creating an account you agree to the <0>Terms of Service</0>."
-msgstr ""
+msgstr "Dengan membuat akun, Anda menyatakan setuju dengan <0>Ketentuan Layanan</0>."
 
 #: src/view/com/profile/ProfileSubpageHeader.tsx:162
 msgid "by you"
@@ -3108,7 +3108,7 @@ msgstr "Mengikuti Anda"
 #: src/components/dialogs/nuxs/NeueTypography.tsx:71
 #: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Font"
-msgstr ""
+msgstr "Font"
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:91
 #: src/screens/Settings/AppearanceSettings.tsx:161
@@ -3636,7 +3636,7 @@ msgstr "Undangan, tetapi personal"
 
 #: src/screens/Signup/StepInfo/index.tsx:80
 msgid "It looks like you may have entered your email address incorrectly. Are you sure it's right?"
-msgstr "Sepertinya anda memasukkan alamat email secara tidak benar. Apakah anda yakin ini sudah benar?"
+msgstr "Sepertinya Anda salah memasukkan alamat email. Apakah Anda yakin ini sudah benar?"
 
 #: src/screens/Onboarding/StepFollowingFeed.tsx:65
 #~ msgid "It shows posts from the people you follow as they happen."
@@ -3747,7 +3747,7 @@ msgstr "Pelajari lebih lanjut tentang Bluesky"
 
 #: src/view/com/auth/server-input/index.tsx:156
 msgid "Learn more about self hosting your PDS."
-msgstr "Pelajari lebih lanjut mengenai hosting sendiri PDS anda."
+msgstr "Pelajari lebih lanjut mengenai hosting mandiri PDS Anda."
 
 #: src/components/moderation/ContentHider.tsx:66
 #: src/components/moderation/ContentHider.tsx:131
@@ -4367,7 +4367,7 @@ msgstr "Menuju ke profil Anda"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:156
 msgid "Need to change it?"
-msgstr ""
+msgstr "Ingin mengubahnya?"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:130
 msgid "Need to report a copyright violation?"
@@ -5964,7 +5964,7 @@ msgstr "Diwajibkan untuk provider ini"
 
 #: src/components/LabelingServiceCard/index.tsx:80
 msgid "Required in your region"
-msgstr "Diperlukan di wilayah anda"
+msgstr "Diperlukan di wilayah Anda"
 
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:167
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:170
@@ -6385,7 +6385,7 @@ msgstr "Kirim Konfirmasi"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:182
 msgid "Send confirmation email"
-msgstr "Kirim konfirmasi email"
+msgstr "Kirim email konfirmasi"
 
 #: src/view/com/modals/VerifyEmail.tsx:210
 #: src/view/com/modals/VerifyEmail.tsx:212
@@ -7189,7 +7189,7 @@ msgstr "Area input teks"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:82
 msgid "Thank you! Your email has been successfully verified."
-msgstr "Terima kasih! Email anda telah berhasil diverifikasi."
+msgstr "Terima kasih! Email Anda berhasil diverifikasi."
 
 #: src/components/dms/ReportDialog.tsx:129
 #: src/components/ReportDialog/SubmitView.tsx:82
@@ -7206,7 +7206,7 @@ msgstr "Terima kasih. Laporan Anda telah terkirim."
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:82
 msgid "Thanks, you have successfully verified your email address. You can close this dialog."
-msgstr "Terima kasih, anda telah berhasil memverifikasi alamat email anda. Anda bisa menutup dialog ini."
+msgstr "Terima kasih, Anda telah berhasil memverifikasi alamat email Anda. Anda bisa menutup dialog ini."
 
 #: src/view/com/modals/ChangeHandle.tsx:452
 msgid "That contains the following:"
@@ -8567,7 +8567,7 @@ msgstr "Anda tidak mengikuti siapa pun."
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:61
 msgid "You can adjust these in your Appearance Settings later."
-msgstr "Anda dapat mengatur ini pada pengaturan tampilan anda nantinya."
+msgstr "Anda dapat mengatur ini pada Pengaturan Tampilan Anda nantinya."
 
 #: src/view/com/posts/FollowingEmptyState.tsx:63
 #: src/view/com/posts/FollowingEndOfFeed.tsx:64
@@ -8805,7 +8805,7 @@ msgstr "Anda akan otomatis mengikuti para pengguna ini"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:138
 msgid "You'll receive an email at <0>{0}</0> to verify it's you."
-msgstr ""
+msgstr "Anda akan menerima email di <0>{0}</0> untuk memverifikasi bahwa ini benar Anda."
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:270
 msgid "You'll stay updated with these feeds"
