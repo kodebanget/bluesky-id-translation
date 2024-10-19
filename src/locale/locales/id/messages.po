@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-13 20:50\n"
+"PO-Revision-Date: 2024-10-19 13:10\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -760,7 +760,7 @@ msgstr "Perilaku Anti-Sosial"
 #: src/view/screens/Search/Search.tsx:346
 #: src/view/screens/Search/Search.tsx:347
 msgid "Any language"
-msgstr "Bahasa apa pun"
+msgstr "Semua bahasa"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:51
 msgid "Anybody can interact"
@@ -1239,7 +1239,7 @@ msgstr "Ubah"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:147
 msgid "Change email address"
-msgstr "Ganti alamat email"
+msgstr "Ubah alamat email"
 
 #: src/view/screens/Settings/index.tsx:684
 msgid "Change handle"
@@ -1959,7 +1959,7 @@ msgstr "Panel awakutu"
 #: src/components/dialogs/nuxs/NeueTypography.tsx:99
 #: src/screens/Settings/AppearanceSettings.tsx:169
 msgid "Default"
-msgstr "Bawaan"
+msgstr "Standar"
 
 #: src/components/dms/MessageMenu.tsx:151
 #: src/screens/StarterPack/StarterPackScreen.tsx:573
@@ -3131,7 +3131,7 @@ msgstr "Untuk alasan keamanan, Anda tidak akan dapat melihat ini lagi. Jika Anda
 #: src/components/dialogs/nuxs/NeueTypography.tsx:73
 #: src/screens/Settings/AppearanceSettings.tsx:143
 msgid "For the best experience, we recommend using the theme font."
-msgstr "Untuk pengalaman yang terbaik, kami sarankan menggunakan font tema."
+msgstr "Untuk pengalaman terbaik, kami sarankan menggunakan font tema."
 
 #: src/components/dialogs/MutedWords.tsx:178
 msgid "Forever"
@@ -8360,7 +8360,7 @@ msgstr "Kami mengalami masalah jaringan, coba lagi"
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:54
 msgid "We're introducing a new theme font, along with adjustable font sizing."
-msgstr "Kami memperkenalkan tema font baru, bersamaan dengan ukuran font yang dapat diatur."
+msgstr "Kami memperkenalkan font tema baru beserta ukuran font yang dapat diatur."
 
 #: src/screens/Signup/index.tsx:94
 msgid "We're so excited to have you join us!"
