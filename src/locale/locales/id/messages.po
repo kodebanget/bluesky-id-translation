@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-29 04:48\n"
+"PO-Revision-Date: 2024-10-29 10:58\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -452,7 +452,7 @@ msgstr "Konten dewasa dinonaktifkan."
 #: src/view/com/composer/labels/LabelsBtn.tsx:140
 #: src/view/com/composer/labels/LabelsBtn.tsx:194
 msgid "Adult Content labels"
-msgstr ""
+msgstr "Label Konten Dewasa"
 
 #: src/screens/Moderation/index.tsx:410
 #: src/view/screens/Settings/index.tsx:653
@@ -718,7 +718,7 @@ msgstr "Anda yakin ingin menghapus paket pemula ini?"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:82
 msgid "Are you sure you want to discard your changes?"
-msgstr ""
+msgstr "Anda yakin ingin menghapus perubahan anda?"
 
 #: src/components/dms/LeaveConvoPrompt.tsx:48
 msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for the other participant."
@@ -1136,7 +1136,7 @@ msgstr "Pilih Pengguna"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:116
 msgid "Choose self-labels that are applicable for the media you are posting. If none are selected, this post is suitable for all audiences."
-msgstr ""
+msgstr "Pilih label diri yang cocok untuk media yang anda posting. Jika tidak ada yang dipilih, postingan ini cocok untuk semua orang."
 
 #: src/view/com/auth/server-input/index.tsx:76
 msgid "Choose Service"
@@ -1318,7 +1318,7 @@ msgstr "Tulis balasan"
 
 #: src/view/com/composer/Composer.tsx:1341
 msgid "Compressing video..."
-msgstr ""
+msgstr "Mengompresi video..."
 
 #: src/components/moderation/LabelPreference.tsx:81
 msgid "Configure content filtering setting for category: {name}"
@@ -1766,11 +1766,11 @@ msgstr "Deskripsi"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:364
 msgid "Description is too long"
-msgstr ""
+msgstr "Deskripsi terlalu panjang"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:365
 msgid "Description is too long. The maximum number of characters is {DESCRIPTION_MAX_GRAPHEMES}."
-msgstr ""
+msgstr "Deskripsi terlalu panjang. Maksimum jumlah karakter adalah {DESCRIPTION_MAX_GRAPHEMES}."
 
 #: src/view/com/composer/GifAltText.tsx:150
 #: src/view/com/composer/photos/ImageAltTextDialog.tsx:114
@@ -1830,7 +1830,7 @@ msgstr "Buang"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:81
 msgid "Discard changes?"
-msgstr ""
+msgstr "Hapus perubahan?"
 
 #: src/view/com/composer/Composer.tsx:531
 msgid "Discard draft?"
@@ -1878,11 +1878,11 @@ msgstr "Nama tampilan"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:333
 msgid "Display name is too long"
-msgstr ""
+msgstr "Nama tampilan terlalu panjang"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:334
 msgid "Display name is too long. The maximum number of characters is {DISPLAY_NAME_MAX_GRAPHEMES}."
-msgstr ""
+msgstr "Nama tampilan terlalu panjang. Maksimum jumlah karakter adalah {DISPLAY_NAME_MAX_GRAPHEMES}."
 
 #: src/view/com/modals/ChangeHandle.tsx:384
 msgid "DNS Panel"
@@ -1894,11 +1894,11 @@ msgstr "Jangan bisukan kata ini pada pengguna yang Anda ikuti"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:174
 msgid "Does not contain adult content."
-msgstr ""
+msgstr "Tidak mengandung konten dewasa."
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:213
 msgid "Does not contain graphic or disturbing content."
-msgstr ""
+msgstr "Tidak mengandung konten berbahaya atau mengganggu."
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:39
 msgid "Does not include nudity."
@@ -1974,7 +1974,7 @@ msgstr "contoh: kresna"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:321
 msgid "e.g. Alice Lastname"
-msgstr ""
+msgstr "misalnya, Langit Kresna"
 
 #: src/view/com/modals/ChangeHandle.tsx:367
 msgid "e.g. alice.com"
@@ -2246,7 +2246,7 @@ msgstr "Masukkan nama pengguna dan kata sandi Anda"
 
 #: src/view/com/composer/Composer.tsx:1350
 msgid "Error"
-msgstr ""
+msgstr "Galat"
 
 #: src/view/screens/Settings/ExportCarDialog.tsx:46
 msgid "Error occurred while saving file"
@@ -2333,7 +2333,7 @@ msgstr "Bentangkan atau ciutkan postingan lengkap yang Anda balas"
 
 #: src/lib/api/index.ts:376
 msgid "Expected uri to resolve to a record"
-msgstr ""
+msgstr "Uri diharapkan untuk diubah menjadi sebuah rekor"
 
 #: src/view/screens/NotificationsSettings.tsx:78
 msgid "Experimental: When this preference is enabled, you'll only receive reply and quote notifications from users you follow. We'll continue to add more controls here over time."
@@ -2498,7 +2498,7 @@ msgstr "Masukan"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:271
 #: src/view/com/util/forms/PostDropdownBtn.tsx:280
 msgid "Feedback sent!"
-msgstr ""
+msgstr "Tanggapan dikirim!"
 
 #: src/Navigation.tsx:352
 #: src/screens/StarterPack/StarterPackScreen.tsx:183
@@ -3230,7 +3230,7 @@ msgstr "Label"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:74
 msgid "Labels added"
-msgstr ""
+msgstr "Label ditambahkan"
 
 #: src/screens/Profile/Sections/Labels.tsx:163
 msgid "Labels are annotations on users and content. They can be used to hide, warn, and categorize the network."
@@ -3502,11 +3502,11 @@ msgstr "Masuk ke akun yang tidak tercantum dalam daftar"
 
 #: src/view/shell/desktop/RightNav.tsx:104
 msgid "Logo by <0/>"
-msgstr ""
+msgstr "Logo oleh <0/>"
 
 #: src/view/shell/Drawer.tsx:296
 msgid "Logo by <0>@sawaratsuki.bsky.social</0>"
-msgstr ""
+msgstr "Logo oleh <0>@sawaratsuki.bsky.social</0>"
 
 #: src/components/RichText.tsx:226
 msgid "Long press to open tag menu for #{tag}"
@@ -3552,7 +3552,7 @@ msgstr "Media"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:208
 msgid "Media that may be disturbing or inappropriate for some audiences."
-msgstr ""
+msgstr "Media yang mungkin mengganggu atau tidak pantas untuk sebagian khalayak."
 
 #: src/components/WhoCanReply.tsx:254
 msgid "mentioned users"
@@ -4222,7 +4222,7 @@ msgstr "Hanya berisi huruf, angka, dan tanda hubung"
 
 #: src/lib/media/picker.shared.ts:29
 msgid "Only image files are supported"
-msgstr ""
+msgstr "Hanya berkas gambar yang didukung"
 
 #: src/view/com/composer/videos/SubtitleFilePicker.tsx:40
 msgid "Only WebVTT (.vtt) files are supported"
@@ -4270,7 +4270,7 @@ msgstr "Buka menu opsi feed"
 
 #: src/view/com/util/post-embeds/ExternalLinkEmbed.tsx:71
 msgid "Open link to {niceUrl}"
-msgstr ""
+msgstr "Buka tautan ke {niceUrl}"
 
 #: src/view/screens/Settings/index.tsx:703
 msgid "Open links with in-app browser"
@@ -4311,7 +4311,7 @@ msgstr "Membuka opsi {numItems}"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:63
 msgid "Opens a dialog to add a content warning to your post"
-msgstr ""
+msgstr "Buka dialog untuk tambahkan peringatan konten di postingan anda"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:62
 msgid "Opens a dialog to choose who can reply to this thread"
@@ -4718,7 +4718,7 @@ msgstr "Postingan dihapus"
 
 #: src/lib/api/index.ts:161
 msgid "Post failed to upload. Please check your Internet connection and try again."
-msgstr ""
+msgstr "Postingan gagal diunggah. Periksa kembali koneksi internet anda dan coba lagi."
 
 #: src/view/com/post-thread/PostThread.tsx:212
 msgid "Post hidden"
@@ -4838,7 +4838,7 @@ msgstr "Kebijakan Privasi"
 
 #: src/view/com/composer/Composer.tsx:1347
 msgid "Processing video..."
-msgstr ""
+msgstr "Memproses video..."
 
 #: src/lib/api/index.ts:53
 #: src/screens/Login/ForgotPasswordForm.tsx:149
@@ -6304,7 +6304,7 @@ msgstr "Ceritakan sebuah lelucon!"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:352
 msgid "Tell us a bit about yourself"
-msgstr ""
+msgstr "Ceritakan sedikit mengenai dirimu"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:63
 msgid "Tell us a little more"
@@ -6475,7 +6475,7 @@ msgstr "Ada masalah saat menghubungi server"
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:111
 #: src/view/screens/ProfileFeed.tsx:546
 msgid "There was an issue contacting the server, please check your internet connection and try again."
-msgstr ""
+msgstr "Terjadi kesalahan saat menghubungi server, periksa koneksi internet anda dan coba lagi."
 
 #: src/view/com/feeds/FeedSourceCard.tsx:127
 #: src/view/com/feeds/FeedSourceCard.tsx:140
@@ -6501,7 +6501,7 @@ msgstr "Ada masalah saat mengambil daftar Anda. Ketuk di sini untuk mencoba lagi
 
 #: src/view/com/posts/FeedErrorMessage.tsx:145
 msgid "There was an issue removing this feed. Please check your internet connection and try again."
-msgstr ""
+msgstr "Terjadi kesalahan saat menghapus feed ini. Periksa kembali koneksi internet anda dan coba lagi."
 
 #: src/components/dms/ReportDialog.tsx:217
 #: src/components/ReportDialog/SubmitView.tsx:87
@@ -6512,7 +6512,7 @@ msgstr "Ada masalah saat mengirimkan laporan. Silakan periksa koneksi internet A
 #: src/view/com/posts/FeedShutdownMsg.tsx:71
 #: src/view/screens/ProfileFeed.tsx:211
 msgid "There was an issue updating your feeds, please check your internet connection and try again."
-msgstr ""
+msgstr "Terjadi kesalahan saat mengubah feed anda, periksa kembali koneksi internet anda dan coba lagi."
 
 #: src/view/screens/AppPasswords.tsx:75
 msgid "There was an issue with fetching your app passwords"
@@ -7035,16 +7035,16 @@ msgstr "Unggah dari Pustaka"
 
 #: src/lib/api/index.ts:272
 msgid "Uploading images..."
-msgstr ""
+msgstr "Mengunggah gambar..."
 
 #: src/lib/api/index.ts:326
 #: src/lib/api/index.ts:350
 msgid "Uploading link thumbnail..."
-msgstr ""
+msgstr "Mengunggah gambar kecil tautan..."
 
 #: src/view/com/composer/Composer.tsx:1344
 msgid "Uploading video..."
-msgstr ""
+msgstr "Mengunggah video..."
 
 #: src/view/com/modals/ChangeHandle.tsx:395
 msgid "Use a file on your server"
@@ -7238,7 +7238,7 @@ msgstr "Pengaturan video"
 
 #: src/view/com/composer/Composer.tsx:1354
 msgid "Video uploaded"
-msgstr ""
+msgstr "Video telah diunggah"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:84
 msgid "Video: {0}"
@@ -7264,11 +7264,11 @@ msgstr "Lihat profil {displayName}"
 
 #: src/components/TagMenu/index.tsx:149
 msgid "View all posts by @{authorHandle} with tag {displayTag}"
-msgstr ""
+msgstr "Lihat semua postingan oleh @{authorHandle} dengan tagar {displayTag}"
 
 #: src/components/TagMenu/index.tsx:103
 msgid "View all posts with tag {displayTag}"
-msgstr ""
+msgstr "Lihat semua postingan dengan tagar {displayTag}"
 
 #: src/components/ProfileHoverCard/index.web.tsx:433
 msgid "View blocked user's profile"
@@ -7734,7 +7734,7 @@ msgstr "Anda hanya boleh menambahkan maksimal 3 feed"
 
 #: src/lib/media/picker.shared.ts:22
 msgid "You may only select up to 4 images"
-msgstr ""
+msgstr "Anda dapat memilih hingga 4 gambar saja"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:106
 msgid "You must be 13 years of age or older to sign up."
