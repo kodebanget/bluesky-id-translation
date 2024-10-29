@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-29 10:58\n"
+"PO-Revision-Date: 2024-10-29 16:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -718,7 +718,7 @@ msgstr "Anda yakin ingin menghapus paket pemula ini?"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:82
 msgid "Are you sure you want to discard your changes?"
-msgstr "Anda yakin ingin menghapus perubahan anda?"
+msgstr "Anda yakin ingin menghapus perubahan Anda?"
 
 #: src/components/dms/LeaveConvoPrompt.tsx:48
 msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for the other participant."
@@ -1136,7 +1136,7 @@ msgstr "Pilih Pengguna"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:116
 msgid "Choose self-labels that are applicable for the media you are posting. If none are selected, this post is suitable for all audiences."
-msgstr "Pilih label diri yang cocok untuk media yang anda posting. Jika tidak ada yang dipilih, postingan ini cocok untuk semua orang."
+msgstr "Pilih label mandiri yang cocok untuk media yang Anda posting. Jika tidak ada yang dipilih, postingan ini cocok untuk semua orang."
 
 #: src/view/com/auth/server-input/index.tsx:76
 msgid "Choose Service"
@@ -1974,7 +1974,7 @@ msgstr "contoh: kresna"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:321
 msgid "e.g. Alice Lastname"
-msgstr "misalnya, Langit Kresna"
+msgstr "contoh: Langit Kresna"
 
 #: src/view/com/modals/ChangeHandle.tsx:367
 msgid "e.g. alice.com"
@@ -2333,7 +2333,7 @@ msgstr "Bentangkan atau ciutkan postingan lengkap yang Anda balas"
 
 #: src/lib/api/index.ts:376
 msgid "Expected uri to resolve to a record"
-msgstr "Uri diharapkan untuk diubah menjadi sebuah rekor"
+msgstr "URI yang diharapkan untuk menuju sebuah catatan"
 
 #: src/view/screens/NotificationsSettings.tsx:78
 msgid "Experimental: When this preference is enabled, you'll only receive reply and quote notifications from users you follow. We'll continue to add more controls here over time."
@@ -4222,7 +4222,7 @@ msgstr "Hanya berisi huruf, angka, dan tanda hubung"
 
 #: src/lib/media/picker.shared.ts:29
 msgid "Only image files are supported"
-msgstr "Hanya berkas gambar yang didukung"
+msgstr "Hanya mendukung berkas gambar"
 
 #: src/view/com/composer/videos/SubtitleFilePicker.tsx:40
 msgid "Only WebVTT (.vtt) files are supported"
@@ -4270,7 +4270,7 @@ msgstr "Buka menu opsi feed"
 
 #: src/view/com/util/post-embeds/ExternalLinkEmbed.tsx:71
 msgid "Open link to {niceUrl}"
-msgstr "Buka tautan ke {niceUrl}"
+msgstr "Buka tautan {niceUrl}"
 
 #: src/view/screens/Settings/index.tsx:703
 msgid "Open links with in-app browser"
@@ -4311,7 +4311,7 @@ msgstr "Membuka opsi {numItems}"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:63
 msgid "Opens a dialog to add a content warning to your post"
-msgstr "Buka dialog untuk tambahkan peringatan konten di postingan anda"
+msgstr "Membuka dialog untuk menambahkan peringatan konten di postingan Anda"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:62
 msgid "Opens a dialog to choose who can reply to this thread"
@@ -4718,7 +4718,7 @@ msgstr "Postingan dihapus"
 
 #: src/lib/api/index.ts:161
 msgid "Post failed to upload. Please check your Internet connection and try again."
-msgstr "Postingan gagal diunggah. Periksa kembali koneksi internet anda dan coba lagi."
+msgstr "Postingan gagal diunggah. Silakan periksa koneksi internet Anda dan coba lagi."
 
 #: src/view/com/post-thread/PostThread.tsx:212
 msgid "Post hidden"
@@ -5330,7 +5330,7 @@ msgstr "Diwajibkan untuk provider ini"
 
 #: src/components/LabelingServiceCard/index.tsx:80
 msgid "Required in your region"
-msgstr "Diperlukan di wilayah Anda"
+msgstr "Diwajibkan di wilayah Anda"
 
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:167
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:170
@@ -6475,7 +6475,7 @@ msgstr "Ada masalah saat menghubungi server"
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:111
 #: src/view/screens/ProfileFeed.tsx:546
 msgid "There was an issue contacting the server, please check your internet connection and try again."
-msgstr "Terjadi kesalahan saat menghubungi server, periksa koneksi internet anda dan coba lagi."
+msgstr "Ada masalah saat menghubungi server, silakan periksa koneksi internet Anda dan coba lagi."
 
 #: src/view/com/feeds/FeedSourceCard.tsx:127
 #: src/view/com/feeds/FeedSourceCard.tsx:140
@@ -6501,7 +6501,7 @@ msgstr "Ada masalah saat mengambil daftar Anda. Ketuk di sini untuk mencoba lagi
 
 #: src/view/com/posts/FeedErrorMessage.tsx:145
 msgid "There was an issue removing this feed. Please check your internet connection and try again."
-msgstr "Terjadi kesalahan saat menghapus feed ini. Periksa kembali koneksi internet anda dan coba lagi."
+msgstr "Ada masalah saat menghapus feed ini. Silakan periksa koneksi internet Anda dan coba lagi."
 
 #: src/components/dms/ReportDialog.tsx:217
 #: src/components/ReportDialog/SubmitView.tsx:87
@@ -6512,7 +6512,7 @@ msgstr "Ada masalah saat mengirimkan laporan. Silakan periksa koneksi internet A
 #: src/view/com/posts/FeedShutdownMsg.tsx:71
 #: src/view/screens/ProfileFeed.tsx:211
 msgid "There was an issue updating your feeds, please check your internet connection and try again."
-msgstr "Terjadi kesalahan saat mengubah feed anda, periksa kembali koneksi internet anda dan coba lagi."
+msgstr "Ada masalah saat memperbarui feed Anda, silakan periksa koneksi internet dan coba lagi."
 
 #: src/view/screens/AppPasswords.tsx:75
 msgid "There was an issue with fetching your app passwords"
@@ -6541,7 +6541,7 @@ msgstr "Ada masalah! {0}"
 #: src/view/screens/ProfileList.tsx:426
 #: src/view/screens/ProfileList.tsx:439
 msgid "There was an issue. Please check your internet connection and try again."
-msgstr "Ada masalah. Periksa koneksi internet Anda dan coba lagi."
+msgstr "Ada masalah. Silakan periksa koneksi internet Anda dan coba lagi."
 
 #: src/components/dialogs/GifSelect.tsx:271
 #: src/view/com/util/ErrorBoundary.tsx:59
@@ -6840,7 +6840,7 @@ msgstr "Bunyikan daftar"
 #: src/screens/Signup/index.tsx:71
 #: src/view/com/modals/ChangePassword.tsx:71
 msgid "Unable to contact your service. Please check your Internet connection."
-msgstr "Tidak dapat terhubung ke layanan. Mohon periksa koneksi internet Anda."
+msgstr "Tidak dapat terhubung ke layanan. Silakan periksa koneksi internet Anda."
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:648
 msgid "Unable to delete"
@@ -7040,7 +7040,7 @@ msgstr "Mengunggah gambar..."
 #: src/lib/api/index.ts:326
 #: src/lib/api/index.ts:350
 msgid "Uploading link thumbnail..."
-msgstr "Mengunggah gambar kecil tautan..."
+msgstr "Mengunggah keluku tautan..."
 
 #: src/view/com/composer/Composer.tsx:1344
 msgid "Uploading video..."
@@ -7588,7 +7588,7 @@ msgstr "Anda tidak mengikuti siapa pun."
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:61
 msgid "You can adjust these in your Appearance Settings later."
-msgstr "Anda dapat mengatur ini pada Pengaturan Tampilan Anda nantinya."
+msgstr "Anda dapat mengatur ini pada Pengaturan Tampilan nanti."
 
 #: src/view/com/posts/FollowingEmptyState.tsx:63
 #: src/view/com/posts/FollowingEndOfFeed.tsx:64
