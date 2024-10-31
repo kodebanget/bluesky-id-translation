@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-29 16:54\n"
+"PO-Revision-Date: 2024-10-31 10:57\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2333,7 +2333,7 @@ msgstr "Bentangkan atau ciutkan postingan lengkap yang Anda balas"
 
 #: src/lib/api/index.ts:376
 msgid "Expected uri to resolve to a record"
-msgstr "URI yang diharapkan untuk menuju sebuah catatan"
+msgstr "URI yang diharapkan untuk menuju sebuah rekord"
 
 #: src/view/screens/NotificationsSettings.tsx:78
 msgid "Experimental: When this preference is enabled, you'll only receive reply and quote notifications from users you follow. We'll continue to add more controls here over time."
