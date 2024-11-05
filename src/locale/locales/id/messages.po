@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-10-31 10:57\n"
+"PO-Revision-Date: 2024-11-05 14:29\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -718,7 +718,7 @@ msgstr "Anda yakin ingin menghapus paket pemula ini?"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:82
 msgid "Are you sure you want to discard your changes?"
-msgstr "Anda yakin ingin menghapus perubahan Anda?"
+msgstr "Anda yakin ingin menghapus perubahan?"
 
 #: src/components/dms/LeaveConvoPrompt.tsx:48
 msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for the other participant."
@@ -1898,7 +1898,7 @@ msgstr "Tidak mengandung konten dewasa."
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:213
 msgid "Does not contain graphic or disturbing content."
-msgstr "Tidak mengandung konten berbahaya atau mengganggu."
+msgstr "Tidak mengandung konten mengerikan atau mengganggu."
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:39
 msgid "Does not include nudity."
@@ -2333,7 +2333,7 @@ msgstr "Bentangkan atau ciutkan postingan lengkap yang Anda balas"
 
 #: src/lib/api/index.ts:376
 msgid "Expected uri to resolve to a record"
-msgstr "URI yang diharapkan untuk menuju sebuah rekord"
+msgstr "URI yang diharapkan untuk menuju sebuah catatan"
 
 #: src/view/screens/NotificationsSettings.tsx:78
 msgid "Experimental: When this preference is enabled, you'll only receive reply and quote notifications from users you follow. We'll continue to add more controls here over time."
