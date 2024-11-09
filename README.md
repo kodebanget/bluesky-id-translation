@@ -25,6 +25,8 @@ Beberapa rujukan untuk membantu penerjemahan:
 - [Kamus Besar Bahasa Indonesia](https://kbbi.kemdikbud.go.id)
 - [Ejaan Bahasa Indonesia yang Disempurnakan Edisi V](https://ejaan.kemdikbud.go.id)
 - [Pedoman Umum Pembentukan Istilah Edisi IV](https://drive.google.com/file/d/1zF1LGWH08xWk92Op_aBU0UTtbDTW-Usx/view) (h/t [@oops-wtf](https://github.com/oops-wtf))
+- [Tata Bahasa Baku Bahasa Indonesia Edisi IV](https://repositori.kemdikbud.go.id/16351/1/Tata%20Bahasa%20Baku%20Bahasa%20Ind.pdf)
 - [Microsoft UI search](https://msit.powerbi.com/view?r=eyJrIjoiMmE2NjJhMDMtNTY3MC00MmI2LWFmOWUtYWM5YTVjODI5MjQwIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) - Alat untuk mencari padanan yang dipakai di **antarmuka** semua produk Microsoft. Dapat dijadikan contoh bagaimana suatu istilah diterjemahkan untuk ditampilkan dalam antarmuka aplikasi.
 - [Microsoft terminology search](https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYxNTAxNjQ0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) - Padanan yang dipakai di semua produk Microsoft
+- [Microsoft Localization Style Guide](https://download.microsoft.com/download/c/2/8/c2804555-f6ed-4db9-9e3b-ddf754159bd3/ind-idn-StyleGuide.pdf) - Kumpulan aturan yang mendefinisikan konvensi bahasa dan gaya pelokalan untuk Bahasa Indonesia
 - [Daftar Padanan Istilah (PASTI)](https://pasti.kemdikbud.go.id/istilah_search.php)
