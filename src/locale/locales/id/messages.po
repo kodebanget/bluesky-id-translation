@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-10 02:49\n"
+"PO-Revision-Date: 2024-11-10 08:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1136,7 +1136,7 @@ msgstr "Pilih Pengguna"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:116
 msgid "Choose self-labels that are applicable for the media you are posting. If none are selected, this post is suitable for all audiences."
-msgstr "Pilih label mandiri yang cocok untuk media yang Anda posting. Jika tidak ada yang dipilih, postingan ini cocok untuk semua orang."
+msgstr "Pilih label mandiri yang sesuai untuk media yang Anda posting. Jika tidak ada yang dipilih, berarti postingan ini cocok untuk semua orang."
 
 #: src/view/com/auth/server-input/index.tsx:76
 msgid "Choose Service"
@@ -1770,7 +1770,7 @@ msgstr "Deskripsi terlalu panjang"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:365
 msgid "Description is too long. The maximum number of characters is {DESCRIPTION_MAX_GRAPHEMES}."
-msgstr "Deskripsi terlalu panjang. Maksimum jumlah karakter adalah {DESCRIPTION_MAX_GRAPHEMES}."
+msgstr "Deskripsi terlalu panjang. Jumlah karakter maksimum adalah {DESCRIPTION_MAX_GRAPHEMES}."
 
 #: src/view/com/composer/GifAltText.tsx:150
 #: src/view/com/composer/photos/ImageAltTextDialog.tsx:114
@@ -1898,7 +1898,7 @@ msgstr "Tidak mengandung konten dewasa."
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:213
 msgid "Does not contain graphic or disturbing content."
-msgstr "Tidak mengandung konten mengerikan atau mengganggu."
+msgstr "Tidak mengandung konten ekstrem atau mengusik."
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:39
 msgid "Does not include nudity."
@@ -3196,7 +3196,7 @@ msgstr "ID Kerja: {0}"
 
 #: src/view/com/auth/SplashScreen.web.tsx:177
 msgid "Jobs"
-msgstr "Karir"
+msgstr "Karier"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:201
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:207
@@ -3552,7 +3552,7 @@ msgstr "Media"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:208
 msgid "Media that may be disturbing or inappropriate for some audiences."
-msgstr "Media yang mungkin mengganggu atau tidak pantas untuk sebagian khalayak."
+msgstr "Media yang mungkin mengusik atau tidak pantas untuk sebagian orang."
 
 #: src/components/WhoCanReply.tsx:254
 msgid "mentioned users"
@@ -4311,7 +4311,7 @@ msgstr "Membuka opsi {numItems}"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:63
 msgid "Opens a dialog to add a content warning to your post"
-msgstr "Membuka dialog untuk menambahkan peringatan konten di postingan Anda"
+msgstr "Membuka dialog untuk menambahkan peringatan konten pada postingan Anda"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:62
 msgid "Opens a dialog to choose who can reply to this thread"
@@ -7410,7 +7410,7 @@ msgstr "Kami mengalami masalah jaringan, coba lagi"
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:54
 msgid "We're introducing a new theme font, along with adjustable font sizing."
-msgstr "Kami memperkenalkan font tema baru beserta ukuran font yang dapat diatur."
+msgstr "Kami memperkenalkan font tema baru beserta ukuran font yang dapat disesuaikan."
 
 #: src/screens/Signup/index.tsx:94
 msgid "We're so excited to have you join us!"
@@ -7588,7 +7588,7 @@ msgstr "Anda tidak mengikuti siapa pun."
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:61
 msgid "You can adjust these in your Appearance Settings later."
-msgstr "Anda dapat menyesuaikannya nanti di Pengaturan Tampilan."
+msgstr "Anda dapat menyesuaikannya nanti pada Pengaturan Tampilan."
 
 #: src/view/com/posts/FollowingEmptyState.tsx:63
 #: src/view/com/posts/FollowingEndOfFeed.tsx:64
