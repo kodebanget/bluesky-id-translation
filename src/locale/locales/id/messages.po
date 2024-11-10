@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-05 14:29\n"
+"PO-Revision-Date: 2024-11-10 02:49\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -718,7 +718,7 @@ msgstr "Anda yakin ingin menghapus paket pemula ini?"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:82
 msgid "Are you sure you want to discard your changes?"
-msgstr "Anda yakin ingin menghapus perubahan?"
+msgstr "Anda yakin ingin membuang perubahan?"
 
 #: src/components/dms/LeaveConvoPrompt.tsx:48
 msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for the other participant."
@@ -1830,7 +1830,7 @@ msgstr "Buang"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:81
 msgid "Discard changes?"
-msgstr "Hapus perubahan?"
+msgstr "Buang perubahan?"
 
 #: src/view/com/composer/Composer.tsx:531
 msgid "Discard draft?"
@@ -6304,7 +6304,7 @@ msgstr "Ceritakan sebuah lelucon!"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:352
 msgid "Tell us a bit about yourself"
-msgstr "Ceritakan sedikit mengenai dirimu"
+msgstr "Ceritakan sedikit tentang diri Anda"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:63
 msgid "Tell us a little more"
@@ -7264,7 +7264,7 @@ msgstr "Lihat profil {displayName}"
 
 #: src/components/TagMenu/index.tsx:149
 msgid "View all posts by @{authorHandle} with tag {displayTag}"
-msgstr "Lihat semua postingan oleh @{authorHandle} dengan tagar {displayTag}"
+msgstr "Lihat semua postingan dari @{authorHandle} dengan tagar {displayTag}"
 
 #: src/components/TagMenu/index.tsx:103
 msgid "View all posts with tag {displayTag}"
@@ -7588,7 +7588,7 @@ msgstr "Anda tidak mengikuti siapa pun."
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:61
 msgid "You can adjust these in your Appearance Settings later."
-msgstr "Anda dapat mengatur ini pada Pengaturan Tampilan nanti."
+msgstr "Anda dapat menyesuaikannya nanti di Pengaturan Tampilan."
 
 #: src/view/com/posts/FollowingEmptyState.tsx:63
 #: src/view/com/posts/FollowingEndOfFeed.tsx:64
@@ -7734,7 +7734,7 @@ msgstr "Anda hanya boleh menambahkan maksimal 3 feed"
 
 #: src/lib/media/picker.shared.ts:22
 msgid "You may only select up to 4 images"
-msgstr "Anda dapat memilih hingga 4 gambar saja"
+msgstr "Anda hanya boleh memilih maksimal 4 gambar"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:106
 msgid "You must be 13 years of age or older to sign up."
