@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-10 14:59\n"
+"PO-Revision-Date: 2024-11-13 10:59\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -2498,7 +2498,7 @@ msgstr "Masukan"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:271
 #: src/view/com/util/forms/PostDropdownBtn.tsx:280
 msgid "Feedback sent!"
-msgstr "Tanggapan dikirim!"
+msgstr "Masukan dikirim!"
 
 #: src/Navigation.tsx:352
 #: src/screens/StarterPack/StarterPackScreen.tsx:183
@@ -7685,7 +7685,7 @@ msgstr "Anda tidak memiliki daftar."
 
 #: src/view/screens/ModerationBlockedAccounts.tsx:133
 msgid "You have not blocked any accounts yet. To block an account, go to their profile and select \"Block account\" from the menu on their account."
-msgstr "Anda belum memblokir akun apa pun. Untuk memblokir akun, buka profil mereka dan pilih \"Blokir akun\" dari menu di akunnya."
+msgstr "Anda belum memblokir akun apa pun. Untuk memblokir akun, buka profil mereka dan pilih \"Blokir akun\" dari menu pada akun tersebut."
 
 #: src/view/screens/AppPasswords.tsx:96
 msgid "You have not created any app passwords yet. You can create one by pressing the button below."
@@ -7693,7 +7693,7 @@ msgstr "Anda belum membuat kata sandi aplikasi. Anda dapat membuatnya dengan men
 
 #: src/view/screens/ModerationMutedAccounts.tsx:132
 msgid "You have not muted any accounts yet. To mute an account, go to their profile and select \"Mute account\" from the menu on their account."
-msgstr "Anda belum membisukan akun apa pun. Untuk membisukan akun, buka profil mereka dan pilih \"Bisukan akun\" dari menu di akunnya."
+msgstr "Anda belum membisukan akun apa pun. Untuk membisukan akun, buka profil mereka dan pilih \"Bisukan akun\" dari menu pada akun tersebut."
 
 #: src/components/Lists.tsx:52
 msgid "You have reached the end"
