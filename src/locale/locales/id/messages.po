@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-13 10:59\n"
+"PO-Revision-Date: 2024-11-16 17:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -868,7 +868,7 @@ msgstr "Bluesky"
 
 #: src/view/com/auth/server-input/index.tsx:151
 msgid "Bluesky is an open network where you can choose your hosting provider. If you're a developer, you can host your own server."
-msgstr "Bluesky adalah jaringan terbuka yang memungkinkan Anda untuk memilih penyedia hosting sendiri. Jika Anda seorang developer, Anda dapat membuat server milik Anda sendiri."
+msgstr "Bluesky adalah jaringan terbuka yang memungkinkan Anda untuk memilih penyedia hosting sendiri. Jika Anda seorang developer, Anda dapat menggunakan server milik Anda sendiri."
 
 #: src/components/ProgressGuide/List.tsx:55
 msgid "Bluesky is better with friends!"
@@ -3552,7 +3552,7 @@ msgstr "Media"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:208
 msgid "Media that may be disturbing or inappropriate for some audiences."
-msgstr "Media yang mungkin mengusik atau tidak pantas untuk sebagian orang."
+msgstr "Media yang mungkin mengganggu atau tidak pantas untuk sebagian orang."
 
 #: src/components/WhoCanReply.tsx:254
 msgid "mentioned users"
@@ -7238,7 +7238,7 @@ msgstr "Pengaturan video"
 
 #: src/view/com/composer/Composer.tsx:1354
 msgid "Video uploaded"
-msgstr "Video telah diunggah"
+msgstr "Video telah terunggah"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:84
 msgid "Video: {0}"
