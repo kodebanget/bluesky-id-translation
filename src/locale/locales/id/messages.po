@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-17 07:16\n"
+"PO-Revision-Date: 2024-11-18 12:35\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -135,7 +135,7 @@ msgstr "{0} orang telah menggunakan paket pemula ini!"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:203
 msgid "{0} unread items"
-msgstr ""
+msgstr "{0} item belum dibaca"
 
 #: src/view/com/util/UserAvatar.tsx:435
 msgid "{0}'s avatar"
@@ -176,7 +176,7 @@ msgstr "{0}d"
 
 #: src/view/shell/bottom-bar/BottomBarWeb.tsx:252
 msgid "{badge} unread items"
-msgstr ""
+msgstr "{badge} item belum dibaca"
 
 #: src/components/LabelingServiceCard/index.tsx:96
 msgid "{count, plural, one {Liked by # user} other {Liked by # users}}"
@@ -184,7 +184,7 @@ msgstr "{count, plural, other {Disukai oleh # pengguna}}"
 
 #: src/view/shell/desktop/LeftNav.tsx:223
 msgid "{count} unread items"
-msgstr ""
+msgstr "{count} item belum dibaca"
 
 #: src/lib/generate-starterpack.ts:108
 #: src/screens/StarterPack/Wizard/index.tsx:183
