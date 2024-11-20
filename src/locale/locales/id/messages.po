@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-20 04:31\n"
+"PO-Revision-Date: 2024-11-20 10:37\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -201,7 +201,7 @@ msgstr "{estimatedTimeMins, plural, other {menit}}"
 
 #: src/view/com/notifications/FeedItem.tsx:300
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> followed you"
-msgstr ""
+msgstr "{firstAuthorLink} dan <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} lainnya} other {{formattedAuthorsCount} lainnya}}</0> mengikuti Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:326
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> liked your custom feed"
@@ -245,11 +245,11 @@ msgstr "{firstAuthorLink} mendaftar dengan paket pemula Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:293
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} followed you"
-msgstr ""
+msgstr "{firstAuthorName} dan {additionalAuthorsCount, plural, one {{formattedAuthorsCount} lainnya} other {{formattedAuthorsCount} lainnya}} mengikuti Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:319
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your custom feed"
-msgstr ""
+msgstr "{firstAuthorName} dan {additionalAuthorsCount, plural, one {{formattedAuthorsCount} lainnya} other {{formattedAuthorsCount} lainnya}} menyukai feed kustom Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:215
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your post"
@@ -354,7 +354,7 @@ msgstr "<0>{date}</0> pukul {time}"
 
 #: src/screens/Settings/NotificationSettings.tsx:72
 msgid "<0>Experimental:</0> When this preference is enabled, you'll only receive reply and quote notifications from users you follow. We'll continue to add more controls here over time."
-msgstr ""
+msgstr "<0>Eksperimental:</0> Jika preferensi ini diaktifkan, Anda hanya akan menerima notifikasi balasan dan kutipan dari pengguna yang Anda ikuti. Kami akan menambah lebih banyak kontrol di sini seiring waktu."
 
 #: src/screens/StarterPack/Wizard/index.tsx:466
 msgid "<0>You</0> and<1> </1><2>{0} </2>are included in your starter pack"
@@ -937,12 +937,12 @@ msgstr "Minimal 3 karakter"
 
 #: src/screens/Settings/AccessibilitySettings.tsx:98
 msgid "Autoplay options have moved to the <0>Content and Media settings</0>."
-msgstr ""
+msgstr "Pilihan putar otomatis telah pindah pada <0>Pengaturan Konten dan Media </0>."
 
 #: src/screens/Settings/ContentAndMediaSettings.tsx:89
 #: src/screens/Settings/ContentAndMediaSettings.tsx:95
 msgid "Autoplay videos and GIFs"
-msgstr "Mulai otomatis video dan GIF"
+msgstr "Putar otomatis video dan GIF"
 
 #: src/components/dms/MessagesListHeader.tsx:75
 #: src/components/moderation/LabelsOnMeDialog.tsx:290
@@ -975,7 +975,7 @@ msgstr "Sebelum membuat daftar, Anda harus memverifikasi email Anda terlebih dah
 
 #: src/view/com/composer/Composer.tsx:591
 msgid "Before creating a post, you must first verify your email."
-msgstr ""
+msgstr "Sebelum membuat postingan, Anda harus verifikasi email Anda terlebih dahulu."
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:340
 msgid "Before creating a starter pack, you must first verify your email."
@@ -985,7 +985,7 @@ msgstr "Sebelum membuat paket pemula, Anda harus memverifikasi email Anda terleb
 #: src/components/dms/MessageProfileButton.tsx:89
 #: src/screens/Messages/Conversation.tsx:219
 msgid "Before you may message another user, you must first verify your email."
-msgstr ""
+msgstr "Sebelum Anda dapat mengirim pesan ke pengguna lain, Anda harus memverifikasi email Anda."
 
 #: src/components/dialogs/BirthDateSettings.tsx:106
 #: src/screens/Settings/AccountSettings.tsx:102
@@ -1742,7 +1742,7 @@ msgstr "Salin DID"
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:405
 msgid "Copy host"
-msgstr ""
+msgstr "Salin host"
 
 #: src/components/StarterPack/ShareDialog.tsx:124
 msgid "Copy link"
@@ -2267,7 +2267,7 @@ msgstr "contoh: Langit Kresna"
 
 #: src/view/com/modals/EditProfile.tsx:180
 msgid "e.g. Alice Roberts"
-msgstr ""
+msgstr "contoh: Langit Kresna"
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:357
 msgid "e.g. alice.com"
@@ -2275,7 +2275,7 @@ msgstr "contoh: kresna.com"
 
 #: src/view/com/modals/EditProfile.tsx:198
 msgid "e.g. Artist, dog-lover, and avid reader."
-msgstr ""
+msgstr "contoh: Seniman, pecinta anjing, dan gemar membaca."
 
 #: src/lib/moderation/useGlobalLabelStrings.ts:43
 msgid "E.g. artistic nudes."
@@ -2696,7 +2696,7 @@ msgstr "Ekspor Data Saya"
 #: src/screens/Settings/ContentAndMediaSettings.tsx:65
 #: src/screens/Settings/ContentAndMediaSettings.tsx:68
 msgid "External media"
-msgstr ""
+msgstr "Media Eksternal"
 
 #: src/components/dialogs/EmbedConsent.tsx:54
 #: src/components/dialogs/EmbedConsent.tsx:58
@@ -3063,7 +3063,7 @@ msgstr "Untuk alasan keamanan, kami akan mengirimkan kode konfirmasi ke alamat e
 
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:209
 msgid "For security reasons, you won't be able to view this again. If you lose this app password, you'll need to generate a new one."
-msgstr ""
+msgstr "Untuk alasan keamanan, Anda tidak akan dapat melihat ini lagi. Jika Anda lupa sandi aplikasi ini, Anda harus membuat yang baru."
 
 #: src/view/com/modals/AddAppPasswords.tsx:233
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
@@ -3264,7 +3264,7 @@ msgstr "Beri tahu orang-orang bahwa Anda bukan bot dengan mengunggah gambar atau
 
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:187
 msgid "Here is your app password!"
-msgstr ""
+msgstr "Berikut adalah sandi aplikasi Anda!"
 
 #: src/view/com/modals/AddAppPasswords.tsx:204
 #~ msgid "Here is your app password."
@@ -3416,7 +3416,7 @@ msgstr "Jika Anda menghapus daftar ini, Anda tidak dapat memulihkannya lagi."
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:247
 msgid "If you have your own domain, you can use that as your handle. This lets you self-verify your identity – <0>learn more</0>."
-msgstr ""
+msgstr "Jika Anda memiliki domain sendiri, Anda dapat menggunakannya sebagai panggilan. Dengan demikian, Anda dapat swa-verifikasi identitas Anda – <0>pelajari lebih lanjut</0>."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:670
 msgid "If you remove this post, you won't be able to recover it."
@@ -4372,7 +4372,7 @@ msgstr "Gambar berikutnya"
 
 #: src/screens/Settings/AppPasswords.tsx:100
 msgid "No app passwords yet"
-msgstr ""
+msgstr "Tidak ada sandi aplikasi"
 
 #: src/view/screens/ProfileFeed.tsx:565
 #: src/view/screens/ProfileList.tsx:882
@@ -4611,7 +4611,7 @@ msgstr "Pengaturan ulang orientasi"
 
 #: src/view/com/composer/Composer.tsx:323
 msgid "One or more GIFs is missing alt text."
-msgstr ""
+msgstr "Satu atau beberapa GIF belum memiliki teks alt."
 
 #: src/view/com/composer/Composer.tsx:320
 msgid "One or more images is missing alt text."
@@ -4619,7 +4619,7 @@ msgstr "Satu atau beberapa gambar belum memiliki teks alt."
 
 #: src/view/com/composer/Composer.tsx:330
 msgid "One or more videos is missing alt text."
-msgstr ""
+msgstr "Satu atau beberapa video belum memiliki teks alt."
 
 #: src/screens/Onboarding/StepProfile/index.tsx:115
 msgid "Only .jpg and .png files are supported"
@@ -4669,7 +4669,7 @@ msgstr "Buka pembuat avatar"
 
 #: src/screens/Settings/AccountSettings.tsx:120
 msgid "Open change handle dialog"
-msgstr ""
+msgstr "Buka dialog ubah panggilan"
 
 #: src/screens/Messages/components/ChatListItem.tsx:272
 #: src/screens/Messages/components/ChatListItem.tsx:273
@@ -4688,7 +4688,7 @@ msgstr "Buka menu opsi feed"
 
 #: src/screens/Settings/Settings.tsx:200
 msgid "Open helpdesk in browser"
-msgstr ""
+msgstr "Buka staf dukungan dalam peramban"
 
 #: src/view/com/util/post-embeds/ExternalLinkEmbed.tsx:71
 msgid "Open link to {niceUrl}"
@@ -4704,7 +4704,7 @@ msgstr "Buka opsi pesan"
 
 #: src/screens/Settings/Settings.tsx:321
 msgid "Open moderation debug page"
-msgstr ""
+msgstr "Buka halaman debug moderasi"
 
 #: src/screens/Moderation/index.tsx:225
 msgid "Open muted words and tags settings"
@@ -5072,7 +5072,7 @@ msgstr "Harap konfirmasi email Anda sebelum mengubahnya. Ini adalah persyaratan 
 
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:114
 msgid "Please enter a unique name for this app password or use our randomly generated one."
-msgstr ""
+msgstr "Mohon masukan nama unik untuk sandi aplikasi ini atau gunakan yang kami buat secara acak."
 
 #: src/view/com/modals/AddAppPasswords.tsx:151
 #~ msgid "Please enter a unique name for this App Password or use our randomly generated one."
@@ -5395,7 +5395,7 @@ msgstr "Acak (alias \"Rolet Pemosting\")"
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:566
 msgid "Rate limit exceeded – you've tried to change your handle too many times in a short period. Please wait a minute before trying again."
-msgstr ""
+msgstr "Melebihi pembatasan laju - Anda mencoba untuk mengubah panggilan Anda terlalu sering dalam waktu singkat. Harap tunggu sebentar sebelum mencoba lagi."
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:585
 #: src/view/com/util/forms/PostDropdownBtn.tsx:595
@@ -5780,7 +5780,7 @@ msgstr "Wajibkan teks alt sebelum memposting"
 
 #: src/screens/Settings/components/Email2FAToggle.tsx:54
 msgid "Require an email code to log in to your account."
-msgstr ""
+msgstr "Diperlukan kode email untuk masuk ke akun Anda."
 
 #: src/view/screens/Settings/Email2FAToggle.tsx:51
 #~ msgid "Require email code to log into your account"
@@ -5960,7 +5960,7 @@ msgstr "Disimpan ke daftar feed Anda"
 
 #: src/view/com/modals/EditProfile.tsx:220
 msgid "Saves any changes to your profile"
-msgstr ""
+msgstr "Simpan setiap perubahan pada profil Anda"
 
 #: src/view/com/modals/ChangeHandle.tsx:159
 #~ msgid "Saves handle change to {handle}"
@@ -6389,7 +6389,7 @@ msgstr "Tampilkan balasan yang disembunyikan"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:796
 msgid "Show information about when this post was created"
-msgstr ""
+msgstr "Tampilkan informasi tentang kapan postingan ini dibuat"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:491
 #: src/view/com/util/forms/PostDropdownBtn.tsx:493
@@ -6417,7 +6417,7 @@ msgstr "Tampilkan balasan yang dibisukan"
 
 #: src/screens/Settings/Settings.tsx:96
 msgid "Show other accounts you can switch to"
-msgstr ""
+msgstr "Tampilkan akun lainnya yang Anda akan ganti"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:155
 #~ msgid "Show Posts from My Feeds"
@@ -6443,7 +6443,7 @@ msgstr "Tampilkan balasan"
 
 #: src/screens/Settings/ThreadPreferences.tsx:113
 msgid "Show replies by people you follow before all other replies"
-msgstr ""
+msgstr "Tampilkan balasan dari orang yang Anda ikuti sebelum semua balasan lainnya"
 
 #: src/view/screens/PreferencesThreads.tsx:95
 #~ msgid "Show replies by people you follow before all other replies."
@@ -6451,7 +6451,7 @@ msgstr ""
 
 #: src/screens/Settings/ThreadPreferences.tsx:138
 msgid "Show replies in a threaded view"
-msgstr ""
+msgstr "Tampilkan balasan pada tampilan berulir"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:559
 #: src/view/com/util/forms/PostDropdownBtn.tsx:569
@@ -6974,7 +6974,7 @@ msgstr "Video yang dipilih lebih besar dari 50MB."
 
 #: src/lib/strings/errors.ts:18
 msgid "The server appears to be experiencing issues. Please try again in a few moments."
-msgstr ""
+msgstr "Server tampaknya mengalami masalah. Silahkan coba lagi dalam beberapa saat."
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:725
 msgid "The starter pack that you are trying to view is invalid. You may delete this starter pack instead."
@@ -7035,7 +7035,7 @@ msgstr "Ada masalah saat mengambil daftar. Ketuk di sini untuk mencoba lagi."
 
 #: src/screens/Settings/AppPasswords.tsx:52
 msgid "There was an issue fetching your app passwords"
-msgstr ""
+msgstr "Terjadi kesalahan saat mengambil sandi aplikasi Anda"
 
 #: src/view/com/feeds/ProfileFeedgens.tsx:150
 #: src/view/com/lists/ProfileLists.tsx:149
@@ -7044,7 +7044,7 @@ msgstr "Ada masalah saat mengambil daftar Anda. Ketuk di sini untuk mencoba lagi
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:102
 msgid "There was an issue fetching your service info"
-msgstr ""
+msgstr "Terjadi kesalahan saat mengambil info layanan Anda"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:145
 msgid "There was an issue removing this feed. Please check your internet connection and try again."
