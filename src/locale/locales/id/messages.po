@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-20 10:37\n"
+"PO-Revision-Date: 2024-11-21 10:23\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -506,7 +506,7 @@ msgstr "Tambahkan teks alt (opsional)"
 #: src/screens/Settings/Settings.tsx:364
 #: src/screens/Settings/Settings.tsx:367
 msgid "Add another account"
-msgstr "Tambahkan akun baru"
+msgstr "Tambahkan akun lain"
 
 #: src/view/com/composer/Composer.tsx:713
 msgid "Add another post"
@@ -1696,7 +1696,7 @@ msgstr "Disalin"
 
 #: src/screens/Settings/AboutSettings.tsx:66
 msgid "Copied build version to clipboard"
-msgstr "Versi build disalin ke papan klip"
+msgstr "Versi aplikasi disalin ke papan klip"
 
 #: src/components/dms/MessageMenu.tsx:57
 #: src/lib/sharing.ts:25
