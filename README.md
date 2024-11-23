@@ -1,3 +1,6 @@
+
+![bluesky indo trim](https://github.com/user-attachments/assets/8177d6a2-965f-4841-9170-2d1debc4109b)
+
 [![Crowdin](https://badges.crowdin.net/bluesky-id/localized.svg)](https://crowdin.com/project/bluesky-id)
 
 Selamat datang di proyek penerjemahan antarmuka Bluesky ke dalam bahasa Indonesia. Proyek urun daya ini dibuat dan dikelola sepenuhnya oleh komunitas untuk mempermudah kolaborasi dalam penerjemahan. Proyek ini terbuka bagi siapa pun yang ingin berkontribusi secara sukarela untuk mengusulkan atau memperbaiki terjemahan melalui platform Crowdin.
