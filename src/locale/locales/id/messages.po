@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-23 07:18\n"
+"PO-Revision-Date: 2024-11-23 17:11\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6470,7 +6470,7 @@ msgstr "Tampilkan posting ulang"
 #: src/screens/Settings/FollowingFeedPreferences.tsx:122
 #: src/screens/Settings/FollowingFeedPreferences.tsx:132
 msgid "Show samples of your saved feeds in your Following feed"
-msgstr "Tampilkan sampel dari feed yang Anda simpan di feed Mengikuti"
+msgstr "Tampilkan beberapa postingan dari feed yang Anda simpan di feed Mengikuti"
 
 #: src/components/moderation/ContentHider.tsx:130
 #: src/components/moderation/PostHider.tsx:79
