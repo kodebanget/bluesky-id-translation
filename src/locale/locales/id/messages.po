@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-23 17:11\n"
+"PO-Revision-Date: 2024-11-23 23:48\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -229,7 +229,7 @@ msgstr "{firstAuthorLink} mengikuti Anda kembali"
 
 #: src/view/com/notifications/FeedItem.tsx:338
 msgid "{firstAuthorLink} liked your custom feed"
-msgstr "{firstAuthorLink} menyukai feed buatan Anda"
+msgstr "{firstAuthorLink} menyukai feed kustom Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:234
 msgid "{firstAuthorLink} liked your post"
@@ -249,7 +249,7 @@ msgstr "{firstAuthorName} dan {additionalAuthorsCount, plural, other {{formatted
 
 #: src/view/com/notifications/FeedItem.tsx:319
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your custom feed"
-msgstr "{firstAuthorName} dan {additionalAuthorsCount, plural, one {{formattedAuthorsCount} lainnya} other {{formattedAuthorsCount} lainnya}} menyukai feed buatan Anda"
+msgstr "{firstAuthorName} dan {additionalAuthorsCount, plural, other {{formattedAuthorsCount} lainnya}} menyukai feed kustom Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:215
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your post"
@@ -273,7 +273,7 @@ msgstr "{firstAuthorName} mengikuti Anda kembali"
 
 #: src/view/com/notifications/FeedItem.tsx:324
 msgid "{firstAuthorName} liked your custom feed"
-msgstr "{firstAuthorName} menyukai feed yang Anda buat"
+msgstr "{firstAuthorName} menyukai feed kustom Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:220
 msgid "{firstAuthorName} liked your post"
@@ -1075,7 +1075,7 @@ msgstr "Bluesky"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:850
 msgid "Bluesky cannot confirm the authenticity of the claimed date."
-msgstr "Bluesky tidak dapat memastikan keaslian tanggal yang disebutkan."
+msgstr "Bluesky tidak dapat memastikan keaslian tanggal yang diklaim."
 
 #: src/view/com/auth/server-input/index.tsx:151
 msgid "Bluesky is an open network where you can choose your hosting provider. If you're a developer, you can host your own server."
@@ -1350,7 +1350,7 @@ msgstr "Periksa kotak masuk email Anda untuk kode konfirmasi dan masukkan di baw
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:370
 msgid "Choose domain verification method"
-msgstr "Pilih cara verifikasi domain"
+msgstr "Pilih metode verifikasi domain"
 
 #: src/screens/StarterPack/Wizard/index.tsx:199
 msgid "Choose Feeds"
@@ -7228,7 +7228,7 @@ msgstr "Layanan moderasi ini tidak tersedia. Lihat detail lebih lanjut di bawah.
 
 #: src/view/com/post-thread/PostThreadItem.tsx:836
 msgid "This post claims to have been created on <0>{0}</0>, but was first seen by Bluesky on <1>{1}</1>."
-msgstr "Postingan ini mengklaim telah dibuat pada <0>{0}</0>, tetapi pertama kali dilihat oleh Bluesky pada <1>{1}</1>."
+msgstr "Postingan ini mengklaim dibuat pada <0>{0}</0>, tetapi baru terlihat di Bluesky pada <1>{1}</1>."
 
 #: src/view/com/post-thread/PostThreadItem.tsx:147
 msgid "This post has been deleted."
@@ -8134,7 +8134,7 @@ msgstr "Penulis"
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:337
 msgid "Wrong DID returned from server. Received: {0}"
-msgstr "DID yang salah dikembalikan dari server. Diterima: {0}"
+msgstr "DID yang dikembalikan dari server salah: {0}"
 
 #: src/view/com/composer/select-language/SuggestedLanguage.tsx:78
 msgid "Yes"
