@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-22 17:20\n"
+"PO-Revision-Date: 2024-11-23 01:32\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -5072,7 +5072,7 @@ msgstr "Harap konfirmasi email Anda sebelum mengubahnya. Ini adalah persyaratan 
 
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:114
 msgid "Please enter a unique name for this app password or use our randomly generated one."
-msgstr "Mohon masukan nama unik untuk sandi aplikasi ini atau gunakan yang kami buat secara acak."
+msgstr "Silakan masukan nama unik untuk sandi aplikasi ini atau gunakan yang kami buat secara acak."
 
 #: src/view/com/modals/AddAppPasswords.tsx:151
 #~ msgid "Please enter a unique name for this App Password or use our randomly generated one."
@@ -7839,7 +7839,7 @@ msgstr "Pengaturan video"
 
 #: src/view/com/composer/Composer.tsx:1626
 msgid "Video uploaded"
-msgstr "Video berhasil diunggah"
+msgstr "Video diunggah"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:84
 msgid "Video: {0}"
@@ -8520,7 +8520,7 @@ msgstr "Postingan Anda telah dipublikasikan"
 
 #: src/view/com/composer/Composer.tsx:459
 msgid "Your posts have been published"
-msgstr "Postingan Anda telah diterbitkan"
+msgstr "Postingan Anda telah dipublikasikan"
 
 #: src/screens/Onboarding/StepFinished.tsx:246
 msgid "Your posts, likes, and blocks are public. Mutes are private."
