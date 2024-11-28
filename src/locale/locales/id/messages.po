@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-27 05:02\n"
+"PO-Revision-Date: 2024-11-28 03:59\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1228,7 +1228,7 @@ msgstr "Batal memotong gambar"
 
 #: src/view/com/modals/EditProfile.tsx:239
 msgid "Cancel profile editing"
-msgstr "Batal mengubah profil"
+msgstr "Batal mengedit profil"
 
 #: src/view/com/util/post-ctrls/RepostButton.tsx:197
 msgid "Cancel quote post"
@@ -2358,7 +2358,7 @@ msgstr "Ubah Daftar Feed"
 
 #: src/view/com/modals/EditProfile.tsx:147
 msgid "Edit my profile"
-msgstr "Ubah profil saya"
+msgstr "Edit profil saya"
 
 #: src/components/StarterPack/Wizard/WizardEditListDialog.tsx:109
 msgid "Edit People"
