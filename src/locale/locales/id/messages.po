@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-11-28 10:43\n"
+"PO-Revision-Date: 2024-11-30 00:48\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -7215,7 +7215,7 @@ msgstr "Feed ini tidak lagi online. Kami akan menampilkan <0>Discover</0> sebaga
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:558
 msgid "This handle is reserved. Please try a different one."
-msgstr "Panggilan ini sudah dicadangkan. Silakan coba yang lain."
+msgstr "Panggilan ini sudah digunakan. Silakan coba yang lain."
 
 #: src/components/dialogs/BirthDateSettings.tsx:40
 msgid "This information is not shared with other users."
