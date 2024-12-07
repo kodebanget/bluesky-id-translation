@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-04 13:05\n"
+"PO-Revision-Date: 2024-12-07 13:31\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -205,7 +205,7 @@ msgstr "{firstAuthorLink} dan <0>{additionalAuthorsCount, plural, other {{format
 
 #: src/view/com/notifications/FeedItem.tsx:326
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> liked your custom feed"
-msgstr "{firstAuthorLink} dan <0>{additionalAuthorsCount, plural, other {{formattedAuthorsCount} lainnya}}</0> menyukai penyesuaian feed Anda"
+msgstr "{firstAuthorLink} dan <0>{additionalAuthorsCount, plural, other {{formattedAuthorsCount} lainnya}}</0> menyukai feed kustom Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:222
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> liked your post"
@@ -249,7 +249,7 @@ msgstr "{firstAuthorName} dan {additionalAuthorsCount, plural, other {{formatted
 
 #: src/view/com/notifications/FeedItem.tsx:319
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your custom feed"
-msgstr "{firstAuthorName} dan {additionalAuthorsCount, plural, other {{formattedAuthorsCount} lainnya}} menyukai penyesuaian feed Anda"
+msgstr "{firstAuthorName} dan {additionalAuthorsCount, plural, other {{formattedAuthorsCount} lainnya}} menyukai feed kustom Anda"
 
 #: src/view/com/notifications/FeedItem.tsx:215
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your post"
@@ -986,7 +986,7 @@ msgstr "Untuk membuat paket pemula, harap verifikasi email Anda terlebih dahulu.
 #: src/components/dms/MessageProfileButton.tsx:89
 #: src/screens/Messages/Conversation.tsx:210
 msgid "Before you may message another user, you must first verify your email."
-msgstr "Untuk dapat mengirim pesan ke pengguna lain, harap verifikasi email Anda terlebih dahulu."
+msgstr "Sebelum Anda dapat mengirim pesan ke pengguna lain, Anda harus memverifikasi email Anda."
 
 #: src/components/dialogs/BirthDateSettings.tsx:106
 #: src/screens/Settings/AccountSettings.tsx:101
@@ -4395,7 +4395,7 @@ msgstr "Gambar berikutnya"
 
 #: src/screens/Settings/AppPasswords.tsx:100
 msgid "No app passwords yet"
-msgstr "Belum ada sandi aplikasi"
+msgstr "Tidak ada sandi aplikasi"
 
 #: src/view/screens/ProfileFeed.tsx:565
 #: src/view/screens/ProfileList.tsx:882
