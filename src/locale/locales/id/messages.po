@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-07 13:31\n"
+"PO-Revision-Date: 2024-12-12 10:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6083,7 +6083,7 @@ msgstr "Lihat panduan ini"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/web-controls/Scrubber.tsx:190
 msgid "Seek slider. Use the arrow keys to seek forwards and backwards, and space to play/pause"
-msgstr "Geser bilah. Gunakan tombol panah untuk memajukan dan memundurkan, dan spasi untuk mulai/jeda"
+msgstr "Geser bilah. Gunakan tombol panah untuk menggeser ke depan dan ke belakang, dan spasi untuk memutar/menjeda"
 
 #: src/view/com/util/Selector.tsx:107
 #~ msgid "Select {item}"
