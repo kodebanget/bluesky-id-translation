@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-17 04:53\n"
+"PO-Revision-Date: 2024-12-17 11:49\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3515,7 +3515,7 @@ msgstr "Masukkan kata sandi Anda"
 
 #: src/screens/Signup/StepHandle.tsx:114
 msgid "Type your desired username"
-msgstr ""
+msgstr "Ketik nama pengguna yang Anda diinginkan"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:49
 msgid "Interaction limited"
@@ -8549,7 +8549,7 @@ msgstr "Feed mengikuti Anda kosong! Ikuti lebih banyak pengguna untuk melihat ap
 
 #: src/screens/Signup/StepHandle.tsx:125
 msgid "Your full username will be"
-msgstr ""
+msgstr "Nama pengguna lengkap Anda akan menjadi"
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:219
 msgid "Your full handle will be <0>@{0}</0>"
@@ -8593,5 +8593,5 @@ msgstr "Laporan Anda akan dikirim ke Layanan Moderasi Bluesky"
 
 #: src/screens/Signup/index.tsx:142
 msgid "Choose your username"
-msgstr ""
+msgstr "Pilih nama pengguna Anda"
 
