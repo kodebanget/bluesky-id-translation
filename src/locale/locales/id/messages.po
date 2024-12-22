@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-19 04:50\n"
+"PO-Revision-Date: 2024-12-22 15:11\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -569,7 +569,7 @@ msgstr "Tambahkan postingan baru"
 #: src/view/screens/ProfileList.tsx:899
 #: src/view/screens/ProfileList.tsx:917
 msgid "Add people"
-msgstr ""
+msgstr "Tambahkan orang"
 
 #: src/screens/Home/NoFeedsPinned.tsx:99
 msgid "Add recommended feeds"
@@ -643,7 +643,7 @@ msgstr "Lanjutan"
 
 #: src/view/screens/Notifications.tsx:86
 msgid "All"
-msgstr ""
+msgstr "Semua"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:381
 msgid "All accounts have been followed!"
