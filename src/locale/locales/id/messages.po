@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-22 21:24\n"
+"PO-Revision-Date: 2024-12-23 11:18\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1420,7 +1420,7 @@ msgstr "Obrolan dibisukan"
 #: src/components/dms/ConvoMenu.tsx:112
 #: src/components/dms/MessageMenu.tsx:81
 #: src/Navigation.tsx:393
-#: src/screens/Messages/ChatList.tsx:244
+#: src/screens/Messages/ChatList.tsx:246
 msgid "Chat settings"
 msgstr "Pengaturan obrolan"
 
@@ -4196,8 +4196,8 @@ msgstr "Pesan terlalu panjang"
 #~ msgstr ""
 
 #: src/Navigation.tsx:609
-#: src/screens/Messages/ChatList.tsx:260
-#: src/screens/Messages/ChatList.tsx:284
+#: src/screens/Messages/ChatList.tsx:262
+#: src/screens/Messages/ChatList.tsx:286
 msgid "Messages"
 msgstr "Pesan"
 
@@ -4489,8 +4489,8 @@ msgstr "Baru"
 #~ msgstr ""
 
 #: src/components/dms/dialogs/NewChatDialog.tsx:65
-#: src/screens/Messages/ChatList.tsx:267
-#: src/screens/Messages/ChatList.tsx:274
+#: src/screens/Messages/ChatList.tsx:269
+#: src/screens/Messages/ChatList.tsx:276
 msgid "New chat"
 msgstr "Obrolan baru"
 
@@ -4635,7 +4635,7 @@ msgstr "Tidak lebih dari 253 karakter"
 msgid "No messages yet"
 msgstr "Belum ada pesan"
 
-#: src/screens/Messages/ChatList.tsx:223
+#: src/screens/Messages/ChatList.tsx:225
 msgid "No more conversations to show"
 msgstr "Tidak ada percakapan lain untuk ditampilkan"
 
@@ -4748,7 +4748,7 @@ msgstr "Catatan tentang berbagi"
 msgid "Note: Bluesky is an open and public network. This setting only limits the visibility of your content on the Bluesky app and website, and other apps may not respect this setting. Your content may still be shown to logged-out users by other apps and websites."
 msgstr "Catatan: Bluesky merupakan jaringan terbuka dan publik. Pengaturan ini hanya membatasi visibilitas konten Anda pada aplikasi dan situs web Bluesky. Konten Anda mungkin tetap ditampilkan oleh aplikasi atau situs web lain kepada pengguna yang tidak masuk."
 
-#: src/screens/Messages/ChatList.tsx:178
+#: src/screens/Messages/ChatList.tsx:180
 msgid "Nothing here"
 msgstr "Kosong"
 
@@ -6123,6 +6123,7 @@ msgstr "Mencoba kembali tindakan terakhir yang gagal"
 #: src/components/StarterPack/ProfileStarterPacks.tsx:336
 #: src/screens/Login/LoginForm.tsx:305
 #: src/screens/Login/LoginForm.tsx:312
+#: src/screens/Messages/ChatList.tsx:169
 #: src/screens/Messages/components/MessageListError.tsx:25
 #: src/screens/Onboarding/StepInterests/index.tsx:217
 #: src/screens/Onboarding/StepInterests/index.tsx:220
@@ -8635,7 +8636,7 @@ msgstr "Anda dapat mengaktifkan kembali akun Anda untuk melanjutkan masuk. Profi
 #: src/screens/Search/components/ExploreTrendingTopics.tsx:131
 #: src/view/shell/desktop/SidebarTrendingTopics.tsx:104
 msgid "You can update this later from your settings."
-msgstr ""
+msgstr "Anda bisa mengubahnya kapanpun dari pengaturan."
 
 #: src/view/com/profile/ProfileFollowers.tsx:94
 msgid "You do not have any followers."
@@ -8695,7 +8696,7 @@ msgstr "Anda telah membisukan akun ini."
 msgid "You have muted this user"
 msgstr "Anda telah membisukan pengguna ini"
 
-#: src/screens/Messages/ChatList.tsx:188
+#: src/screens/Messages/ChatList.tsx:190
 msgid "You have no conversations yet. Start one!"
 msgstr "Anda belum memiliki percakapan. Mulai sekarang!"
 
