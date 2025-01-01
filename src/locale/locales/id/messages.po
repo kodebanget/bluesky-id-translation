@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-01-01 04:53\n"
+"PO-Revision-Date: 2025-01-01 11:13\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1575,7 +1575,7 @@ msgstr "Tutup dialog"
 #: src/view/com/composer/text-input/web/EmojiPicker.web.tsx:137
 #: src/view/com/composer/text-input/web/EmojiPicker.web.tsx:173
 msgid "Close emoji picker"
-msgstr ""
+msgstr "Tutup pemilih emoji"
 
 #: src/components/dialogs/GifSelect.tsx:169
 msgid "Close GIF dialog"
@@ -1981,7 +1981,7 @@ msgstr "Dibuat pada {0}"
 
 #: src/screens/List/ListHiddenScreen.tsx:127
 msgid "Creator has been blocked"
-msgstr ""
+msgstr "Pembuat telah diblokir"
 
 #: src/screens/Onboarding/index.tsx:26
 #: src/screens/Onboarding/state.ts:99
@@ -2051,7 +2051,7 @@ msgstr "Standar"
 
 #: src/screens/Settings/AppIconSettings/index.tsx:75
 msgid "Default icons"
-msgstr ""
+msgstr "Ikon bawaan"
 
 #: src/components/dms/MessageMenu.tsx:151
 #: src/screens/Settings/AppPasswords.tsx:212
@@ -6996,12 +6996,12 @@ msgstr "Mulai obrolan baru"
 #: src/view/screens/ProfileList.tsx:817
 #: src/view/screens/ProfileList.tsx:938
 msgid "Start adding people"
-msgstr ""
+msgstr "Mulai tambahkan orang"
 
 #: src/view/screens/ProfileList.tsx:824
 #: src/view/screens/ProfileList.tsx:945
 msgid "Start adding people!"
-msgstr ""
+msgstr "Mulai tambahkan orang!"
 
 #: src/components/dms/dialogs/SearchablePeopleList.tsx:353
 msgid "Start chat with {displayName}"
@@ -7019,7 +7019,7 @@ msgstr "Paket pemula dari {0}"
 
 #: src/view/com/profile/ProfileSubpageHeader.tsx:182
 msgid "Starter pack by <0/>"
-msgstr ""
+msgstr "Paket pemula oleh <0/>"
 
 #: src/components/StarterPack/StarterPackCard.tsx:80
 #: src/view/com/profile/ProfileSubpageHeader.tsx:180
@@ -7146,12 +7146,12 @@ msgstr "Hanya tagar"
 
 #: src/screens/Settings/AppIconSettings/index.tsx:216
 msgid "Tap to change app icon"
-msgstr ""
+msgstr "Ketuk untuk mengganti ikon aplikasi"
 
 #: src/view/com/composer/text-input/web/EmojiPicker.web.tsx:138
 #: src/view/com/composer/text-input/web/EmojiPicker.web.tsx:174
 msgid "Tap to close the emoji picker"
-msgstr ""
+msgstr "Ketuk untuk menutup pemilih emoji"
 
 #: src/components/ProgressGuide/Toast.tsx:156
 msgid "Tap to dismiss"
@@ -8493,7 +8493,7 @@ msgstr "Apa nama paket pemula Anda?"
 
 #: src/screens/Search/components/ExploreTrendingTopics.tsx:79
 msgid "What people are posting about."
-msgstr ""
+msgstr "Apa yang orang-orang sedang posting."
 
 #: src/view/com/auth/SplashScreen.tsx:38
 #: src/view/com/auth/SplashScreen.web.tsx:99
