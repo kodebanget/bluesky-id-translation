@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-01-01 11:13\n"
+"PO-Revision-Date: 2025-01-06 04:29\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -828,7 +828,7 @@ msgstr "Siapa saja dapat berinteraksi"
 #: src/screens/Settings/AppIconSettings/SettingsListItem.tsx:18
 #: src/screens/Settings/AppIconSettings/SettingsListItem.tsx:23
 msgid "App Icon"
-msgstr "Ikon Aplikasi"
+msgstr "Simbol Aplikasi"
 
 #: src/screens/Settings/LanguageSettings.tsx:80
 msgid "App Language"
