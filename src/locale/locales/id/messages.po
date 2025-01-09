@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-01-09 04:57\n"
+"PO-Revision-Date: 2025-01-09 12:22\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -3602,7 +3602,7 @@ msgstr "Jika Anda menghapus daftar ini, Anda tidak dapat memulihkannya lagi."
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:250
 msgid "If you have your own domain, you can use that as your handle. This lets you self-verify your identity. <0>Learn more here.</0>"
-msgstr ""
+msgstr "Jika Anda memiliki domain sendiri, Anda dapat menggunakannya sebagai panggilan. Ini memungkinkan Anda untuk memverifikasi identitas secara mandiri. <0>Pelajari selengkapnya di sini.</0>"
 
 #: src/view/com/util/forms/PostDropdownBtnMenuItems.tsx:658
 msgid "If you remove this post, you won't be able to recover it."
@@ -5581,11 +5581,11 @@ msgstr "Publik"
 
 #: src/view/com/lists/MyLists.tsx:77
 msgid "Public, sharable lists of users to mute or block in bulk."
-msgstr ""
+msgstr "Daftar terbuka yang dapat dibagikan untuk membisukan atau memblokir pengguna secara massal."
 
 #: src/view/com/lists/MyLists.tsx:72
 msgid "Public, sharable lists which can be used to drive feeds."
-msgstr ""
+msgstr "Daftar terbuka yang dapat dibagikan dan digunakan sebagai feed."
 
 #: src/view/screens/ModerationModlists.tsx:75
 #~ msgid "Public, shareable lists of users to mute or block in bulk."
