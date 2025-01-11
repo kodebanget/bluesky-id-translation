@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-01-09 18:18\n"
+"PO-Revision-Date: 2025-01-11 12:33\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1036,7 +1036,7 @@ msgstr "Untuk membuat paket pemula, harap verifikasi email Anda terlebih dahulu.
 #: src/components/dms/MessageProfileButton.tsx:89
 #: src/screens/Messages/Conversation.tsx:209
 msgid "Before you may message another user, you must first verify your email."
-msgstr "Sebelum Anda dapat mengirim pesan ke pengguna lain, Anda harus memverifikasi email Anda."
+msgstr "Untuk dapat mengirim pesan ke pengguna lain, harap verifikasi email Anda terlebih dahulu."
 
 #: src/screens/Search/components/ExploreTrendingTopics.tsx:74
 msgid "BETA"
@@ -3699,7 +3699,7 @@ msgstr "Catatan postingan tidak valid atau tidak didukung"
 
 #: src/screens/Login/LoginForm.tsx:90
 #: src/screens/Login/LoginForm.tsx:149
-msgid "Invalid username or password"
+msgid "Incorrect username or password"
 msgstr "Nama pengguna atau kata sandi salah"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:91
@@ -5330,7 +5330,7 @@ msgstr "Harap konfirmasi email Anda sebelum mengubahnya. Ini adalah persyaratan 
 
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:114
 msgid "Please enter a unique name for this app password or use our randomly generated one."
-msgstr "Masukkan nama unik untuk sandi aplikasi ini atau gunakan yang kami buat secara acak."
+msgstr "Masukkan nama unik untuk sandi aplikasi ini atau gunakan nama yang kami buat secara acak."
 
 #: src/view/com/modals/AddAppPasswords.tsx:151
 #~ msgid "Please enter a unique name for this App Password or use our randomly generated one."
@@ -6061,7 +6061,7 @@ msgstr "Wajibkan teks alt sebelum memposting"
 
 #: src/screens/Settings/components/Email2FAToggle.tsx:54
 msgid "Require an email code to log in to your account."
-msgstr "Membutuhkan kode email untuk masuk ke akun Anda."
+msgstr "Gunakan kode email untuk masuk ke akun Anda."
 
 #: src/view/screens/Settings/Email2FAToggle.tsx:51
 #~ msgid "Require email code to log into your account"
@@ -6357,7 +6357,7 @@ msgstr "Lihat panduan ini"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/web-controls/Scrubber.tsx:194
 msgid "Seek slider. Use the arrow keys to seek forwards and backwards, and space to play/pause"
-msgstr "Geser bilah. Gunakan tombol panah untuk menggeser ke depan dan ke belakang, dan spasi untuk memutar/menjeda"
+msgstr "Tombol geser. Gunakan tombol panah untuk maju dan mundur, dan spasi untuk memutar/menjeda"
 
 #: src/view/com/util/Selector.tsx:107
 #~ msgid "Select {item}"
@@ -7927,7 +7927,7 @@ msgstr "Lepas sematan"
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:519
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:526
 msgid "Unpin feed"
-msgstr ""
+msgstr "Lepaskan feed"
 
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:309
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:311
@@ -7945,7 +7945,7 @@ msgstr "Lepas sematan daftar moderasi"
 
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:164
 msgid "Unpinned {0} from Home"
-msgstr ""
+msgstr "{0} dilepaskan dari Beranda"
 
 #: src/view/screens/ProfileList.tsx:352
 msgid "Unpinned from your feeds"
