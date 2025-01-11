@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-01-11 12:33\n"
+"PO-Revision-Date: 2025-01-11 18:53\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -42,11 +42,11 @@ msgstr "{0, plural, other {# hari}}"
 
 #: src/screens/Profile/ProfileFollowers.tsx:40
 msgid "{0, plural, one {# follower} other {# followers}}"
-msgstr "{0, plural, other {# Pengikut}}"
+msgstr "{0, plural, other {# pengikut}}"
 
 #: src/screens/Profile/ProfileFollows.tsx:40
 msgid "{0, plural, one {# following} other {# following}}"
-msgstr "{0, plural, other {# Mengikuti}}"
+msgstr "{0, plural, other {# mengikuti}}"
 
 #: src/lib/hooks/useTimeAgo.ts:146
 msgid "{0, plural, one {# hour} other {# hours}}"
@@ -62,11 +62,11 @@ msgstr "{0, plural, other {# jam}}"
 
 #: src/components/moderation/LabelsOnMe.tsx:53
 msgid "{0, plural, one {# label has} other {# labels have}} been placed on this account"
-msgstr "{0, plural, other {# label yang}} terpasang pada akun ini"
+msgstr "{0, plural, other {# label}} terpasang pada akun ini"
 
 #: src/components/moderation/LabelsOnMe.tsx:62
 msgid "{0, plural, one {# label has} other {# labels have}} been placed on this content"
-msgstr "{0, plural, other {# label yang}} terpasang pada konten ini"
+msgstr "{0, plural, other {# label}} terpasang pada konten ini"
 
 #: src/screens/Post/PostLikedBy.tsx:41
 msgid "{0, plural, one {# like} other {# likes}}"
@@ -665,7 +665,7 @@ msgstr "Izinkan pesan baru dari"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:314
 msgid "Allow quote posts"
-msgstr "Izinkan posting kutipan"
+msgstr "Izinkan kutipan"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:359
 msgid "Allow replies from:"
@@ -2138,7 +2138,7 @@ msgstr "Dihapus"
 #: src/components/dms/MessagesListHeader.tsx:148
 #: src/screens/Messages/components/ChatListItem.tsx:107
 msgid "Deleted Account"
-msgstr "Akun terhapus"
+msgstr "Akun Telah Dihapus"
 
 #: src/view/com/post-thread/PostThread.tsx:450
 msgid "Deleted post."
@@ -4103,7 +4103,7 @@ msgstr "Masuk ke akun yang tidak tercantum dalam daftar"
 
 #: src/view/shell/desktop/RightNav.tsx:121
 msgid "Logo by @sawaratsuki.bsky.social"
-msgstr "Logo dari @sawaratsuki.bsky.social"
+msgstr "Logo oleh @sawaratsuki.bsky.social"
 
 #: src/view/shell/desktop/RightNav.tsx:103
 #~ msgid "Logo by <0/>"
@@ -4928,7 +4928,7 @@ msgstr "Buka pemilih emoji"
 
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:190
 msgid "Open feed info screen"
-msgstr "Buka tampilan info feed"
+msgstr "Buka halaman info feed"
 
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:290
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:295
@@ -5269,7 +5269,7 @@ msgstr "Disematkan"
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:162
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:174
 msgid "Pinned {0} to Home"
-msgstr "Sematkan {0} ke Beranda"
+msgstr "{0} disematkan ke Beranda"
 
 #: src/view/screens/SavedFeeds.tsx:123
 msgid "Pinned Feeds"
@@ -6282,7 +6282,7 @@ msgstr "Cari"
 
 #: src/components/ProgressGuide/FollowDialog.tsx:745
 msgid "Search by name or interest"
-msgstr "Cari berdasarkan nama atau kesukaan"
+msgstr "Cari berdasarkan nama atau minat"
 
 #: src/view/screens/Feeds.tsx:441
 msgid "Search feeds"
@@ -7019,7 +7019,7 @@ msgstr "Paket pemula dari {0}"
 
 #: src/view/com/profile/ProfileSubpageHeader.tsx:182
 msgid "Starter pack by <0/>"
-msgstr "Paket pemula oleh <0/>"
+msgstr "Paket pemula dari <0/>"
 
 #: src/components/StarterPack/StarterPackCard.tsx:80
 #: src/view/com/profile/ProfileSubpageHeader.tsx:180
@@ -7679,7 +7679,7 @@ msgstr "Ini akan menghapus postingan Anda dari kutipan ini untuk semua pengguna,
 #: src/view/com/post-thread/PostThread.tsx:606
 #: src/view/com/post-thread/PostThread.tsx:609
 msgid "Thread options"
-msgstr "Opsi utasan"
+msgstr "Opsi utas"
 
 #: src/screens/Settings/ContentAndMediaSettings.tsx:66
 #: src/screens/Settings/ContentAndMediaSettings.tsx:69
@@ -8652,7 +8652,7 @@ msgstr "Anda dapat mengaktifkan kembali akun Anda untuk melanjutkan masuk. Profi
 #: src/screens/Search/components/ExploreTrendingTopics.tsx:136
 #: src/view/shell/desktop/SidebarTrendingTopics.tsx:109
 msgid "You can update this later from your settings."
-msgstr "Anda bisa mengubahnya kapanpun dari pengaturan."
+msgstr "Anda bisa mengubahnya nanti melalui pengaturan."
 
 #: src/view/com/profile/ProfileFollowers.tsx:94
 msgid "You do not have any followers."
@@ -8874,7 +8874,7 @@ msgstr "Anda telah memilih untuk menyembunyikan kata atau tagar dalam postingan 
 
 #: src/state/shell/progress-guide.tsx:234
 msgid "You've found some people to follow"
-msgstr "Anda menemukan seseorang untuk diikuti"
+msgstr "Anda telah menemukan orang-orang untuk diikuti"
 
 #: src/view/com/posts/FollowingEndOfFeed.tsx:44
 msgid "You've reached the end of your feed! Find some more accounts to follow."
