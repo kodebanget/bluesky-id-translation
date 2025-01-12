@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-01-11 18:53\n"
+"PO-Revision-Date: 2025-01-12 01:19\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6533,7 +6533,7 @@ msgstr "Alamat server"
 
 #: src/screens/Settings/AppIconSettings/index.tsx:178
 msgid "Set app icon to {0}"
-msgstr ""
+msgstr "Ubah ikon aplikasi ke {0}"
 
 #: src/screens/Moderation/index.tsx:290
 msgid "Set birthdate"
@@ -6944,7 +6944,7 @@ msgstr "Ada yang tidak beres!"
 
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:538
 msgid "Something wrong? Let us know."
-msgstr ""
+msgstr "Ada masalah? Beri tahu kami."
 
 #: src/App.native.tsx:122
 #: src/App.web.tsx:97
